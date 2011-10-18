@@ -1,4 +1,4 @@
 <!-- BEGIN site/footer -->
-<img src="/static/images/bti_logo_bw.png" />
+<a href="http://bti.cornell.edu/"><img src="/static/images/bti_logo_bw.png" border="0" /></a>
 
 <!-- END site/footer -->
