@@ -23,7 +23,7 @@ body {
 
 #footer {
     background-color: [% site.col.head %];
-    text-align: right;
+    text-align: left;
     border-top: 1px solid [% site.col.line %];
     width: [% site.width %];
     padding: 4px;
