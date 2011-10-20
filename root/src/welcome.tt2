@@ -23,7 +23,7 @@ Search for a specific SMID:
 <tr><td align="center" style="font-size:75%">
 Syntax when searching: "ascr#2" not "ascr # 2" or "ascr #2"
 <input type="checkbox"  name="sitesearch"
- value="smid-db.org" checked /> only search SMID DB <br />
+ value="smid-db.org/browse" checked /> only search SMID DB <br />
 </td></tr></table>
 </div>
 
