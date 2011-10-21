@@ -30,10 +30,24 @@ body {
     margin: 0 auto;
 }
 
-#content {
+#content1 {
     padding: 10px;
     margin: 0 auto;
-    width: [% site.width %];
+    width: 840px;
+}
+
+#content2 {
+    padding: 0px;
+    margin: 0 auto;
+    width: 840px;
+    text-align: center;
+}
+
+#content3 {
+    padding: 0px;
+    margin: 0 auto;
+    width: 840px;
+    text-align: justify;
 }
 
 h1.title {
