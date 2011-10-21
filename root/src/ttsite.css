@@ -4,7 +4,7 @@ html {
 }
 
 body { 
-    background-color: [% site.col.page %];
+    background-image: "/static/images/backgroundimage.png";
     font-family: arial;
     color: [% site.col.text %];
     margin: 0px;
@@ -23,7 +23,6 @@ body {
 
 #footer {
     background-color: [% site.col.head %];
-    background-image: "/static/images/backgroundimage.png";
     text-align: left;
     border-top: 1px solid [% site.col.line %];
     width: [% site.width %];
