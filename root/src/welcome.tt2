@@ -1,6 +1,6 @@
 [% META title = 'SMID-DB.org' %]
 
-<div>
+<div id="content1">
 <h2>Welcome to the <i>C. elegans</i> Small Molecule Identifier Database (SMID DB)</h2>
 <br />
 <b>SMIDs</b> are <u><b>S</u></b>mall <u><b>M</u></b>olecule <u><b>Id</u></b>entifiers that aim to make life easier for describing biogenic small molecules 
