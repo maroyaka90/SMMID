@@ -5,6 +5,7 @@ html {
 
 body { 
     background-color:[% site.col.head %];
+    background-image:url('backgroundimage.png');
     font-family: arial;
     color: [% site.col.text %];
     margin: 0px;
@@ -15,17 +16,15 @@ body {
 
 #header {
     margin: 0 auto;
-    background-color: [% site.col.head %];
     font-color: [% site.col.title %];
     border-bottom: 1px solid [% site.col.line %];
-    width: [% site.width %];
+    width: 840px;
 }
 
 #footer {
-    background-color: [% site.col.head %];
     text-align: left;
     border-top: 1px solid [% site.col.line %];
-    width: [% site.width %];
+    width: 840px;
     padding: 4px;
     margin: 0 auto;
 }
@@ -33,27 +32,27 @@ body {
 #content {
     padding: 10px;
     margin: 0 auto;
-    width: [% site.width %];
+    width: 840px;
 }
 
 
 #content1 {
     padding: 10px;
     margin: 0 auto;
-    width: [% site.width %];
+    width: 840px;
 }
 
 #content2 {
     padding: 0px;
     margin: 0 auto;
-    width: [% site.width %];
+    width: 840px;
     text-align: center;
 }
 
 #content3 {
     padding: 0px;
     margin: 0 auto;
-    width: [% site.width %];
+    width: 840px;
     text-align: justify;
 }
 
