@@ -5,7 +5,7 @@ html {
 
 body { 
     background-color:[% site.col.head %];
-    background-image:url "/static/images/backgroundimage.png";
+    background-image: "/static/images/backgroundimage.png";
     font-family: arial;
     color: [% site.col.text %];
     margin: 0px;
