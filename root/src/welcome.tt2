@@ -5,15 +5,14 @@
 <br />
 <b>SMIDs</b> are <u><b>S</u></b>mall <u><b>M</u></b>olecule <u><b>Id</u></b>entifiers that aim to make life easier for describing biogenic small molecules 
 in metabolomic and genomic applications. Conceptually, they represent gene-style identifiers for small molecules newly identified in the nematode <i>C. elegans</i>.     <br /><br />
-</div>
-
-<div id="content1">
 
 <a href="/about">More about SMIDs</a><br /><br />
 
 <a href="/browse">Browse SMIDs</a><br /><br />
 
 <a href="/contact">Contact us</a><br /><br />
+
+</div>
 <div id="content2">
 
 <img src="/static/images/smid_front_page_imagesmaller.png" /> <br/><br/>
