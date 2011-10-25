@@ -1,5 +1,5 @@
 
-<h1>SMID details for smid <b>[% smmid %]</b></h1>
+<h1>SMID DB details for smid <b>[% smmid %]</b></h1>
 
 SMID ID: <b>[% smmid %]</b> <br /><br />
 CHEMICAL NAME: [% chemical_name %]<br /><br />
