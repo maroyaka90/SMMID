@@ -12,7 +12,7 @@
 
    # define a data structure to hold sitewide data
    site = {
-     title     => 'SMMID DB',
+     title     => 'SMID-DB',
      copyright => '2009 Boyce Thompson Institute for Plant Research',
      width     => '780px'
    };
@@ -26,6 +26,6 @@
      message = 'There is no message';
 
      
-     site.name = "SMMID Database";
+     site.name = "SMID-DB";
 
 -%]
