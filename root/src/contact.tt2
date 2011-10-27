@@ -2,6 +2,10 @@
 
 <br /><br />
 
+body {
+background-image:url('/static/images/backgroundimage.png');
+}
+
 <div id="content1">
 
 <h2>Contact information</h2>
