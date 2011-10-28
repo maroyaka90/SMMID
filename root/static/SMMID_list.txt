@@ -15,7 +15,7 @@ SMMID: ascr#1
 CHEMICAL NAME: (-)-6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)heptanoic acid
 
 SYNONYMS: "C7"; daumone-1
-MOLECULAR FORMULA: C13H24O6
+MOLECULAR FORMULA: C12H24O6
 MOLECULAR WEIGHT: 276.33
 CAS: 690991-47-0
 
