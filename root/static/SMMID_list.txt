@@ -4094,7 +4094,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
