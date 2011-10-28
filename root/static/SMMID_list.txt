@@ -24,7 +24,6 @@ CONCISE SUMMARY:  dauer inducing.
 BIOSYNTHESIS: 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
-
 (DHS-28) 
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
 (ACOX-1)
@@ -36,7 +35,6 @@ RECEPTORS:
 
 (SRBC-64)
 http://www.wormbase.org/db/gene/gene?name=WBGene00021477
-
 (SRBC-66)
 http://www.wormbase.org/db/gene/gene?name=WBGene00020746;class=Gene
 
@@ -47,67 +45,46 @@ REFERENCES:
 
 (Jeong, Jung et al. 2005) 
 http://www.ncbi.nlm.nih.gov/pubmed/15690045
-
 (Guo and O'Doherty 2005) 
 http://www.ncbi.nlm.nih.gov/pubmed/16119932
-
 (Jung and Paik 2005) 
 http://v3.espacenet.com/publicationDetails/biblio?DB=EPODOC&adjacent=true&locale=en_ep&FT=D&date=20050818&CC=WO&NR=2005075491A1&KC=A1 
-
 (Schroeder 2006) 
 http://www.ncbi.nlm.nih.gov/pubmed/17163670
-
 (Butcher, Fujita et al. 2007) 
 http://www.ncbi.nlm.nih.gov/pubmed/17558398
-
 (Butcher, Ragains et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18791072
-
 (Baiga 2008) 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2692194 
-
 (Butcher, Ragains et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19545143
-
 (Jeong, Na et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19381582
-
 (Joo, Yim et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19496754
-
 (Gallo and Riddle 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19190963 
-
 (Kim, Sato et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19797623 
-
 (Jung, Lee et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19342127 
-
 (Martin, Schafer et al. 2009) 
 https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
-
 (Edison 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
-
 (Lee, Kim et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/19940149 
-
 (Joo, Kim et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20610393 
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
-
 (La Clair 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20422068 
-
 (Martin, Entchev et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20135027 
-
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
-
 (Sommer, Ogawa 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21959166
 
