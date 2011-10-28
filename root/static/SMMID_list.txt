@@ -131,6 +131,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/19349961
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 (Butcher, Ragains et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19545143
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493 
 (Joo, Yim et al. 2009)
@@ -207,7 +209,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/19665885
 http://www.ncbi.nlm.nih.gov/pubmed/19346493 
 (Butcher Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
-(Butcher, Ragains et al. 2009B) 
+(Butcher, Ragains et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19545143 
 (Kim, Sato et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19797623
@@ -320,6 +322,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/19349961
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 (Butcher, Ragains et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19545143
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493 
 (Kim, Sato et al. 2009) 
@@ -385,15 +389,13 @@ CAS: 1172120-41-0
 
 CONCISE SUMMARY: Diastereomer of ascr#6.1.
 
-BIOSYNTHESIS: (DAF-22)
+BIOSYNTHESIS: 
+(DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-
 (DHS-28)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
-
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
-
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
@@ -403,14 +405,10 @@ RECEPTORS: tbd
 
 
 REFERENCES:
-
-
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
-
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
 
@@ -431,13 +429,10 @@ CONCISE SUMMARY: weakly dauer inducing and weak male attractant.
 BIOSYNTHESIS: 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-
 (DHS-28)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
-
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
-
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
@@ -447,26 +442,18 @@ RECEPTORS: tbd
 
 
 REFERENCES:
-
-
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493
-
 (Edison 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
-
 (Martin, Schafer et al. 2009) 
 https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
-
 (Martin, Entchev et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20135027 
-
 (La Clair 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20422068 
-
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
 
@@ -487,36 +474,26 @@ CONCISE SUMMARY:  dauer inducing, strongly male attracting, synergizes with ascr
 BIOSYNTHESIS: 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-
 (DHS-28)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
-
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
-
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 
 
 REFERENCES:
-
-
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493
-
 (Edison 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418 
-
 (Prince, Pohnert 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/19813005
-
 (Martin, Entchev et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20135027 
-
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
 
@@ -539,13 +516,10 @@ CONCISE SUMMARY:  dauer inducing (bell-shaped response).
 BIOSYNTHESIS: 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-
 (DHS-28)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
-
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
-
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
@@ -554,13 +528,10 @@ RECEPTORS: tbd
 
 
 REFERENCES:
-
 (Butcher, Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19545143
-
 (Edison 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
-
 (McGrath, Xu et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21849976
 
@@ -581,16 +552,12 @@ CONCISE SUMMARY: Putative endogenous ligand for DAF-12; (http://www.wormbase.org
 BIOSYNTHESIS: 
 (HSD-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00012394;class=Gene
-
 (DAF-9) 
 http://www.wormbase.org/db/gene/gene?name=WBGene00000905;class=Gene
-
 (STRM-1)
 http://www.wormbase.org/db/misc/paper?name=WBPaper00034639;class=Paper
-
 (DHS-16) 
 http://www.wormbase.org/db/gene/gene?name=WBGene00000979;class=Gene
-
 (DAF-36)
 http://www.wormbase.org/db/gene/gene?name=WBGene00007536;class=Gene
 
@@ -600,55 +567,38 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00000908;class=Gene
 
 
 REFERENCES:
-
 (Motola, Cummins et al. 2006) 
 http://www.ncbi.nlm.nih.gov/pubmed/16529801 
-
 (Schroeder 2006) 
 http://www.ncbi.nlm.nih.gov/pubmed/17163670 
-
 (Beckstead and Thummel 2006) 
 http://www.ncbi.nlm.nih.gov/pubmed/16564008 
-
 (Gerisch, Rottiers et al. 2007) 
 http://www.ncbi.nlm.nih.gov/pubmed/17360327 
-
 (Giroux and Corey 2007) 
 http://www.ncbi.nlm.nih.gov/pubmed/17658816 
-
 (Mangelsdorf, Auchus et al. 2007) 
 http://v3.espacenet.com/publicationDetails/biblio?DB=EPODOC&adjacent=true&locale=en_ep&FT=D&date=20070913&CC=WO&NR=2007103508A2&KC=A2
-
 (Patel, Fang et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18495818
-
 (Giroux and Corey 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18247628 
-
 (Giroux, Bethke et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18642835 
-
 (Martin, Dabritz et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/19005586 
-
 (Sharma, Wang et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19196833 
-
 (Martin, Entchev et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/20135027
-
 (Wang, Zhou et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19497877
-
 (Hannich, Entchev et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19531354
-
 (Ogawa, Streit et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19110431 
-
 (Bento, Ogawa et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20592728
-
 (Gioiello, Sabbatini et al. 2011) 
 http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THR-523JY1P-2&_user=492137&_coverDate=03%2F11%2F2011&_alid=1671926313&_rdoc=3&_fmt=high&_orig=search&_origin=search&_zone=rslt_list_item&_cdi=5289&_sort=r&_st=13&_docanchor=&view=c&_ct=3&_acct=C000022719&_version=1&_urlVersion=0&_userid=492137&md5=42860e68bdf0c64a4487b0d221a7470a&searchtype=a
 
@@ -669,16 +619,12 @@ CONCISE SUMMARY: Putative endogenous ligand for DAF-12; (http://www.wormbase.org
 BIOSYNTHESIS: 
 (HSD-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00012394;class=Gene); 
-
 (DAF-9)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000905;class=Gene
-
 (STRM-1)
 http://www.wormbase.org/db/misc/paper?name=WBPaper00034639;class=Paper
-
 (DHS-16)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000979;class=Gene
-
 (DAF-36)
 http://www.wormbase.org/db/gene/gene?name=WBGene00007536;class=Gene
 
@@ -686,38 +632,26 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00007536;class=Gene
 REFERENCES:
 (Motola, Cummins et al. 2006) 
 http://www.ncbi.nlm.nih.gov/pubmed/16529801
-
 (Schroeder 2006) 
 http://www.ncbi.nlm.nih.gov/pubmed/17163670 
-
 (Beckstead and Thummel 2006) 
 http://www.ncbi.nlm.nih.gov/pubmed/16564008
-
 (Gerisch, Rottiers et al. 2007) 
 http://www.ncbi.nlm.nih.gov/pubmed/17360327 
-
 (Giroux and Corey 2007) 
 http://www.ncbi.nlm.nih.gov/pubmed/17658816 
-
 (Patel, Fang et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18495818 
-
 (Giroux and Corey 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18247628 
-
 (Giroux, Bethke et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18642835 
-
 (Martin, Dabritz et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/19005586 
-
 (Sharma, Wang et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19196833 
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
-
-
 (Gioiello, Sabbatini et al. 2011) 
 http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THR-523JY1P-2&_user=492137&_coverDate=03%2F11%2F2011&_alid=1671926313&_rdoc=3&_fmt=high&_orig=search&_origin=search&_zone=rslt_list_item&_cdi=5289&_sort=r&_st=13&_docanchor=&view=c&_ct=3&_acct=C000022719&_version=1&_urlVersion=0&_userid=492137&md5=42860e68bdf0c64a4487b0d221a7470a&searchtype=a
 
@@ -747,7 +681,8 @@ RECEPTORS: tbd
 
 
 REFERENCES:
-
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -777,7 +712,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -807,7 +741,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -836,7 +769,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -867,7 +799,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -898,7 +829,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -927,7 +857,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -955,7 +884,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -982,7 +910,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1010,7 +937,8 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1038,11 +966,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
-
-(Butcher Ragains et al. 2009)
-http://www.ncbi.nlm.nih.gov/pubmed/19174521
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1068,8 +991,8 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
-REFERENCES: 
 
+REFERENCES: 
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1097,7 +1020,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1125,10 +1047,8 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
-(Butcher Ragains et al. 2009)
+(Butcher, Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1156,10 +1076,8 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
-(Butcher Ragains et al. 2009)
+(Butcher, Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1187,7 +1105,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1215,10 +1132,8 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 
 REFERENCES: 
-
-(Butcher Ragains et al. 2009)
+(Butcher, Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1273,7 +1188,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1301,7 +1215,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1328,7 +1241,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1356,7 +1268,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1383,7 +1294,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1411,7 +1321,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1439,7 +1348,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1466,7 +1374,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1494,7 +1401,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1522,7 +1428,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1550,7 +1455,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1578,7 +1482,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1606,7 +1509,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1634,7 +1536,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1662,7 +1563,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1690,7 +1590,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1718,7 +1617,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1746,10 +1644,8 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (Butcher Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1777,10 +1673,8 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
-(Butcher Ragains et al. 2009)
+(Butcher, Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1809,10 +1703,8 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 
 REFERENCES: 
-
 (Butcher Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1840,10 +1732,8 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (Butcher Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1870,7 +1760,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1898,7 +1787,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1954,7 +1842,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1982,7 +1869,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2009,7 +1895,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2037,7 +1922,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2065,7 +1949,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2093,7 +1976,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2121,7 +2003,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2149,7 +2030,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2177,7 +2057,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2206,7 +2085,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2234,7 +2112,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2262,7 +2139,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2290,7 +2166,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2318,7 +2193,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2346,7 +2220,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2374,7 +2247,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2402,7 +2274,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2430,7 +2301,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2458,7 +2328,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2485,7 +2354,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2513,7 +2381,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2541,7 +2408,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2568,7 +2434,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2596,7 +2461,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2624,7 +2488,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2652,7 +2515,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2680,7 +2542,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2707,7 +2568,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2735,7 +2595,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2763,7 +2622,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2792,7 +2650,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2821,7 +2678,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2849,7 +2705,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2877,7 +2732,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2905,7 +2759,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2933,7 +2786,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2960,7 +2812,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -2988,7 +2839,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3015,7 +2865,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3043,7 +2892,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3071,7 +2919,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3099,7 +2946,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3127,7 +2973,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3155,7 +3000,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3183,7 +3027,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3211,7 +3054,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3239,7 +3081,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3267,7 +3108,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3295,7 +3135,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3323,7 +3162,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3353,7 +3191,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3381,7 +3218,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3408,7 +3244,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3436,7 +3271,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3471,7 +3305,6 @@ MAOC-1;
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3507,7 +3340,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3537,7 +3369,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3567,7 +3398,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3597,7 +3427,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3625,6 +3454,10 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 
+REFERENCES: 
+(von Reuss et al. 2011) 
+http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
+
 SMMID: oscr#10
 
 CHEMICAL NAME: 9-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
@@ -3651,7 +3484,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3681,7 +3513,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3713,7 +3544,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3744,7 +3574,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3774,7 +3603,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3804,7 +3632,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3834,7 +3661,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3864,7 +3690,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3893,7 +3718,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3922,7 +3746,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3952,7 +3775,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -3982,7 +3804,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4012,7 +3833,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4042,7 +3862,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4072,7 +3891,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4102,7 +3920,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4132,7 +3949,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4160,6 +3976,10 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 
+REFERENCES: 
+(von Reuss et al. 2011) 
+http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
+
 SMMID: oscr#30
 
 CHEMICAL NAME: 17-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
@@ -4186,7 +4006,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4215,7 +4034,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4245,7 +4063,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4307,7 +4124,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4338,7 +4154,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4368,7 +4183,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4398,7 +4212,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4427,7 +4240,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4456,7 +4268,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4485,7 +4296,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4514,7 +4324,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4543,7 +4352,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4572,7 +4380,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4601,7 +4408,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4630,7 +4436,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4659,7 +4464,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4688,7 +4492,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4717,7 +4520,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4746,7 +4548,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4775,7 +4576,6 @@ RECEPTORS: tbd
 
 
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -4802,6 +4602,9 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 
+REFERENCES: 
+(von Reuss et al. 2011) 
+http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
 REFERENCES:
 Baiga (2008). "Metabolite Induction of Caenorhabditis elegans Dauer Larvae Arises via Transport in the Pharynx." ACS Chem Biol 3(5): 294-304.
