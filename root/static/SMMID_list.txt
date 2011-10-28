@@ -734,7 +734,7 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
 (MAOC-1)
-http://www.wortmbase.org/db/gene/gene?name=WBGene00017123;class=Gene
+http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 
 RECEPTORS: tbd
