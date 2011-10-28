@@ -98,88 +98,63 @@ MOLECULAR FORMULA: C12H22O5
 MOLECULAR WEIGHT: 246.30
 CAS: 946524-24-9
 
-CONCISE SUMMARY: dauer inducing, male attractant, synergizes with ascr#3, ascr#4, and ascr#8 in male attraction.
+CONCISE SUMMARY: Dauer inducing, male attractant, synergizes with ascr#3, ascr#4, and ascr#8 in male attraction.
 
 BIOSYNTHESIS: 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-
 (DHS-28)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
-
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
-
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS:
-
 (SRBC-64)
 http://www.wormbase.org/db/gene/gene?name=WBGene00021477
-
 (SRBC-66)
 http://www.wormbase.org/db/gene/gene?name=WBGene00020746;class=Gene
 
 
 
 REFERENCES:
-
-
 (Butcher, Fujita et al. 2007) 
 http://www.ncbi.nlm.nih.gov/pubmed/17558398
-
 (Butcher, Ragains et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18791072
-
 (Srinivasan, Kaplan et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18650807
-
 (Macosko, Pokala et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19349961 
-
 (Edison 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
-
 (Butcher, Ragains et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19545143
-
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493 
-
 (Joo, Yim et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19496754
-
 (Martin, Schafer et al. 2009) 
 https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
-
 (Kim, Sato et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19797623
-
 (Kaplan, Badri et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19649780 
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
-
 (Yamada, Hirotsu et al. 2010)
 http://www.ncbi.nlm.nih.gov/pubmed/20929849
-
 (Prince, Pohnert 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/19813005
-
 (Martin, Entchev et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20135027 
-
 (McGrath, Xu et al. 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21849976
-
 (Kaplan, Srinivasan et al. 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
-
 (Chung, Zhan et al. 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21935539
-
 (Sommer, Ogawa 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21959166
 
@@ -200,13 +175,10 @@ CONCISE SUMMARY: dauer inducing, male attractant, synergizes with ascr#2, ascr#4
 BIOSYNTHESIS: 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-
 (DHS-28)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
-
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
-
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
@@ -214,71 +186,49 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: 
 (SRBC-64)
 http://www.wormbase.org/db/gene/gene?name=WBGene00021477
-
 (SRBC-66)
 http://www.wormbase.org/db/gene/gene?name=WBGene00020746;class=Gene
 
 
 REFERENCES:
-
-
 (Butcher, Fujita et al. 2007) 
 http://www.ncbi.nlm.nih.gov/pubmed/17558398
-
 (Butcher, Ragains et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18791072
-
 (Srinivasan, Kaplan et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18650807
-
 (Baiga 2008) 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2692194 
-
 (Macosko, Pokala et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19349961 
-
 (Edison 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
-
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493 
-
 (Butcher Ragains et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
-
 (Butcher, Ragains et al. 2009B) 
 http://www.ncbi.nlm.nih.gov/pubmed/19545143 
-
 (Kim, Sato et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19797623
-
 (Joo, Yim et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19496754 
-
 (Kaplan, Badri et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19649780 
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
-
 (Yamada, Hirotsu et al. 2010)
 http://www.ncbi.nlm.nih.gov/pubmed/20929849
-
 (Prince, Pohnert 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/19813005
-
 (Martin, Entchev et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20135027 
-
 (La Clair 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20422068 
-
 (McGrath, Xu et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21849976
-
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
-
 (Sommer, Ogawa 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21959166 
 
@@ -297,13 +247,10 @@ CONCISE SUMMARY: weakly dauer inducing, synergizes with ascr#2, ascr#3, and ascr
 BIOSYNTHESIS: 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-
 (DHS-28)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
-
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
-
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
@@ -313,35 +260,24 @@ RECEPTORS: tbd
 
 
 REFERENCES:
-
-
 (Srinivasan, Kaplan et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18650807
-
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493
-
 (Edison 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
-
 (Martin, Schafer et al. 2009) 
 https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
-
 (Kaplan, Badri et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19649780 
-
-(Joo, Yim et al.) 
+(Joo, Yim et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19496754 
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418 
-
 (Martin, Entchev et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20135027 
-
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
-
 (Sommer, Ogawa 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21959166 
 
@@ -355,18 +291,15 @@ MOLECULAR FORMULA: C9H16O6
 MOLECULAR WEIGHT: 220.22
 CAS: 1086696-26-5
 
-CONCISE SUMMARY:  dauer inducing, synergizes with ascr#2 and ascr#3.
+CONCISE SUMMARY:  Dauer inducing, synergizes with ascr#2 and ascr#3.
 
 BIOSYNTHESIS: 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-
 (DHS-28)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
-
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
-
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
@@ -375,46 +308,32 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS:
 (SRG-36)
 http://www.wormbase.org/db/gene/gene?name=WBGene00005193;class=Gene
-
 (SRG-37)
 http://www.wormbase.org/db/gene/gene?name=WBGene00005194;class=Gene
 
 REFERENCES:
-
-
 (Butcher, Ragains et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18791072
-
 (Macosko, Pokala et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19349961
-
 (Edison 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
-
 (Butcher, Ragains et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19545143
-
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493 
-
 (Kim, Sato et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19797623 
-
 (Joo, Yim et al.) 
 http://www.ncbi.nlm.nih.gov/pubmed/19496754 
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
-
 (Martin, Entchev et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20135027 
-
 (McGrath, Xu et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21849976
-
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
-
 (Sommer, Ogawa 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21959166 
 
@@ -428,17 +347,15 @@ MOLECULAR FORMULA: C12H24O5
 MOLECULAR WEIGHT: 248.32
 CAS: 1172120-36-3
 
-CONCISE SUMMARY:  dauer inducing.
-. 
-BIOSYNTHESIS: (DAF-22)
+CONCISE SUMMARY:  Dauer inducing.
+ 
+BIOSYNTHESIS: 
+(DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-
 (DHS-28)
 http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene
-
 (ACOX-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
-
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
@@ -448,20 +365,15 @@ RECEPTORS: tbd
 
 
 REFERENCES:
-
-
 (Pungaliya, Srinivasan et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19346493
-
 (Edison 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19665885 
-
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
- 
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
- 
+
 SMMID: ascr#6.2
 
 CHEMICAL NAME: (-)-5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2S-hexanol
