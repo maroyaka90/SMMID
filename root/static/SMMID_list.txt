@@ -32,7 +32,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS:
-
 (SRBC-64)
 http://www.wormbase.org/db/gene/gene?name=WBGene00021477
 (SRBC-66)
@@ -42,7 +41,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00020746;class=Gene
 
 
 REFERENCES:
-
 (Jeong, Jung et al. 2005) 
 http://www.ncbi.nlm.nih.gov/pubmed/15690045
 (Guo and O'Doherty 2005) 
