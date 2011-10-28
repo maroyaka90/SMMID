@@ -19,7 +19,7 @@ MOLECULAR FORMULA: C13H24O6
 MOLECULAR WEIGHT: 276.33
 CAS: 690991-47-0
 
-CONCISE SUMMARY:  dauer inducing. 
+CONCISE SUMMARY:  Dauer inducing. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -172,7 +172,7 @@ MOLECULAR FORMULA: C15H26O6
 MOLECULAR WEIGHT: 302.36
 CAS: 946524-26-1
 
-CONCISE SUMMARY: dauer inducing, male attractant, synergizes with ascr#2, ascr#4, and ascr#8 in male attraction.
+CONCISE SUMMARY: Dauer inducing, male attractant, synergizes with ascr#2, ascr#4, and ascr#8 in male attraction.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -244,7 +244,7 @@ MOLECULAR FORMULA: C18H32O10
 MOLECULAR WEIGHT: 408.44
 CAS: 1255514-32-9
 
-CONCISE SUMMARY: weakly dauer inducing, synergizes with ascr#2, ascr#3, and ascr#8 in male attraction.
+CONCISE SUMMARY: Weakly dauer inducing, synergizes with ascr#2, ascr#3, and ascr#8 in male attraction.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -424,7 +424,7 @@ MOLECULAR FORMULA: C13H22O6
 MOLECULAR WEIGHT: 274.31
 CAS: 1139837-37-8
 
-CONCISE SUMMARY: weakly dauer inducing and weak male attractant.
+CONCISE SUMMARY: Weakly dauer inducing and weak male attractant.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -459,7 +459,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/21423575
 
 
 
-
 SMMID: ascr#8
 
 CHEMICAL NAME: N-(6'R-[3''R,5''R-dihydroxy-6''S-methyl-(2H)-tetrahydropyran-2'-yloxy]-2'E-heptenoyl)-4-aminobenzoic acid
@@ -469,7 +468,7 @@ MOLECULAR FORMULA: C20H27NO7
 MOLECULAR WEIGHT: 393.43
 CAS: 1172120-40-9
 
-CONCISE SUMMARY:  dauer inducing, strongly male attracting, synergizes with ascr#2 and ascr#3.
+CONCISE SUMMARY:  Dauer inducing, strongly male attracting, synergizes with ascr#2 and ascr#3.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -511,7 +510,7 @@ MOLECULAR FORMULA: C20H25NO7
 MOLECULAR WEIGHT: 391.42
 CAS: 1173933-40-8
 
-CONCISE SUMMARY:  dauer inducing (bell-shaped response).
+CONCISE SUMMARY:  Dauer inducing (bell-shaped response).
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -669,7 +668,7 @@ MOLECULAR FORMULA: C11H20O6
 MOLECULAR WEIGHT: 248.27
 CAS: 1186217-42-4
 
-CONCISE SUMMARY: Absent in daf-22(ok693), dhs-28(hj8), and maoc-1(hj13) mutant worms. Detected in wild type (N2) and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -699,7 +698,7 @@ MOLECULAR FORMULA: C15H28O6
 MOLECULAR WEIGHT: 304.38
 CAS: tbd
 
-CONCISE SUMMARY: Direct biosynthetic precursor to ascr#3. Absent in daf-22(ok693) and is a major ascaroside detected in wild type (N2) and acox-1(ok2257) mutants worms. Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Direct biosynthetic precursor to ascr#3. Absent in <i>daf-22(ok693)</i> and is a major ascaroside detected in wild type (N2) and <i>acox-1(ok2257)</i> mutants worms. Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -728,7 +727,7 @@ MOLECULAR FORMULA: C10H18O6
 MOLECULAR WEIGHT: 234.25
 CAS: tbd
 
-CONCISE SUMMARY: Absent in daf-22(ok693), dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms. Detected in wild type (N2) worms.
+CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. Detected in wild type (N2) worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -757,7 +756,7 @@ MOLECULAR FORMULA: C12H22O6
 MOLECULAR WEIGHT: 262.30
 CAS: tbd
 
-CONCISE SUMMARY: Absent in daf-22(ok693), dhs-28(hj8), and maoc-1(hj13) mutant worms. Detected in wild type (N2) and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -786,7 +785,7 @@ MOLECULAR FORMULA: C14H24O6
 MOLECULAR WEIGHT: 288.34
 CAS: tbd
 
-CONCISE SUMMARY: Absent in daf-22(ok693) mutant worms.
+CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -816,7 +815,7 @@ MOLECULAR FORMULA: C14H26O6
 MOLECULAR WEIGHT: 290.35
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -845,7 +844,7 @@ MOLECULAR FORMULA: C16H28O6
 MOLECULAR WEIGHT: 316.39
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -873,7 +872,7 @@ MOLECULAR FORMULA: C16H30O6
 MOLECULAR WEIGHT: 318.40
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), maoc-1(hj13), and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -900,7 +899,7 @@ MOLECULAR FORMULA: C16H30O6
 MOLECULAR WEIGHT: 330.42
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and dhs-28(hj8) and maoc-1(hj13) mutant worms. 
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -926,7 +925,7 @@ MOLECULAR FORMULA: C17H32O6
 MOLECULAR WEIGHT: 332.43
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and dhs-28(hj8) and maoc-1(hj13) mutant worms. A major ascaroside detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. A major ascaroside detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -955,7 +954,7 @@ MOLECULAR FORMULA: C18H32O6
 MOLECULAR WEIGHT: 344.44
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms. 
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -982,7 +981,7 @@ MOLECULAR FORMULA: C18H34O6
 MOLECULAR WEIGHT: 346.46
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and daf-22(ok693), dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1009,7 +1008,7 @@ MOLECULAR FORMULA: C18H34O6
 MOLECULAR WEIGHT: 358.47
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and is a major ascaroside detected in maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and is a major ascaroside detected in <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1036,7 +1035,7 @@ MOLECULAR FORMULA: C19H36O6
 MOLECULAR WEIGHT: 360.49
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and daf-22(ok693), dhs-28(hj8), and maoc-1(hj13) mutant worms. Is a major ascaroside detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1065,7 +1064,7 @@ MOLECULAR FORMULA: C20H36O6
 MOLECULAR WEIGHT: 372.50
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1094,7 +1093,7 @@ MOLECULAR FORMULA: C20H38O6
 MOLECULAR WEIGHT: 374.51
 CAS: tbd
 
-CONCISE SUMMARY: Detected in daf-22(ok693), dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1121,7 +1120,7 @@ MOLECULAR FORMULA: C21H38O6
 MOLECULAR WEIGHT: 386.52
 CAS: tbd
 
-CONCISE SUMMARY: Detected in daf-22(ok693) and dhs-28(hj8) mutant worms. A major ascaroside in maoc-1(hj13) worms. 
+CONCISE SUMMARY: Detected in <i>daf-22(ok693)</i> and <i>dhs-28(hj8)</i> mutant worms. A major ascaroside in <i>maoc-1(hj13)</i> worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1150,7 +1149,7 @@ MOLECULAR FORMULA: C21H40O6
 MOLECULAR WEIGHT: 388.54
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and daf-22(ok693), dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1178,7 +1177,7 @@ MOLECULAR FORMULA: C22H40O6
 MOLECULAR WEIGHT: 400.55
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1204,7 +1203,7 @@ MOLECULAR FORMULA: C22H42O6
 MOLECULAR WEIGHT: 402.57
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms. A major ascaroside in daf-22(ok693) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. A major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1231,7 +1230,7 @@ MOLECULAR FORMULA: C23H42O6
 MOLECULAR WEIGHT: 414.58
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1257,7 +1256,7 @@ MOLECULAR FORMULA: C23H44O6
 MOLECULAR WEIGHT: 416.59
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and acox-1(ok2257), dhs-28(hj8), and maoc-1(hj13) mutant worms. Is a major ascaroside in daf-22(ok693) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>acox-1(ok2257)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1284,7 +1283,7 @@ MOLECULAR FORMULA: C24H44O6
 MOLECULAR WEIGHT: 428.60
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. 
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1310,7 +1309,7 @@ MOLECULAR FORMULA: C24H46O6
 MOLECULAR WEIGHT: 430.62
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. Is a major ascaroside in daf-22(ok693) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1337,7 +1336,7 @@ MOLECULAR FORMULA: C25H46O6
 MOLECULAR WEIGHT: 442.63
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. 
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1364,7 +1363,7 @@ MOLECULAR FORMULA: C25H48O6
 MOLECULAR WEIGHT: 444.64
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms. Is a major ascaroside in daf-22(ok693) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1390,7 +1389,7 @@ MOLECULAR FORMULA: C26H48O6
 MOLECULAR WEIGHT: 456.66
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. 
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1417,7 +1416,7 @@ MOLECULAR FORMULA: C26H50O6
 MOLECULAR WEIGHT: 458.67
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. Is a major ascaroside in daf-22(ok693) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1444,7 +1443,7 @@ MOLECULAR FORMULA: C27H50O6
 MOLECULAR WEIGHT: 470.68
 CAS: tbd
  
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. 
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1471,7 +1470,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. Is a major ascaroside in daf-22(ok693) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1498,7 +1497,7 @@ MOLECULAR FORMULA: C15H28O7
 MOLECULAR WEIGHT: 320.38
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) mutants and small amounts in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutants and small amounts in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1525,7 +1524,7 @@ MOLECULAR FORMULA: C16H30O7
 MOLECULAR WEIGHT: 334.40
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and dhs-28(hj8) mutants. 
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i> mutants. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1552,7 +1551,7 @@ MOLECULAR FORMULA: C17H32O7
 MOLECULAR WEIGHT: 348.43
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and dhs-28(hj8), maoc-1(hj13), and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1579,7 +1578,7 @@ MOLECULAR FORMULA: C18H34O7
 MOLECULAR WEIGHT: 362.46
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. 
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1606,7 +1605,7 @@ MOLECULAR FORMULA: C19H36O7
 MOLECULAR WEIGHT: 376.48
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside detected in dhs-28(hj8) mutant worms. Detected in maoc-1(hj13) and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside detected in <i>dhs-28(hj8)</i> mutant worms. Detected in <i>maoc-1(hj13)</i> and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1633,7 +1632,7 @@ MOLECULAR FORMULA: C20H38O7
 MOLECULAR WEIGHT: 390.51
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1662,7 +1661,7 @@ MOLECULAR FORMULA: C21H40O7
 MOLECULAR WEIGHT: 404.54
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in dhs-28(hj8) mutant worms. Detected in maoc-1(hj13) and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>dhs-28(hj8)</i> mutant worms. Detected in <i>maoc-1(hj13)</i> and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1691,7 +1690,7 @@ MOLECULAR FORMULA: C22H42O7
 MOLECULAR WEIGHT: 418.56
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and dhs-28(hj8), daf-22(ok693), maoc-1(hj13), and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1721,7 +1720,7 @@ MOLECULAR FORMULA: C23H44O7
 MOLECULAR WEIGHT: 432.59
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in dhs-28(hj8) and maoc-1(hj13) mutant worms. Detected in daf-22(ok693) and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Detected in <i>daf-22(ok693)</i> and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1750,7 +1749,7 @@ MOLECULAR FORMULA: C24H46O7
 MOLECULAR WEIGHT: 446.62
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), daf-22(ok693), maoc-1(hj13), and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1776,7 +1775,7 @@ MOLECULAR FORMULA: C25H48O7
 MOLECULAR WEIGHT: 460.64
 CAS: tbd
 
-CONCISE SUMMARY: A major ascaroside detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: A major ascaroside detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1803,7 +1802,7 @@ MOLECULAR FORMULA: C26H50O7
 MOLECULAR WEIGHT: 474.67
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. A major ascaroside detected in daf-22(ok693) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. A major ascaroside detected in <i>daf-22(ok693)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1830,7 +1829,7 @@ MOLECULAR FORMULA: C27H52O7
 MOLECULAR WEIGHT: 488.70
 CAS: tbd
 
-CONCISE SUMMARY: A major ascaroside detected in dhs-28(hj8) and daf-22(ok693) mutant worms. Detected in maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: A major ascaroside detected in <i>dhs-28(hj8)</i> and <i>daf-22(ok693)</i> mutant worms. Detected in <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1857,7 +1856,7 @@ MOLECULAR FORMULA: C28H54O7
 MOLECULAR WEIGHT: 502.72
 CAS: tbd
 
-CONCISE SUMMARY: Small amounts detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Small amounts detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS:
 (DAF-22)
@@ -1884,7 +1883,7 @@ MOLECULAR FORMULA: C29H56O7
 MOLECULAR WEIGHT: 516.75
 CAS: tbd
 
-CONCISE SUMMARY: Small amounts detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Small amounts detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1910,7 +1909,7 @@ MOLECULAR FORMULA: C15H28O7
 MOLECULAR WEIGHT: 320.38
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1937,7 +1936,7 @@ MOLECULAR FORMULA: C16H30O7
 MOLECULAR WEIGHT: 334.40
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1964,7 +1963,7 @@ MOLECULAR FORMULA: C17H32O7
 MOLECULAR WEIGHT: 348.43
 CAS:
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in dhs-28(hj8), maoc-1(hj13), and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1991,7 +1990,7 @@ MOLECULAR FORMULA: C18H34O7
 MOLECULAR WEIGHT: 362.46
 CAS:
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2018,7 +2017,7 @@ MOLECULAR FORMULA: C19H36O7
 MOLECULAR WEIGHT: 376.48
 CAS:
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in dhs-28(hj8), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2045,7 +2044,7 @@ MOLECULAR FORMULA: C20H38O7
 MOLECULAR WEIGHT: 390.51
 CAS:
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2073,7 +2072,7 @@ MOLECULAR FORMULA: C21H40O7
 MOLECULAR WEIGHT: 404.54
 CAS:
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2100,7 +2099,7 @@ MOLECULAR FORMULA: C22H42O7
 MOLECULAR WEIGHT: 418.56
 CAS:
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2127,7 +2126,7 @@ MOLECULAR FORMULA: C23H44O7
 MOLECULAR WEIGHT: 432.59
 CAS:
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2154,7 +2153,7 @@ MOLECULAR FORMULA: C24H46O7
 MOLECULAR WEIGHT: 446.62
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2181,7 +2180,7 @@ MOLECULAR FORMULA: C25H48O7
 MOLECULAR WEIGHT: 460.64
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2208,7 +2207,7 @@ MOLECULAR FORMULA: C26H50O7
 MOLECULAR WEIGHT: 474.67
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2236,7 +2235,7 @@ MOLECULAR FORMULA: C27H52O7
 MOLECULAR WEIGHT: 488.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2262,7 +2261,7 @@ MOLECULAR FORMULA: C28H54O7
 MOLECULAR WEIGHT: 502.72
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2289,7 +2288,7 @@ MOLECULAR FORMULA: C29H56O7
 MOLECULAR WEIGHT: 516.75
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), daf-22(ok693), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in dhs-28(hj8), <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2316,7 +2315,7 @@ MOLECULAR FORMULA: C24H33NO8
 MOLECULAR WEIGHT: 463.52
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms. 
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2343,7 +2342,7 @@ MOLECULAR FORMULA: C25H35NO8
 MOLECULAR WEIGHT: 477.55
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2369,7 +2368,7 @@ MOLECULAR FORMULA: C26H37NO8
 MOLECULAR WEIGHT: 491.57
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2396,7 +2395,7 @@ MOLECULAR FORMULA: C27H39NO8
 MOLECULAR WEIGHT: 505.60
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2423,7 +2422,7 @@ MOLECULAR FORMULA: C28H41NO8
 MOLECULAR WEIGHT: 519.63
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2449,7 +2448,7 @@ MOLECULAR FORMULA: C29H43NO8
 MOLECULAR WEIGHT: 533.65
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2476,7 +2475,7 @@ MOLECULAR FORMULA: C30H45NO8
 MOLECULAR WEIGHT: 547.68
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2503,7 +2502,7 @@ MOLECULAR FORMULA: C31H47NO8
 MOLECULAR WEIGHT: 561.71
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2530,7 +2529,7 @@ MOLECULAR FORMULA: C32H49NO8
 MOLECULAR WEIGHT: 575.73
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2557,7 +2556,7 @@ MOLECULAR FORMULA: C24H33NO8
 MOLECULAR WEIGHT: 463.52
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
@@ -2583,7 +2582,7 @@ MOLECULAR FORMULA: C25H35NO8
 MOLECULAR WEIGHT: 477.55
 CAS:
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2611,7 +2610,7 @@ MOLECULAR FORMULA: C26H37NO8
 MOLECULAR WEIGHT: 491.57
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2638,7 +2637,7 @@ MOLECULAR FORMULA: C27H39NO8
 MOLECULAR WEIGHT: 505.60
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2666,7 +2665,7 @@ MOLECULAR FORMULA: C28H41NO8
 MOLECULAR WEIGHT: 519.63
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2693,7 +2692,7 @@ MOLECULAR FORMULA: C29H43NO8
 MOLECULAR WEIGHT: 533.65
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2720,7 +2719,7 @@ MOLECULAR FORMULA: C30H45NO8
 MOLECULAR WEIGHT: 547.68
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2774,7 +2773,7 @@ MOLECULAR FORMULA: C24H31NO7
 MOLECULAR WEIGHT: 445.50
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2827,7 +2826,7 @@ MOLECULAR FORMULA: C24H33NO7
 MOLECULAR WEIGHT: 447.52
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), maoc-1(hj13), and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2907,7 +2906,7 @@ MOLECULAR FORMULA: C25H33NO7
 MOLECULAR WEIGHT: 459.53
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2934,7 +2933,7 @@ MOLECULAR FORMULA: C25H35NO7
 MOLECULAR WEIGHT: 461.55
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2961,7 +2960,7 @@ MOLECULAR FORMULA: C26H35NO7
 MOLECULAR WEIGHT: 473.56
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -2988,7 +2987,7 @@ MOLECULAR FORMULA: C26H37NO7
 MOLECULAR WEIGHT: 475.57
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3015,7 +3014,7 @@ MOLECULAR FORMULA: C27H37NO7
 MOLECULAR WEIGHT: 487.59
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3042,7 +3041,7 @@ MOLECULAR FORMULA: C27H37NO7
 MOLECULAR WEIGHT: 489.60
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3069,7 +3068,7 @@ MOLECULAR FORMULA: C28H39NO7
 MOLECULAR WEIGHT: 501.61
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3096,7 +3095,7 @@ MOLECULAR FORMULA: C28H41NO7
 MOLECULAR WEIGHT: 503.63
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3150,7 +3149,7 @@ MOLECULAR FORMULA: C24H31NO7
 MOLECULAR WEIGHT: 445.21
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3206,7 +3205,7 @@ MOLECULAR FORMULA: C24H33NO7
 MOLECULAR WEIGHT: 447.52
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3233,7 +3232,7 @@ MOLECULAR FORMULA: C25H33NO7
 MOLECULAR WEIGHT: 459.22
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3259,7 +3258,7 @@ MOLECULAR FORMULA: C25H35NO7
 MOLECULAR WEIGHT: 461.55
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3286,7 +3285,7 @@ MOLECULAR FORMULA: C26H35NO7
 MOLECULAR WEIGHT: 473.56
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3321,7 +3320,7 @@ MOLECULAR FORMULA: C26H37NO7
 MOLECULAR WEIGHT: 475.57
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 DAF-22
@@ -3357,7 +3356,7 @@ MOLECULAR FORMULA: C13H24O6
 MOLECULAR WEIGHT: 276.33
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) and acox-1(ok2257) mutant worms. 
+CONCISE SUMMARY: Detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3386,7 +3385,7 @@ MOLECULAR FORMULA: C15H26O6
 MOLECULAR WEIGHT: 302.36
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13) and small amounts detected in acox-1(ok2257) mutant worms. 
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and small amounts detected in <i>acox-1(ok2257)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3444,7 +3443,7 @@ MOLECULAR FORMULA: C11H20O6
 MOLECULAR WEIGHT: 248.27
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS:
 (DAF-22)
@@ -3472,7 +3471,7 @@ MOLECULAR FORMULA: C15H28O6
 MOLECULAR WEIGHT: 304.38
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in acox-1(ok2257) mutant worms. Also detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms. Also detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3501,7 +3500,7 @@ MOLECULAR FORMULA: C12H22O6
 MOLECULAR WEIGHT: 262.30
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and dhs-28(hj8), maoc-1(hj13), and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3531,7 +3530,7 @@ MOLECULAR FORMULA: C14H26O6
 MOLECULAR WEIGHT: 290.35
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) and is a major ascaroside in acox-1(ok2257) mutant worms. 
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3562,7 +3561,7 @@ MOLECULAR FORMULA: C16H28O6
 MOLECULAR WEIGHT: 316.39
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3591,7 +3590,7 @@ MOLECULAR FORMULA: C16H30O6
 MOLECULAR WEIGHT: 318.40
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8), maoc-1(hj13), and acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3620,7 +3619,7 @@ MOLECULAR FORMULA: C17H30O6
 MOLECULAR WEIGHT: 330.42
 CAS: tbd
 
-CONCISE SUMMARY: Detected in dhs-28(hj8) and maoc-1(hj13) mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3649,7 +3648,7 @@ MOLECULAR FORMULA: C17H32O6
 MOLECULAR WEIGHT: 332.43
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in acox-1(ok2257) mutant worms. Also detected in maoc-1(hj13) and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms. Also detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3678,7 +3677,7 @@ MOLECULAR FORMULA: C18H32O6
 MOLECULAR WEIGHT: 344.44
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13) and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3707,7 +3706,7 @@ MOLECULAR FORMULA: C18H34O6
 MOLECULAR WEIGHT: 346.46
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257), maoc-1(hj13), daf-22(ok693), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3735,7 +3734,7 @@ MOLECULAR FORMULA: C19H34O6
 MOLECULAR WEIGHT: 358.47
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13) and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3763,7 +3762,7 @@ MOLECULAR FORMULA: C19H36O6
 MOLECULAR WEIGHT: 360.48
 CAS: tbd
  
-CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in acox-1(ok2257), maoc-1(hj13), daf-22(ok693), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3792,7 +3791,7 @@ MOLECULAR FORMULA: C20H36O6
 MOLECULAR WEIGHT: 372.50
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13) and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3821,7 +3820,7 @@ MOLECULAR FORMULA: C20H38O6
 MOLECULAR WEIGHT: 374.51
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257), maoc-1(hj13), daf-22(ok693), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3850,7 +3849,7 @@ MOLECULAR FORMULA: C21H38O6
 MOLECULAR WEIGHT: 386.52
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257), maoc-1(hj13), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3879,7 +3878,7 @@ MOLECULAR FORMULA: C21H40O6
 MOLECULAR WEIGHT: 388.54
 CAS: tbd
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and is also detected in acox-1(ok2257), maoc-1(hj13), daf-22(ok693), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and is also detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3908,7 +3907,7 @@ MOLECULAR FORMULA: C22H40O6
 MOLECULAR WEIGHT: 400.55
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3937,7 +3936,7 @@ MOLECULAR FORMULA: C22H42O6
 MOLECULAR WEIGHT: 402.56
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257), maoc-1(hj13), daf-22(ok693), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3966,7 +3965,7 @@ MOLECULAR FORMULA: C23H42O6
 MOLECULAR WEIGHT: 414.58
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13),and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>,and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -3994,7 +3993,7 @@ MOLECULAR FORMULA: C23H44O6
 MOLECULAR WEIGHT: 416.59
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257), maoc-1(hj13), daf-22(ok693), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4023,7 +4022,7 @@ MOLECULAR FORMULA: C24H44O6
 MOLECULAR WEIGHT: 428.60
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4051,7 +4050,7 @@ MOLECULAR FORMULA: C24H46O6
 MOLECULAR WEIGHT: 430.62
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13), daf-22(ok693), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4080,7 +4079,7 @@ MOLECULAR FORMULA: C25H46O6
 MOLECULAR WEIGHT: 442.63
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13) and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
 
 BIOSYNTHESIS: 
@@ -4110,7 +4109,7 @@ MOLECULAR FORMULA: C25H48O6
 MOLECULAR WEIGHT: 444.64
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13), daf-22(ok693), acox-1(ok2257) and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, <i>acox-1(ok2257)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
 
 BIOSYNTHESIS: 
@@ -4140,7 +4139,7 @@ MOLECULAR FORMULA: C26H48O6
 MOLECULAR WEIGHT: 456.66
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13) and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
 
 BIOSYNTHESIS: 
@@ -4170,7 +4169,7 @@ MOLECULAR FORMULA: C26H50O6
 MOLECULAR WEIGHT: 458.67
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13), daf-22(ok693), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4199,7 +4198,7 @@ MOLECULAR FORMULA: C27H50O6
 MOLECULAR WEIGHT: 470.68
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13) and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4228,7 +4227,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in maoc-1(hj13), daf-22(ok693), and dhs-28(hj8) mutant worms.
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4256,7 +4255,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4312,7 +4311,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS:
 (DAF-22)
@@ -4340,7 +4339,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4368,7 +4367,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4396,7 +4395,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4424,7 +4423,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4452,7 +4451,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4480,7 +4479,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) mutant worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4536,7 +4535,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -4592,7 +4591,7 @@ MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
 CAS: tbd
 
-CONCISE SUMMARY: Detected in acox-1(ok2257) worms.
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
 
 BIOSYNTHESIS: 
 (DAF-22)
