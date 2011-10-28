@@ -3320,12 +3320,14 @@ CAS: tbd
 CONCISE SUMMARY: Detected in dhs-28(hj8), acox-1(ok2257), and maoc-1(hj13) mutant worms.
 
 BIOSYNTHESIS: 
-DAF-22; (http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene); 
-DHS-28; (http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene);
-ACOX-1;
-(http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene);
-MAOC-1;
-(http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene);
+DAF-22
+(http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene)
+DHS-28
+(http://www.wormbase.org/db/gene/gene?name=WBGene00000991;class=Gene)
+ACOX-1
+(http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene)
+MAOC-1
+(http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene)
 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
