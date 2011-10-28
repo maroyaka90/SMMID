@@ -19,7 +19,7 @@ MOLECULAR FORMULA: C13H24O6
 MOLECULAR WEIGHT: 276.33
 CAS: 690991-47-0
 
-CONCISE SUMMARY: Very low dauer induction activity in <i>C. elegans</i>.  No mating activity in <i>C. elegans</i>.
+CONCISE SUMMARY:  dauer inducing. 
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -32,43 +32,48 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
-RECEPTORS: tbd
+RECEPTORS:
+
+(SRBC-64)
+http://www.wormbase.org/db/gene/gene?name=WBGene00021477
+
+(SRBC-66)
+http://www.wormbase.org/db/gene/gene?name=WBGene00020746;class=Gene
+
+
+
 
 REFERENCES:
 
-(Paik and Jeong 2004) 
-http://v3.espacenet.com/publicationDetails/originalDocument"CC=WO&NR=2004043944A1&KC=A1&FT=D&date=20040527&DB=EPODOC&locale=en_ep
-
+(Jeong, Jung et al. 2005) 
+http://www.ncbi.nlm.nih.gov/pubmed/15690045
 
 (Guo and O'Doherty 2005) 
 http://www.ncbi.nlm.nih.gov/pubmed/16119932
-
-(Jeong, Jung et al. 2005) 
-http://www.ncbi.nlm.nih.gov/pubmed/15690045?ordinalpos=51&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum
 
 (Jung and Paik 2005) 
 http://v3.espacenet.com/publicationDetails/biblio?DB=EPODOC&adjacent=true&locale=en_ep&FT=D&date=20050818&CC=WO&NR=2005075491A1&KC=A1 
 
 (Schroeder 2006) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17163670
+http://www.ncbi.nlm.nih.gov/pubmed/17163670
 
 (Butcher, Fujita et al. 2007) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17558398
+http://www.ncbi.nlm.nih.gov/pubmed/17558398
 
 (Butcher, Ragains et al. 2008) 
-http://www.ncbi.nlm.nih.gov/pubmed/18791072?ordinalpos=3&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum
+http://www.ncbi.nlm.nih.gov/pubmed/18791072
 
 (Baiga 2008) 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2692194 
 
 (Butcher, Ragains et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19174521
+http://www.ncbi.nlm.nih.gov/pubmed/19545143
 
 (Jeong, Na et al. 2009) 
-http://www.ncbi.nlm.nih.gov/pubmed/19381582?ordinalpos=6&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum
+http://www.ncbi.nlm.nih.gov/pubmed/19381582
 
 (Joo, Yim et al. 2009) 
-http://www.ncbi.nlm.nih.gov/pubmed/19496754?ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum 
+http://www.ncbi.nlm.nih.gov/pubmed/19496754
 
 (Gallo and Riddle 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19190963 
@@ -82,6 +87,9 @@ http://www.ncbi.nlm.nih.gov/pubmed/19342127
 (Martin, Schafer et al. 2009) 
 https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
 
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+
 (Lee, Kim et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/19940149 
 
@@ -91,8 +99,20 @@ http://www.ncbi.nlm.nih.gov/pubmed/20610393
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
 
+(La Clair 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20422068 
+
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
+
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166
+
+
+
 
 SMMID: ascr#2
 
@@ -103,7 +123,7 @@ MOLECULAR FORMULA: C12H22O5
 MOLECULAR WEIGHT: 246.30
 CAS: 946524-24-9
 
-CONCISE SUMMARY: Dauer induction activity (nM) (high activity, moderate mating activity, synergizes with ascr#3 for male attraction with full reconstitution of male attraction in ternary mixture with ascr#3 and ascr#8 (fM), and exhibits some synergy with ascr#4 in <i>C. elegans</i>.
+CONCISE SUMMARY: dauer inducing, male attractant, synergizes with ascr#3, ascr#4, and ascr#8 in male attraction.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -118,29 +138,39 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
 (MAOC-1)
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
-RECEPTORS: tbd
+RECEPTORS:
+
+(SRBC-64)
+http://www.wormbase.org/db/gene/gene?name=WBGene00021477
+
+(SRBC-66)
+http://www.wormbase.org/db/gene/gene?name=WBGene00020746;class=Gene
+
 
 
 REFERENCES:
 
 
 (Butcher, Fujita et al. 2007) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17558398
+http://www.ncbi.nlm.nih.gov/pubmed/17558398
 
 (Butcher, Ragains et al. 2008) 
-http://www.ncbi.nlm.nih.gov/pubmed/18791072?ordinalpos=3&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum
+http://www.ncbi.nlm.nih.gov/pubmed/18791072
 
 (Srinivasan, Kaplan et al. 2008) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18650807
+http://www.ncbi.nlm.nih.gov/pubmed/18650807
 
 (Macosko, Pokala et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19349961 
+http://www.ncbi.nlm.nih.gov/pubmed/19349961 
+
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 
 (Butcher, Ragains et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19174521 
+http://www.ncbi.nlm.nih.gov/pubmed/19545143
 
 (Pungaliya, Srinivasan et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19346493 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493 
 
 (Joo, Yim et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19496754
@@ -151,17 +181,35 @@ https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
 (Kim, Sato et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19797623
 
+(Kaplan, Badri et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19649780 
+
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
 
 (Yamada, Hirotsu et al. 2010)
 http://www.ncbi.nlm.nih.gov/pubmed/20929849
 
-(McGrath, Xu et al. 2011)
+(Prince, Pohnert 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/19813005
+
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+
+(McGrath, Xu et al. 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21849976
 
-(Kaplan, Srinivasan et al. 2011)
+(Kaplan, Srinivasan et al. 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
+
+(Chung, Zhan et al. 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21935539
+
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166
+
+
+
 
 SMMID: ascr#3
 
@@ -172,7 +220,7 @@ MOLECULAR FORMULA: C15H26O6
 MOLECULAR WEIGHT: 302.36
 CAS: 946524-26-1
 
-CONCISE SUMMARY: Dauer induction activity (nM) (high activity, moderate mating activity, synergizes with ascr#3 for male attraction with full reconstitution of male attraction in ternary mixture with ascr#3 and ascr#8 (fM), and exhibits some synergy with ascr#4 in <i>C. elegans</i>.
+CONCISE SUMMARY: dauer inducing, male attractant, synergizes with ascr#2, ascr#4, and ascr#8 in male attraction.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -188,32 +236,43 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 
-RECEPTORS: tbd
+RECEPTORS: 
+(SRBC-64)
+http://www.wormbase.org/db/gene/gene?name=WBGene00021477
+
+(SRBC-66)
+http://www.wormbase.org/db/gene/gene?name=WBGene00020746;class=Gene
 
 
 REFERENCES:
 
 
 (Butcher, Fujita et al. 2007) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17558398
+http://www.ncbi.nlm.nih.gov/pubmed/17558398
 
 (Butcher, Ragains et al. 2008) 
-http://www.ncbi.nlm.nih.gov/pubmed/18791072?ordinalpos=3&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum
+http://www.ncbi.nlm.nih.gov/pubmed/18791072
 
 (Srinivasan, Kaplan et al. 2008) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18650807
+http://www.ncbi.nlm.nih.gov/pubmed/18650807
 
 (Baiga 2008) 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2692194 
 
 (Macosko, Pokala et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19349961 
+http://www.ncbi.nlm.nih.gov/pubmed/19349961 
 
-(Butcher, Ragains et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19174521 
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 
 (Pungaliya, Srinivasan et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19346493 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493 
+
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+
+(Butcher, Ragains et al. 2009B) 
+http://www.ncbi.nlm.nih.gov/pubmed/19545143 
 
 (Kim, Sato et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19797623
@@ -221,17 +280,33 @@ http://www.ncbi.nlm.nih.gov/pubmed/19797623
 (Joo, Yim et al. 2009)
 http://www.ncbi.nlm.nih.gov/pubmed/19496754 
 
+(Kaplan, Badri et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19649780 
+
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
- 
+
 (Yamada, Hirotsu et al. 2010)
 http://www.ncbi.nlm.nih.gov/pubmed/20929849
+
+(Prince, Pohnert 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/19813005
+
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+
+(La Clair 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20422068 
 
 (McGrath, Xu et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21849976
 
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
+
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166 
+
 
 SMMID: ascr#4
 
@@ -242,7 +317,7 @@ MOLECULAR FORMULA: C18H32O10
 MOLECULAR WEIGHT: 408.44
 CAS: 1255514-32-9
 
-CONCISE SUMMARY: Low dauer induction activity and no mating activity alone, male attraction in low concentrations with ascr#2 and ascr#3, hermaphrodite repulsion in high concentrations with ascr#2 and ascr#3, and not produced in liquid cultures in <i>C. elegans</i>.
+CONCISE SUMMARY: weakly dauer inducing, synergizes with ascr#2, ascr#3, and ascr#8 in male attraction.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -266,19 +341,35 @@ REFERENCES:
 
 
 (Srinivasan, Kaplan et al. 2008) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18650807
+http://www.ncbi.nlm.nih.gov/pubmed/18650807
 
 (Pungaliya, Srinivasan et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19346493
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
+
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 
 (Martin, Schafer et al. 2009) 
 https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
 
+(Kaplan, Badri et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19649780 
+
+(Joo, Yim et al.) 
+http://www.ncbi.nlm.nih.gov/pubmed/19496754 
+
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418 
 
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
+
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166 
+
 
 SMMID: ascr#5
 
@@ -289,7 +380,7 @@ MOLECULAR FORMULA: C9H16O6
 MOLECULAR WEIGHT: 220.22
 CAS: 1086696-26-5
 
-CONCISE SUMMARY: High dauer formation activity in <i>C. elegans</i> with synergism with ascr#2 and ascr#3.  Also, ASK dependent synergistic mating behavior in <i>C. elegans</i> with combinations of ascr#2 and ascr#3.
+CONCISE SUMMARY:  dauer inducing, synergizes with ascr#2 and ascr#3.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -317,28 +408,41 @@ REFERENCES:
 
 
 (Butcher, Ragains et al. 2008) 
-http://www.ncbi.nlm.nih.gov/pubmed/18791072?ordinalpos=3&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum
+http://www.ncbi.nlm.nih.gov/pubmed/18791072
 
 (Macosko, Pokala et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19349961
+http://www.ncbi.nlm.nih.gov/pubmed/19349961
+
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 
 (Butcher, Ragains et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19174521
+http://www.ncbi.nlm.nih.gov/pubmed/19545143
 
 (Pungaliya, Srinivasan et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19346493 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493 
 
 (Kim, Sato et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19797623 
 
+(Joo, Yim et al.) 
+http://www.ncbi.nlm.nih.gov/pubmed/19496754 
+
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
+
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
 
 (McGrath, Xu et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21849976
 
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
+
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166 
+
 
 SMMID: ascr#6.1
 
@@ -349,7 +453,7 @@ MOLECULAR FORMULA: C12H24O5
 MOLECULAR WEIGHT: 248.32
 CAS: 1172120-36-3
 
-CONCISE SUMMARY: Moderate male attraction and low dauer induction activity in <i>C. elegans</i>.
+CONCISE SUMMARY:  dauer inducing.
 . 
 BIOSYNTHESIS: (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
@@ -372,7 +476,10 @@ REFERENCES:
 
 
 (Pungaliya, Srinivasan et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19346493
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
+
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
@@ -389,7 +496,7 @@ MOLECULAR FORMULA: C12H24O5
 MOLECULAR WEIGHT: 248.32
 CAS: 1172120-41-0
 
-CONCISE SUMMARY: No dauer induction or mating activity known in <i>C. elegans</i>.  Diastereomer of ascr#6.1.
+CONCISE SUMMARY: Diastereomer of ascr#6.1.
 
 BIOSYNTHESIS: (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
@@ -412,13 +519,16 @@ REFERENCES:
 
 
 (Pungaliya, Srinivasan et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19346493
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
 
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
 
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
+
+
+
 
 SMMID: ascr#7
 
@@ -429,7 +539,7 @@ MOLECULAR FORMULA: C13H22O6
 MOLECULAR WEIGHT: 274.31
 CAS: 1139837-37-8
 
-CONCISE SUMMARY: Little to no male attraction or dauer induction activity in <i>C. elegans</i>.
+CONCISE SUMMARY: weakly dauer inducing and weak male attractant.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -453,17 +563,29 @@ REFERENCES:
 
 
 (Pungaliya, Srinivasan et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19346493
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
+
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 
 (Martin, Schafer et al. 2009) 
 https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
 
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
- 
+
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+
+(La Clair 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20422068 
+
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
- 
+
+
+
+
 SMMID: ascr#8
 
 CHEMICAL NAME: N-(6'R-[3''R,5''R-dihydroxy-6''S-methyl-(2H)-tetrahydropyran-2'-yloxy]-2'E-heptenoyl)-4-aminobenzoic acid
@@ -473,7 +595,7 @@ MOLECULAR FORMULA: C20H27NO7
 MOLECULAR WEIGHT: 393.43
 CAS: 1172120-40-9
 
-CONCISE SUMMARY: Moderate dauer induction activity in <i>C. elegans</i>.  High male attraction activity and synergy with ascr#2 and ascr#3 in <i>C. elegans</i>.
+CONCISE SUMMARY:  dauer inducing, strongly male attracting, synergizes with ascr#2 and ascr#3.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -494,14 +616,28 @@ REFERENCES:
 
 
 (Pungaliya, Srinivasan et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19346493
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
+
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418 
- 
+
+(Prince, Pohnert 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/19813005
+
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
- 
+
+
+
+
+
+
 SMMID: icas#9
 
 CHEMICAL NAME: (4R)-4-((3,6-dideoxy-4-O-(1H-indol-3-ylcarbonyl)-a-L-arabino-hexopyranosyl)oxy)-pentanoic acid
@@ -511,7 +647,7 @@ MOLECULAR FORMULA: C20H25NO7
 MOLECULAR WEIGHT: 391.42
 CAS: 1173933-40-8
 
-CONCISE SUMMARY: Moderate dauer induction activity in <i>C. elegans</i> (bell-shaped response).  Mating activity in <i>C. elegans</i> has not been tested.
+CONCISE SUMMARY:  dauer inducing (bell-shaped response).
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -532,11 +668,17 @@ RECEPTORS: tbd
 
 REFERENCES:
 
-(Butcher, Ragains 2010)
-http://pubs.acs.org/doi/abs/10.1021/ol901011c
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19545143
+
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
 
 (McGrath, Xu et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21849976
+
+
+
 
 SMMID: dafa#1
 
@@ -573,19 +715,19 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00000908;class=Gene
 REFERENCES:
 
 (Motola, Cummins et al. 2006) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16529801 
+http://www.ncbi.nlm.nih.gov/pubmed/16529801 
 
 (Schroeder 2006) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17163670 
+http://www.ncbi.nlm.nih.gov/pubmed/17163670 
 
 (Beckstead and Thummel 2006) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16564008 
+http://www.ncbi.nlm.nih.gov/pubmed/16564008 
 
 (Gerisch, Rottiers et al. 2007) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17360327 
+http://www.ncbi.nlm.nih.gov/pubmed/17360327 
 
 (Giroux and Corey 2007) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17658816 
+http://www.ncbi.nlm.nih.gov/pubmed/17658816 
 
 (Mangelsdorf, Auchus et al. 2007) 
 http://v3.espacenet.com/publicationDetails/biblio?DB=EPODOC&adjacent=true&locale=en_ep&FT=D&date=20070913&CC=WO&NR=2007103508A2&KC=A2
@@ -594,22 +736,22 @@ http://v3.espacenet.com/publicationDetails/biblio?DB=EPODOC&adjacent=true&locale
 http://www.ncbi.nlm.nih.gov/pubmed/18495818
 
 (Giroux and Corey 2008) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18247628 
+http://www.ncbi.nlm.nih.gov/pubmed/18247628 
 
 (Giroux, Bethke et al. 2008) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18642835 
+http://www.ncbi.nlm.nih.gov/pubmed/18642835 
 
 (Martin, Dabritz et al. 2008) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19005586 
+http://www.ncbi.nlm.nih.gov/pubmed/19005586 
 
 (Sharma, Wang et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19196833 
+http://www.ncbi.nlm.nih.gov/pubmed/19196833 
 
 (Martin, Entchev et al. 2009) 
-http://onlinelibrary.wiley.com/doi/10.1002/ejoc.200900443/abstract;jsessionid=D05A7E52AD99F70F5196390F411DCEB0.d01t02
+http://www.ncbi.nlm.nih.gov/pubmed/20135027
 
 (Wang, Zhou et al. 2009) 
-http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695123
+http://www.ncbi.nlm.nih.gov/pubmed/19497877
 
 (Hannich, Entchev et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19531354
@@ -622,6 +764,9 @@ http://www.ncbi.nlm.nih.gov/pubmed/20592728
 
 (Gioiello, Sabbatini et al. 2011) 
 http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THR-523JY1P-2&_user=492137&_coverDate=03%2F11%2F2011&_alid=1671926313&_rdoc=3&_fmt=high&_orig=search&_origin=search&_zone=rslt_list_item&_cdi=5289&_sort=r&_st=13&_docanchor=&view=c&_ct=3&_acct=C000022719&_version=1&_urlVersion=0&_userid=492137&md5=42860e68bdf0c64a4487b0d221a7470a&searchtype=a
+
+
+
 
 SMMID: dafa#2
 
@@ -653,34 +798,34 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00007536;class=Gene
 
 REFERENCES:
 (Motola, Cummins et al. 2006) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16529801
+http://www.ncbi.nlm.nih.gov/pubmed/16529801
 
 (Schroeder 2006) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17163670 
+http://www.ncbi.nlm.nih.gov/pubmed/17163670 
 
 (Beckstead and Thummel 2006) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16564008
+http://www.ncbi.nlm.nih.gov/pubmed/16564008
 
 (Gerisch, Rottiers et al. 2007) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17360327 
+http://www.ncbi.nlm.nih.gov/pubmed/17360327 
 
 (Giroux and Corey 2007) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17658816 
+http://www.ncbi.nlm.nih.gov/pubmed/17658816 
 
 (Patel, Fang et al. 2008) 
 http://www.ncbi.nlm.nih.gov/pubmed/18495818 
 
 (Giroux and Corey 2008) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18247628 
+http://www.ncbi.nlm.nih.gov/pubmed/18247628 
 
 (Giroux, Bethke et al. 2008) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18642835 
+http://www.ncbi.nlm.nih.gov/pubmed/18642835 
 
 (Martin, Dabritz et al. 2008) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19005586 
+http://www.ncbi.nlm.nih.gov/pubmed/19005586 
 
 (Sharma, Wang et al. 2009) 
-http://www.ncbi.nlm.nih.gov/entrez/query.fcgi"Cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19196833 
+http://www.ncbi.nlm.nih.gov/pubmed/19196833 
 
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
@@ -716,8 +861,8 @@ RECEPTORS: tbd
 
 REFERENCES:
 
-(Branicky, Desjardins et al. 2010) 
-http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(von Reuss et al. 2011) 
+http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
 SMMID: ascr#10
 
@@ -1007,6 +1152,10 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 REFERENCES: 
 
+
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1090,6 +1239,9 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 REFERENCES: 
 
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1118,6 +1270,9 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 REFERENCES: 
 
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1143,6 +1298,7 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
+
 REFERENCES: 
 
 (von Reuss et al. 2011) 
@@ -1170,7 +1326,11 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00008564;class=Gene
 http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
+
 REFERENCES: 
+
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
 
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
@@ -1700,6 +1860,9 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 REFERENCES: 
 
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1728,6 +1891,9 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 REFERENCES: 
 
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
@@ -1754,7 +1920,11 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 
 RECEPTORS: tbd
+
 REFERENCES: 
+
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
 
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
@@ -1783,6 +1953,9 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
+
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
 
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
