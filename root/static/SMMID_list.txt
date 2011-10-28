@@ -1814,7 +1814,6 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 RECEPTORS: tbd
 REFERENCES: 
-
 (von Reuss et al. 2011) 
 http://www.wormbase.org/db/misc/paper?name=WBPaper00038769;class=Paper
 
