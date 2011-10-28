@@ -547,7 +547,7 @@ MOLECULAR FORMULA: C27H42O3
 MOLECULAR WEIGHT: 414.62
 CAS: 949004-12-0
 
-CONCISE SUMMARY: Putative endogenous ligand for DAF-12; (http://www.wormbase.org/db/gene/gene?name=WBGene00000908;class=Gene).
+CONCISE SUMMARY: Putative endogenous ligand for DAF-12.
 
 BIOSYNTHESIS: 
 (HSD-1)
@@ -614,7 +614,11 @@ MOLECULAR FORMULA: C27H42O3
 MOLECULAR WEIGHT: 414.62
 CAS: 869858-35-5
 
-CONCISE SUMMARY: Putative endogenous ligand for DAF-12; (http://www.wormbase.org/db/gene/gene?name=WBGene00000908;class=Gene).
+CONCISE SUMMARY: Putative endogenous ligand for DAF-12
+
+RECEPTOR(S):
+DAF-12
+http://www.wormbase.org/db/gene/gene?name=WBGene00000908;class=Gene
 
 BIOSYNTHESIS: 
 (HSD-1)
