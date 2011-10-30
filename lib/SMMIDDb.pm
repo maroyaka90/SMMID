@@ -54,7 +54,7 @@ sub fetch {
 	while (<$F>) { 
 	    chomp;
 	    next() if !$_;
-	    if (/^SMMID\:\s*(.*\#.*)/) { 
+	    if (/^SMMID\:\s*(.*\#.*)$/) { 
 		$current = $1;
 		$SMMID{$current}->{SMMID}=$current;
 		
