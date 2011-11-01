@@ -1,18 +1,7 @@
 
 <table>
 <h2>SMID list last revised 10-27-2011</h2>
-<div id="cse" style="width: 100%;">Loading</div>
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
-  google.setOnLoadCallback(function() {
-    var customSearchControl = new google.search.CustomSearchControl('004795141822919065775:gaecjrdffnw');
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    customSearchControl.draw('cse');
-  }, true);
-</script>
 
-      
 
 [% FOREACH s = all_smmids %]
 
