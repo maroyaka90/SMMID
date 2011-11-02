@@ -60,13 +60,14 @@ sub detail :Path('/detail') {
 ##    print STDERR "RECEPTOR LINKS: ". $s->get_links("RECEPTORS");
 
     eval { 
-	$c->stash->{smmid}=$s->get_smmid();
+
 	$c->stash->{chemical_name}=$s->get_name();
     };
     if ($@) { 
 	$c->forward('error_page', "No SMID available for code $smmid");
+	return;
     }
-
+    $c->stash->{smmid}=$s->get_smmid();
     $c->stash->{synonyms} = $s->get_synonyms();
     $c->stash->{molecular_weight}=$s->get_molecular_weight();
     $c->stash->{concise_summary} = $s->get_concise_summary();
