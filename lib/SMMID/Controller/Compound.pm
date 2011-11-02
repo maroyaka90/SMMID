@@ -48,14 +48,25 @@ sub detail :Path('/detail') {
     my ($self , $c, $smmid) = @_;
 
     my $file = $c->config->{"smid_file"};
-    my $s = SMMIDDb->new($file, $smmid);
+
+    my $s;
+
+    $s = SMMIDDb->new($file, $smmid);
+    
+
 
         #print STDERR Dumper($s);
 
 ##    print STDERR "RECEPTOR LINKS: ". $s->get_links("RECEPTORS");
 
-    $c->stash->{smmid}=$s->get_smmid();
-    $c->stash->{chemical_name}=$s->get_name();
+    eval { 
+	$c->stash->{smmid}=$s->get_smmid();
+	$c->stash->{chemical_name}=$s->get_name();
+    };
+    if ($@) { 
+	$c->forward('error_page', "No SMID available for code $smmid");
+    }
+
     $c->stash->{synonyms} = $s->get_synonyms();
     $c->stash->{molecular_weight}=$s->get_molecular_weight();
     $c->stash->{concise_summary} = $s->get_concise_summary();
@@ -77,7 +88,13 @@ sub detail :Path('/detail') {
 
 }
 
-
+sub error_page :Path('error_page') :Args(1) {
+    my ($self, $c, $message) = @_;
+    
+    $c->stash->{error} = "No information available for SMID $message" ;
+    $c->stash->{template}="error.tt2";
+    return;
+}
 
 =head1 AUTHOR
 

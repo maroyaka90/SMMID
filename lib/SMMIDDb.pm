@@ -93,9 +93,9 @@ sub fetch {
 
 sub get_name {
   my $self = shift;
-  #if (!exists $SMMID{$self->get_smmid()}) { 
-  #    die "Need to set smmid first with set_smmid()";
-  #}
+if (!exists $SMMID{$self->get_smmid()}) { 
+    die "Need to set smmid first with set_smmid()";
+}
   my $name =  $SMMID{$self->get_smmid()}->{"CHEMICAL NAME"}; 
   print STDERR "Chemical name is $name\n";
   return $name;
