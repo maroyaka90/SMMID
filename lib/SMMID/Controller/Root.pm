@@ -39,7 +39,9 @@ sub default :Path {
     $c->response->status(404);
     
 }
-
+sub contact :Path('/links') :Args(0) { 
+    my ($self, $c) = @_;
+}
 
 
 sub contact :Path('/contact') :Args(0) { 
