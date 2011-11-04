@@ -1,0 +1,9 @@
+
+<h1>SMID DB search results for term "<b>[% term %]</b>": [% results.size %] matches</h1>
+
+[% FOREACH match IN results %]
+   <a href="/detail/[% match.1 %]">[% match.0 %]</a><br />
+
+[% END %]
+
+
