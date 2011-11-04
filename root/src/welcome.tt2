@@ -11,6 +11,13 @@ in metabolomic and genomic applications. Conceptually, SMIDs represent gene-styl
 <a href="/links">Metabolomics resources</a><br /><br />
 <a href="/contact">Contact us</a><br /><br />
 
+Search SMIDs<br />
+<form action="/search">
+<input name="term" />
+<input type="submit" value="search" />
+</form>
+	
+
 <br />
 <b>SMID-DB.org is operating in beta-mode.  Please report any errors to <b><a href="mailto:smid-db@cornell.edu">smid-db@cornell.edu</a></b>. <br/><br/><br/>
 

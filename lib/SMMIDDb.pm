@@ -15,8 +15,7 @@ sub new {
     my $self = bless {}, $class;
 
     $self->set_smmid($smmid);
-
-    print STDERR "SMMID FILE = $file\n";
+    #print STDERR "SMMID FILE = $file\n";
     $self->{smmid_file} = $file;
 
     $self->fetch();
@@ -41,7 +40,8 @@ sub get_smmid {
 
 sub set_smmid {
   my $self = shift;
-  $self->{smmid} = shift;
+  my $smmid = shift;
+  $self->{smmid} = $smmid
 }
 
 sub fetch { 
@@ -56,6 +56,7 @@ sub fetch {
 	    next() if !$_;
 	    if (/^SMMID\:\s*(.*\#.*)$/) { 
 		$current = $1;
+		chomp($current);
 		$SMMID{$current}->{SMMID}=$current;
 		
 	    }
@@ -300,10 +301,10 @@ sub get_receptors {
 
 =head2 all_smmids
 
- Usage:
- Desc:
- Ret:
- Args:
+ Usage:         my @smmids = SMMIDDb->new($smmid_file);
+ Desc:          returns all the SMIDs in the database
+ Ret:           a list of SMMIDDb objects
+ Args:          the smmid file to parse
  Side Effects:
  Example:
 
@@ -324,12 +325,69 @@ sub all_smmids {
 	
 	push @all_smmids, $smmid;
     }
+
+    my @sorted_smmids = sort smmid_sort @all_smmids;
+    
     return @all_smmids;
     
+}
+
+sub smmid_sort { 
+    my $asmmid = $a->get_smmid();
+    my $bsmmid = $b->get_smmid();
+    
+    print STDERR "SMID A: $asmmid\n";
+    print STDERR "SMID B: $bsmmid\n";
+    my ($sa, $na) = split "#", $asmmid;
+    my ($sb, $nb) = split "#", $bsmmid;
+    
+    #if (!($sa cmp $sb) ) {
+	print STDERR "SORTING N.. ".($na <=> $nb)."\n";
+	return $nb <=> $na;
+    #}
+    print STDERR "SORTING AB ".($sa cmp $sb)."\n";
+    return $sb cmp $sa;
+}
+
+
+=head2 search
+
+ Usage:
+ Desc:         searches a match of the term with the smmid, concise 
+               summary or cas number
+ Ret:          a list of smmids [strings]
+ Args:         a smmid definition file, and the search string
+ Side Effects:
+ Example:
+
+=cut
+
+sub search {
+    my $self = shift;
+    my $file = shift;
+    my $string = shift;
+    $string =~ s/\{|\}|\;//g;
+    
+    my @smids = SMMIDDb->all_smmids($file);
+    
+    my @results = ();
+
+    foreach my $smid (@smids) { 
+	print STDERR "Checking match between $smid and $string\n";
+	if ($smid->get_name() =~ m/$string/i || 
+	    $smid->get_concise_summary() =~ m/$string/i ||
+	    $smid->get_cas() =~ m/$string/i ||
+	    $smid->get_smmid() =~ m/$string/i 
+	    ) { 
+	    push @results, $smid->get_smmid();
+	
+	}
+    }
+    return @results;
 }
 
 
 
 
     
-return 1;
+1;
