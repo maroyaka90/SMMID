@@ -326,27 +326,30 @@ sub all_smmids {
 	push @all_smmids, $smmid;
     }
 
-    my @sorted_smmids = sort smmid_sort @all_smmids;
+    my @sorted_smmids = sort { &smmid_sort($a, $b); } @all_smmids;
     
-    return @all_smmids;
+    return @sorted_smmids;
     
 }
 
 sub smmid_sort { 
     my $asmmid = $a->get_smmid();
     my $bsmmid = $b->get_smmid();
+    $asmmid =~s/\r//g;
+    $bsmmid =~s/\r//g;
+
+    my ($sa, $na) = split /\#/, $asmmid;
+    my ($sb, $nb) = split /\#/, $bsmmid;
     
-    print STDERR "SMID A: $asmmid\n";
-    print STDERR "SMID B: $bsmmid\n";
-    my ($sa, $na) = split "#", $asmmid;
-    my ($sb, $nb) = split "#", $bsmmid;
-    
-    #if (!($sa cmp $sb) ) {
-	print STDERR "SORTING N.. ".($na <=> $nb)."\n";
-	return $nb <=> $na;
-    #}
-    print STDERR "SORTING AB ".($sa cmp $sb)."\n";
-    return $sb cmp $sa;
+    # sort by numeric part if text part is identical
+    if (($sa eq $sb) ) {
+        return $na <=> $nb;
+    }
+    else { 
+	# otherwise sort alphabetically on text part
+	print STDERR "SORTING AB $sa, $sb  ".($sa cmp $sb)."\n";
+	return $sa cmp $sb;
+    }
 }
 
 
@@ -377,7 +380,8 @@ sub search {
 	if ($smid->get_name() =~ m/$string/i || 
 	    $smid->get_concise_summary() =~ m/$string/i ||
 	    $smid->get_cas() =~ m/$string/i ||
-	    $smid->get_smmid() =~ m/$string/i 
+	    $smid->get_smmid() =~ m/$string/i ||
+	    $smid->get_synonyms() =~ m/$string/i 
 	    ) { 
 	    push @results, $smid->get_smmid();
 	
