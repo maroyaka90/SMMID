@@ -357,6 +357,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/21423575
 http://www.ncbi.nlm.nih.gov/pubmed/21959166 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Srinivasan, von Reuss et al. 2012)
+http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 
 SMMID: ascr#6.1
 
@@ -393,6 +395,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/19665885
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
+(Srinivasan, von Reuss et al. 2012)
+http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 
 SMMID: ascr#6.2
 
