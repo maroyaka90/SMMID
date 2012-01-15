@@ -52,11 +52,11 @@ sub about :Path('/about') :Args(0) {
     my ($self, $c) = @_;
 }
 
-sub about :Path('/howtocite') :Args(0) {
+sub howtocite :Path('/howtocite') :Args(0) {
     my ($self, $c) = @_;
 }
 
-sub about :Path('/downloads') :Args(0) {
+sub downloads :Path('/downloads') :Args(0) {
     my ($self, $c) = @_;
 }
 
