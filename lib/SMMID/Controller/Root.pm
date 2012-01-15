@@ -56,7 +56,7 @@ sub howtocite :Path('/howtocite') :Args(0) {
     my ($self, $c) = @_;
 }
 
-sub downloads :Path('/downloads') :Args(0) {
+sub download :Path('/download') :Args(0) {
     my ($self, $c) = @_;
 }
 
