@@ -9,8 +9,10 @@ in metabolomic and genomic applications. Conceptually, SMIDs represent gene-styl
 <a href="/about">More about SMIDs</a><br /><br />
 <a href="/browse">Browse SMIDs</a><br /><br />
 <a href="/links">Metabolomics resources</a><br /><br />
-<a href="/contact">Contact us</a><br /><br />
+<a href="/download">Download</a><br/><br/>
 <a href="/howtocite">How to cite SMID DB</a><br /><br />
+<a href="/contact">Contact us</a><br /><br />
+
 
 Search SMIDs<br />
 <form action="/search">
