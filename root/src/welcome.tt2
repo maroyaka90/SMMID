@@ -8,7 +8,7 @@ in metabolomic and genomic applications.     <br /><br />
 
 
 <a href="/browse"><b>Browse SMIDs</b></a><br /><br />
-<b>Search SMIDs (example: ascr#3)</b><br />
+<b>Search SMIDs <br/>(example: ascr#3)</b><br />
 <form action="/search">
 <input name="term" />
 <input type="submit" value="search" />
