@@ -4287,8 +4287,8 @@ SMMID: glas#1
 CHEMICAL NAME: beta-D-glucos-1''-yl-6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C19H32O11
+MOLECULAR WEIGHT: 438.21
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -4315,8 +4315,8 @@ SMMID: glas#3
 CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C21H36O11
+MOLECULAR WEIGHT: 464.22
 CAS: tbd
 
 CONCISE SUMMARY: Detected in acox-1 mutant worms.
@@ -4343,8 +4343,8 @@ SMMID: glas#10
 CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonaoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C21H38O11
+MOLECULAR WEIGHT: 466.24
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -4371,8 +4371,8 @@ SMMID: glas#16
 CHEMICAL NAME: beta-D-glucos-1''-yl-9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C22H40O11
+MOLECULAR WEIGHT: 480.26
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -4399,8 +4399,8 @@ SMMID: glas#18
 CHEMICAL NAME: beta-D-glucos-1''-yl-10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C23H42O11
+MOLECULAR WEIGHT: 494.27
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -4427,8 +4427,8 @@ SMMID: glas#20
 CHEMICAL NAME: beta-D-glucos-1''-yl-11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C24H44O11
+MOLECULAR WEIGHT: 508.29
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -4455,8 +4455,8 @@ SMMID: glas#22
 CHEMICAL NAME: beta-D-glucos-1''-yl-12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C25H46O11
+MOLECULAR WEIGHT: 522.30
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -4483,8 +4483,8 @@ SMMID: glas#24
 CHEMICAL NAME: beta-D-glucos-1''-yl-13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C26H48O11
+MOLECULAR WEIGHT: 536.32
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -4511,8 +4511,8 @@ SMMID: glas#26
 CHEMICAL NAME: beta-D-glucos-1''-yl-14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C27H50O11
+MOLECULAR WEIGHT: 550.34
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -4539,8 +4539,8 @@ SMMID: hbas#3
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid 
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C22H30O8
+MOLECULAR WEIGHT: 422.19
 CAS: tbd
 
 CONCISE SUMMARY: Detected in wild type worms.
@@ -4567,8 +4567,8 @@ SMMID: hbas#10
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C22H32O8
+MOLECULAR WEIGHT: 424.21
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
@@ -4595,8 +4595,8 @@ SMMID: mbas#3
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-((E)-2-methyl-2-butenoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C20H32O7
+MOLECULAR WEIGHT: 384.21
 CAS: tbd
 
 CONCISE SUMMARY: Detected in wild type worms.
@@ -4623,8 +4623,8 @@ SMMID: mbas#10
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-((E)-2-methyl-2-butenoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H52O6
-MOLECULAR WEIGHT: 472.70
+MOLECULAR FORMULA: C20H34O7
+MOLECULAR WEIGHT: 386.23
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
