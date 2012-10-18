@@ -93,6 +93,10 @@ http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Izrayelit et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22662967
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: ascr#2
 
@@ -172,6 +176,12 @@ http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Park et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Jang, Kim et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22920251
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: ascr#3
 
@@ -253,6 +263,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202yascr
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
 (Izrayelit et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22662967
+(Jang, Kim et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22920251
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: ascr#4
 
@@ -305,7 +321,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/21959166
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Park et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
-
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 
 SMMID: ascr#5
@@ -372,7 +389,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 (Park et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
-
+(Jang, Kim et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22920251
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: ascr#6.1
 
@@ -411,6 +433,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/20151418
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
 (Srinivasan, von Reuss et al. 2012)
 http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: ascr#6.2
 
@@ -496,6 +520,10 @@ http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Park et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: ascr#8
 
@@ -539,6 +567,10 @@ http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Park et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: icas#9
 
@@ -580,6 +612,10 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
 (Izrayelit et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22662967
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: dafa#1
 
@@ -644,6 +680,10 @@ http://www.ncbi.nlm.nih.gov/pubmed/19110431
 http://www.ncbi.nlm.nih.gov/pubmed/20592728
 (Gioiello, Sabbatini et al. 2011) 
 http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THR-523JY1P-2&_user=492137&_coverDate=03%2F11%2F2011&_alid=1671926313&_rdoc=3&_fmt=high&_orig=search&_origin=search&_zone=rslt_list_item&_cdi=5289&_sort=r&_st=13&_docanchor=&view=c&_ct=3&_acct=C000022719&_version=1&_urlVersion=0&_userid=492137&md5=42860e68bdf0c64a4487b0d221a7470a&searchtype=a
+(Schaedel, Gerisch et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22505848
+(Wollam, Magner et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22505847
 
 
 
@@ -701,7 +741,10 @@ http://www.ncbi.nlm.nih.gov/pubmed/19196833
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
 (Gioiello, Sabbatini et al. 2011) 
 http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THR-523JY1P-2&_user=492137&_coverDate=03%2F11%2F2011&_alid=1671926313&_rdoc=3&_fmt=high&_orig=search&_origin=search&_zone=rslt_list_item&_cdi=5289&_sort=r&_st=13&_docanchor=&view=c&_ct=3&_acct=C000022719&_version=1&_urlVersion=0&_userid=492137&md5=42860e68bdf0c64a4487b0d221a7470a&searchtype=a
-
+(Schaedel, Gerisch et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22505848
+(Wollam, Magner et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22505847
 
 SMMID: ascr#9
 
@@ -734,6 +777,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/19174521
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Srinivasan, von Reuss et al. 2012)
 http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#10
 
@@ -767,6 +812,8 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 (Izrayelit et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22662967
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#11
 
@@ -824,7 +871,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
-
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#13
 
@@ -884,6 +932,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#15
 
@@ -994,6 +1044,8 @@ REFERENCES:
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#19
 
@@ -1048,6 +1100,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#21
 
@@ -1104,6 +1158,8 @@ REFERENCES:
 http://www.ncbi.nlm.nih.gov/pubmed/19174521
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#23
 
@@ -1160,6 +1216,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#25
 
@@ -1213,10 +1271,12 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 
 
 RECEPTORS: tbd
-REFERENCES: 
 
+REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#27
 
@@ -3525,6 +3585,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: oscr#10
 
@@ -3554,6 +3616,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: oscr#12
 
@@ -3731,6 +3795,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: oscr#19
 
