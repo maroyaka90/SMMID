@@ -787,7 +787,7 @@ CHEMICAL NAME: 8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-n
 SYNONYMS: none
 MOLECULAR FORMULA: C15H28O6
 MOLECULAR WEIGHT: 304.38
-CAS: tbd
+CAS: 1355681-08-1
 
 CONCISE SUMMARY: Direct biosynthetic precursor to ascr#3. Absent in <i>daf-22(ok693)</i> and is a major ascaroside detected in wild type (N2) and <i>acox-1(ok2257)</i> mutants worms. Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -822,7 +822,7 @@ CHEMICAL NAME: 3R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-b
 SYNONYMS: none
 MOLECULAR FORMULA: C10H18O6
 MOLECULAR WEIGHT: 234.25
-CAS: tbd
+CAS: 1355681-41-2
 
 CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. Detected in wild type (N2) worms.
 
@@ -851,7 +851,7 @@ CHEMICAL NAME: 5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-h
 SYNONYMS: none
 MOLECULAR FORMULA: C12H22O6
 MOLECULAR WEIGHT: 262.30
-CAS: tbd
+CAS: 1355681-43-4
 
 CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -881,7 +881,7 @@ CHEMICAL NAME: 7R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C14H24O6
 MOLECULAR WEIGHT: 288.34
-CAS: tbd
+CAS: 1355681-45-6
 
 CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i> mutant worms.
 
@@ -911,7 +911,7 @@ CHEMICAL NAME: 7R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-o
 SYNONYMS: none
 MOLECULAR FORMULA: C14H26O6
 MOLECULAR WEIGHT: 290.35
-CAS: tbd
+CAS: 1355681-47-8
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -942,7 +942,7 @@ CHEMICAL NAME: 9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C16H28O6
 MOLECULAR WEIGHT: 316.39
-CAS: tbd
+CAS: 1355681-49-0
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> mutant worms.
 
@@ -970,7 +970,7 @@ CHEMICAL NAME: 9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-d
 SYNONYMS: none
 MOLECULAR FORMULA: C16H30O6
 MOLECULAR WEIGHT: 318.40
-CAS: tbd
+CAS: 1186217-53-7
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -997,7 +997,7 @@ CHEMICAL NAME: 10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C16H30O6
 MOLECULAR WEIGHT: 330.42
-CAS: tbd
+CAS: 1186217-53-7
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
@@ -1023,7 +1023,7 @@ CHEMICAL NAME: 10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C17H32O6
 MOLECULAR WEIGHT: 332.43
-CAS: tbd
+CAS: 1355681-10-5
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. A major ascaroside detected in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -1054,7 +1054,7 @@ CHEMICAL NAME: 11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C18H32O6
 MOLECULAR WEIGHT: 344.44
-CAS: tbd
+CAS: 1355681-55-8
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. 
 
@@ -1081,7 +1081,7 @@ CHEMICAL NAME: 11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C18H34O6
 MOLECULAR WEIGHT: 346.46
-CAS: tbd
+CAS: 1355681-57-0
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -1110,7 +1110,7 @@ CHEMICAL NAME:12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C18H34O6
 MOLECULAR WEIGHT: 358.47
-CAS: tbd
+CAS: 1355681-57-0
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and is a major ascaroside detected in <i>maoc-1(hj13)</i> mutant worms.
 
@@ -1137,7 +1137,7 @@ CHEMICAL NAME: 12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C19H36O6
 MOLECULAR WEIGHT: 360.49
-CAS: tbd
+CAS: 1186217-43-5
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside detected in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -1168,7 +1168,7 @@ CHEMICAL NAME: 13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C20H36O6
 MOLECULAR WEIGHT: 372.50
-CAS: tbd
+CAS: 1355681-61-6
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -1197,7 +1197,7 @@ CHEMICAL NAME: 13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C20H38O6
 MOLECULAR WEIGHT: 374.51
-CAS: tbd
+CAS: 1355681-61-6
 
 CONCISE SUMMARY: Detected in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -1226,7 +1226,7 @@ CHEMICAL NAME: 14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C21H38O6
 MOLECULAR WEIGHT: 386.52
-CAS: tbd
+CAS: 1355681-15-0
 
 CONCISE SUMMARY: Detected in <i>daf-22(ok693)</i> and <i>dhs-28(hj8)</i> mutant worms. A major ascaroside in <i>maoc-1(hj13)</i> worms. 
 
@@ -1255,7 +1255,7 @@ CHEMICAL NAME: 14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C21H40O6
 MOLECULAR WEIGHT: 388.54
-CAS: tbd
+CAS: 1355681-67-2
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -1285,7 +1285,7 @@ CHEMICAL NAME: 15R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C22H40O6
 MOLECULAR WEIGHT: 400.55
-CAS: tbd
+CAS: 1355681-69-4
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -1311,7 +1311,7 @@ CHEMICAL NAME: 15R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C22H42O6
 MOLECULAR WEIGHT: 402.57
-CAS: tbd
+CAS: 1355681-71-8
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. A major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
@@ -1338,7 +1338,7 @@ CHEMICAL NAME: 16R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C23H42O6
 MOLECULAR WEIGHT: 414.58
-CAS: tbd
+CAS: 1355681-73-0
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -1364,7 +1364,7 @@ CHEMICAL NAME: 16R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C23H44O6
 MOLECULAR WEIGHT: 416.59
-CAS: tbd
+CAS: 1355681-75-2
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>acox-1(ok2257)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
@@ -1391,7 +1391,7 @@ CHEMICAL NAME: 17R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C24H44O6
 MOLECULAR WEIGHT: 428.60
-CAS: tbd
+CAS: 1355681-77-4
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
@@ -1417,7 +1417,7 @@ CHEMICAL NAME: 17R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C24H46O6
 MOLECULAR WEIGHT: 430.62
-CAS: tbd
+CAS: 1355681-79-6
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
@@ -1444,7 +1444,7 @@ CHEMICAL NAME: 18R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C25H46O6
 MOLECULAR WEIGHT: 442.63
-CAS: tbd
+CAS: 1355681-81-0
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
@@ -1471,7 +1471,7 @@ CHEMICAL NAME: 18R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C25H48O6
 MOLECULAR WEIGHT: 444.64
-CAS: tbd
+CAS: 1355681-83-2
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
@@ -1497,7 +1497,7 @@ CHEMICAL NAME: 19R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C26H48O6
 MOLECULAR WEIGHT: 456.66
-CAS: tbd
+CAS: 1355681-85-4
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
@@ -1524,7 +1524,7 @@ CHEMICAL NAME: 19R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C26H50O6
 MOLECULAR WEIGHT: 458.67
-CAS: tbd
+CAS: 1355681-87-6
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
@@ -1551,7 +1551,7 @@ CHEMICAL NAME: 20R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C27H50O6
 MOLECULAR WEIGHT: 470.68
-CAS: tbd
+CAS: 1355681-89-8
  
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
@@ -1578,7 +1578,7 @@ CHEMICAL NAME: 20R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-
 SYNONYMS: none
 MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
-CAS: tbd
+CAS: 1355681-91-2
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
 
@@ -3595,7 +3595,7 @@ CHEMICAL NAME: 9-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-no
 SYNONYMS: none
 MOLECULAR FORMULA: C15H28O6
 MOLECULAR WEIGHT: 304.38
-CAS: tbd
+CAS: 1355681-22-9
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms. Also detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3626,7 +3626,7 @@ CHEMICAL NAME: 6-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-he
 SYNONYMS: none
 MOLECULAR FORMULA: C12H22O6
 MOLECULAR WEIGHT: 262.30
-CAS: tbd
+CAS: 1355681-93-4
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -3656,7 +3656,7 @@ CHEMICAL NAME: 8-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-oc
 SYNONYMS: none
 MOLECULAR FORMULA: C14H26O6
 MOLECULAR WEIGHT: 290.35
-CAS: tbd
+CAS: 1355681-99-0
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms. 
 
@@ -3687,7 +3687,7 @@ CHEMICAL NAME: 10-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C16H28O6
 MOLECULAR WEIGHT: 316.39
-CAS: tbd
+CAS: 1355682-03-9
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3716,7 +3716,7 @@ CHEMICAL NAME: 10-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-d
 SYNONYMS: none
 MOLECULAR FORMULA: C16H30O6
 MOLECULAR WEIGHT: 318.40
-CAS: tbd
+CAS: 1355682-05-1
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -3745,7 +3745,7 @@ CHEMICAL NAME: 11-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C17H30O6
 MOLECULAR WEIGHT: 330.42
-CAS: tbd
+CAS: 1355682-05-1
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3774,7 +3774,7 @@ CHEMICAL NAME: 11-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-u
 SYNONYMS: none
 MOLECULAR FORMULA: C17H32O6
 MOLECULAR WEIGHT: 332.43
-CAS: tbd
+CAS: 1355682-09-5
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms. Also detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -3805,7 +3805,7 @@ CHEMICAL NAME: 12-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C18H32O6
 MOLECULAR WEIGHT: 344.44
-CAS: tbd
+CAS: 1355682-11-9
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -3834,7 +3834,7 @@ CHEMICAL NAME: 12-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-d
 SYNONYMS: none
 MOLECULAR FORMULA: C18H34O6
 MOLECULAR WEIGHT: 346.46
-CAS: tbd
+CAS: 1355682-13-1
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -3862,7 +3862,7 @@ CHEMICAL NAME: 13-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C19H34O6
 MOLECULAR WEIGHT: 358.47
-CAS: tbd
+CAS: 1355682-13-1
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -3890,7 +3890,7 @@ CHEMICAL NAME: 13-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-t
 SYNONYMS: none
 MOLECULAR FORMULA: C19H36O6
 MOLECULAR WEIGHT: 360.48
-CAS: tbd
+CAS: 1355682-18-6
  
 CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -3919,7 +3919,7 @@ CHEMICAL NAME: 14-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C20H36O6
 MOLECULAR WEIGHT: 372.50
-CAS: tbd
+CAS: 1355682-20-0
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -3948,7 +3948,7 @@ CHEMICAL NAME: 14-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-t
 SYNONYMS: none
 MOLECULAR FORMULA: C20H38O6
 MOLECULAR WEIGHT: 374.51
-CAS: tbd
+CAS: 1355682-20-0
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -3977,7 +3977,7 @@ CHEMICAL NAME: 15-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C21H38O6
 MOLECULAR WEIGHT: 386.52
-CAS: tbd
+CAS: 1355682-23-3
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4006,7 +4006,7 @@ CHEMICAL NAME: 15-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-p
 SYNONYMS: none
 MOLECULAR FORMULA: C21H40O6
 MOLECULAR WEIGHT: 388.54
-CAS: tbd
+CAS: 1355682-25-5
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and is also detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4035,7 +4035,7 @@ CHEMICAL NAME: 16-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C22H40O6
 MOLECULAR WEIGHT: 400.55
-CAS: tbd
+CAS: 1355682-27-7
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4064,7 +4064,7 @@ CHEMICAL NAME: 16-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-h
 SYNONYMS: none
 MOLECULAR FORMULA: C22H42O6
 MOLECULAR WEIGHT: 402.56
-CAS: tbd
+CAS: 1355682-29-9
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4093,7 +4093,7 @@ CHEMICAL NAME: 17-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C23H42O6
 MOLECULAR WEIGHT: 414.58
-CAS: tbd
+CAS: 1355682-31-3
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>,and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4121,7 +4121,7 @@ CHEMICAL NAME: 17-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-h
 SYNONYMS: none
 MOLECULAR FORMULA: C23H44O6
 MOLECULAR WEIGHT: 416.59
-CAS: tbd
+CAS: 1355684-09-1
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4150,7 +4150,7 @@ CHEMICAL NAME: 18-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C24H44O6
 MOLECULAR WEIGHT: 428.60
-CAS: tbd
+CAS: 1355682-33-5
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4178,7 +4178,7 @@ CHEMICAL NAME: 18-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-o
 SYNONYMS: none
 MOLECULAR FORMULA: C24H46O6
 MOLECULAR WEIGHT: 430.62
-CAS: tbd
+CAS: 1355682-35-7
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4207,7 +4207,7 @@ CHEMICAL NAME: 19-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C25H46O6
 MOLECULAR WEIGHT: 442.63
-CAS: tbd
+CAS: 1355682-37-9
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4237,7 +4237,7 @@ CHEMICAL NAME: 19-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-n
 SYNONYMS: none
 MOLECULAR FORMULA: C25H48O6
 MOLECULAR WEIGHT: 444.64
-CAS: tbd
+CAS: 1355682-39-1
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, <i>acox-1(ok2257)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4267,7 +4267,7 @@ CHEMICAL NAME: 20-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C26H48O6
 MOLECULAR WEIGHT: 456.66
-CAS: tbd
+CAS: 1355682-41-5
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4297,7 +4297,7 @@ CHEMICAL NAME: 20-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-i
 SYNONYMS: none
 MOLECULAR FORMULA: C26H50O6
 MOLECULAR WEIGHT: 458.67
-CAS: tbd
+CAS: 1355682-43-7
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4326,7 +4326,7 @@ CHEMICAL NAME: 21-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2
 SYNONYMS: none
 MOLECULAR FORMULA: C27H50O6
 MOLECULAR WEIGHT: 470.68
-CAS: tbd
+CAS: 1355682-45-9
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
 
@@ -4355,7 +4355,7 @@ CHEMICAL NAME: 21-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-h
 SYNONYMS: none
 MOLECULAR FORMULA: C27H52O6
 MOLECULAR WEIGHT: 472.70
-CAS: tbd
+CAS: 1355682-47-1
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
 
