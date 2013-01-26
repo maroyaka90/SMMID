@@ -1,5 +1,4 @@
 SMMID: 
-ORGANISM:
 CHEMICAL NAME:
 SYNONYMS: 
 CONCISE SUMMARY:
@@ -12,8 +11,6 @@ RECEPTORS:
 REFERENCES:
 
 SMMID: ascr#1
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (-)-6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)heptanoic acid
 
@@ -100,12 +97,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/22662967
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
 (Kaplan, Alborn et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 SMMID: ascr#2
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (-)-5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2-hexanone
 
@@ -189,12 +182,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/22920251
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
 (Kaplan, Alborn et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 SMMID: ascr#3
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (-)-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
 
@@ -280,12 +269,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/22920251
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
 (Kaplan, Alborn et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 SMMID: ascr#4
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (-)-5R-(3'-O-[beta-D-glucosyl]-3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2-hexanone
 
@@ -341,8 +326,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 
 SMMID: ascr#5
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (-)-3-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-propanoic acid
 
@@ -415,8 +398,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: ascr#6.1
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: (-)-5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2R-hexanol
 
 SYNONYMS: none
@@ -457,8 +438,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: ascr#6.2
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: (-)-5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2S-hexanol
 
 SYNONYMS: none
@@ -495,8 +474,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/21423575
 
 
 SMMID: ascr#7
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptenoic acid
 
@@ -550,8 +527,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: ascr#8
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: N-(6'R-[3''R,5''R-dihydroxy-6''S-methyl-(2H)-tetrahydropyran-2'-yloxy]-2'E-heptenoyl)-4-aminobenzoic acid
 
 SYNONYMS: none
@@ -599,8 +574,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
 SMMID: icas#9
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: (4R)-4-((3,6-dideoxy-4-O-(1H-indol-3-ylcarbonyl)-a-L-arabino-hexopyranosyl)oxy)-pentanoic acid
 
 SYNONYMS: indolecarboxylascaroside C5, "C5"
@@ -644,10 +617,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 (Kaplan, Alborn et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
-
 SMMID: dafa#1
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-7-en-26-oic acid
 
@@ -720,8 +690,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22505847
 
 SMMID: dafa#2
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: (+)-(25S)-3-keto-cholest-4-en-26-oic acid
 
 SYNONYMS: dafachronic acid B, &Delta;4-dafachronic acid; (+)-(25S)-3-oxocholest-4-en-26-oic acid, (+)-3-keto-4-cholestenoic acid
@@ -780,8 +748,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22505847
 
 SMMID: ascr#9
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 4R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentanoic acid
 
 SYNONYMS: none
@@ -813,12 +779,8 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 (Choe, von Reuss et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 SMMID: ascr#10
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
@@ -855,8 +817,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#11
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-butanoic acid
 
 SYNONYMS: none
@@ -886,8 +846,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#12
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexanoic acid
 
 SYNONYMS: none
@@ -915,12 +873,8 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Choe, von Reuss et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 SMMID: ascr#13
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 7R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-octenoic acid
 
@@ -951,8 +905,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 
 SMMID: ascr#14
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 7R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octanoic acid
 
@@ -985,8 +937,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#15
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-decenoic acid
 
 SYNONYMS: none
@@ -1015,8 +965,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#16
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
 
 SYNONYMS: none
@@ -1044,8 +992,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#17
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-undecenoic acid
 
 SYNONYMS: none
@@ -1071,8 +1017,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#18
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
 
@@ -1105,8 +1049,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#19
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-dodecenoic acid
 
 SYNONYMS: none
@@ -1133,8 +1075,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#20
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
 
@@ -1165,8 +1105,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#21
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME:12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-tridecenoic acid
 
 SYNONYMS: none
@@ -1193,8 +1131,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#22
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
 
@@ -1227,8 +1163,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#23
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-tetradecenoic acid
 
 SYNONYMS: none
@@ -1257,8 +1191,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/19174521
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#24
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
 
@@ -1289,8 +1221,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#25
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-pentadecenoic acid
 
 SYNONYMS: none
@@ -1319,8 +1249,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/19174521
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#26
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
 
@@ -1352,8 +1280,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: ascr#27
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 15R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-hexadecenoic acid
 
 SYNONYMS: none
@@ -1379,8 +1305,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#28
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 15R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
 
@@ -1409,8 +1333,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#29
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 16R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptadecenoic acid
 
 SYNONYMS: none
@@ -1436,8 +1358,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#30
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 16R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
 
@@ -1466,8 +1386,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#31
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 17R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-octadecenoic acid
 
 SYNONYMS: none
@@ -1493,8 +1411,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#32
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 17R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octadecanoic acid
 
@@ -1523,8 +1439,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#33
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 18R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonadecenoic acid
 
 SYNONYMS: none
@@ -1552,8 +1466,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#34
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 18R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonadecanoic acid
 
 SYNONYMS: none
@@ -1579,8 +1491,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#35
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 19R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-icosenoic acid
 
@@ -1609,8 +1519,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#36
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 19R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-icosanoic acid
 
 SYNONYMS: none
@@ -1637,8 +1545,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#37
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 20R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-henicosenoic acid
 
@@ -1667,8 +1573,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#38
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 20R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-henicosenoic acid
 
 SYNONYMS: none
@@ -1696,14 +1600,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#10
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C15H28O7
 MOLECULAR WEIGHT: 320.38
-CAS: 1355682-49-3
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutants and small amounts in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -1725,14 +1627,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#16
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C16H30O7
 MOLECULAR WEIGHT: 334.40
-CAS: 1355682-50-6
+CAS: tbd
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i> mutants. 
 
@@ -1754,14 +1654,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#18
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C17H32O7
 MOLECULAR WEIGHT: 348.43
-CAS: 1355682-52-8
+CAS: tbd
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -1783,14 +1681,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#20
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C18H34O7
 MOLECULAR WEIGHT: 362.46
-CAS: 1355682-54-0
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
@@ -1812,14 +1708,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#22
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C19H36O7
 MOLECULAR WEIGHT: 376.48
-CAS: 1355681-17-2
+CAS: tbd
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside detected in <i>dhs-28(hj8)</i> mutant worms. Detected in <i>maoc-1(hj13)</i> and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -1841,14 +1735,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#24
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C20H38O7
 MOLECULAR WEIGHT: 390.51
-CAS: 1355682-56-2
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -1872,14 +1764,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#26
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C21H40O7
 MOLECULAR WEIGHT: 404.54
-CAS: 1355682-58-4
+CAS: tbd
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>dhs-28(hj8)</i> mutant worms. Detected in <i>maoc-1(hj13)</i> and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -1903,14 +1793,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#28
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-15R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C22H42O7
 MOLECULAR WEIGHT: 418.56
-CAS: 1355682-60-8
+CAS: tbd
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -1935,14 +1823,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#30
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-16R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C23H44O7
 MOLECULAR WEIGHT: 432.59
-CAS: 1355682-63-1
+CAS: tbd
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Detected in <i>daf-22(ok693)</i> and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -1966,14 +1852,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#32
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-17R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C24H46O7
 MOLECULAR WEIGHT: 446.62
-CAS: 1355682-64-2
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -1994,14 +1878,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#34
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-18R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C25H48O7
 MOLECULAR WEIGHT: 460.64
-CAS: 1355682-66-4
+CAS: tbd
 
 CONCISE SUMMARY: A major ascaroside detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2023,14 +1905,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#36
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-19R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-icosanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C26H50O7
 MOLECULAR WEIGHT: 474.67
-CAS: 1355682-68-6
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. A major ascaroside detected in <i>daf-22(ok693)</i> mutant worms.
 
@@ -2052,14 +1932,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#38
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-20R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-henicosanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C27H52O7
 MOLECULAR WEIGHT: 488.70
-CAS: 1355682-70-0
+CAS: tbd
 
 CONCISE SUMMARY: A major ascaroside detected in <i>dhs-28(hj8)</i> and <i>daf-22(ok693)</i> mutant worms. Detected in <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2080,8 +1958,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#40
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 3R-hydroxy-21R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-docosanoic acid
 
@@ -2110,8 +1986,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#42
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-21R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tricosanoic acid
 
 SYNONYMS: none
@@ -2138,14 +2012,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#10
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-9-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C15H28O7
 MOLECULAR WEIGHT: 320.38
-CAS: 1355682-72-2
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutant worms.
 
@@ -2167,14 +2039,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#16
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-10-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C16H30O7
 MOLECULAR WEIGHT: 334.40
-CAS: 1355682-73-3
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutant worms.
 
@@ -2196,14 +2066,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#18
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-11-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C17H32O7
 MOLECULAR WEIGHT: 348.43
-CAS: 1355682-75-5
+CAS:
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -2225,14 +2093,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#20
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-12-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C18H34O7
 MOLECULAR WEIGHT: 362.46
-CAS: 1355682-77-7
+CAS:
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2254,14 +2120,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#22
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-13-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C19H36O7
 MOLECULAR WEIGHT: 376.48
-CAS: 1355682-79-9
+CAS:
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2283,14 +2147,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#24
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-14-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C20H38O7
 MOLECULAR WEIGHT: 390.51
-CAS:1355682-80-2
+CAS:
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2313,14 +2175,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#26
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-15-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C21H40O7
 MOLECULAR WEIGHT: 404.54
-CAS: 1355681-23-0
+CAS:
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2342,14 +2202,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#28
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-16-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C22H42O7
 MOLECULAR WEIGHT: 418.56
-CAS: 1355682-81-3
+CAS:
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2371,14 +2229,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#30
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-17-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C23H44O7
 MOLECULAR WEIGHT: 432.59
-CAS: 1355682-83-5
+CAS:
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2400,14 +2256,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#32
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-18-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C24H46O7
 MOLECULAR WEIGHT: 446.62
-CAS: 1413439-62-9
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2429,14 +2283,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#34
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-19-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C25H48O7
 MOLECULAR WEIGHT: 460.64
-CAS: 1355682-87-9
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2458,14 +2310,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#36
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-20-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-icosanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C26H50O7
 MOLECULAR WEIGHT: 474.67
-CAS: 1355682-89-1
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2488,14 +2338,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#38
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-21-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-henicosanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C27H52O7
 MOLECULAR WEIGHT: 488.70
-CAS: 1355682-91-5
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2515,8 +2363,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#40
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 3R-hydroxy-22-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-docosanoic acid
 
@@ -2541,11 +2387,9 @@ http://www.wormbase.org/db/gene/gene?name=WBGene00017123;class=Gene
 RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
-http://pubs.acs.org/doi/abs/10.1w021/ja210202y
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhos#42
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 3R-hydroxy-22-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tricosanoic acid
 
@@ -2574,14 +2418,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibha#10
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-8R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C24H33NO8
 MOLECULAR WEIGHT: 463.52
-CAS: 1355683-20-3
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
 
@@ -2608,7 +2450,7 @@ CHEMICAL NAME: 3R-hydroxy-9R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-meth
 SYNONYMS: none
 MOLECULAR FORMULA: C25H35NO8
 MOLECULAR WEIGHT: 477.55
-CAS: 1355683-39-4
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2629,14 +2471,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibha#18
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-10R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C26H37NO8
 MOLECULAR WEIGHT: 491.57
-CAS: 1355683-24-7
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2658,14 +2498,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibha#20
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-11R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C27H39NO8
 MOLECULAR WEIGHT: 505.60
-CAS: 1355683-26-9
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2687,14 +2525,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibha#22
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-12R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C28H41NO8
 MOLECULAR WEIGHT: 519.63
-CAS: 1355683-28-1
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2715,14 +2551,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibha#24
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-13R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C29H43NO8
 MOLECULAR WEIGHT: 533.65
-CAS: 1355683-30-5
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2744,14 +2578,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibha#26
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-14R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C30H45NO8
 MOLECULAR WEIGHT: 547.68
-CAS: 1355683-32-7
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2773,14 +2605,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibha#28
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-15R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C31H47NO8
 MOLECULAR WEIGHT: 561.71
-CAS: 1355683-34-9
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2802,14 +2632,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibha#30
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-16R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C32H49NO8
 MOLECULAR WEIGHT: 575.73
-CAS: 1355683-37-2
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2831,14 +2659,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibho#10
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-9-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C24H33NO8
 MOLECULAR WEIGHT: 463.52
-CAS: 1355683-38-3
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2859,14 +2685,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibho#16
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-10-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C25H35NO8
 MOLECULAR WEIGHT: 477.55
-CAS: 1355683-39-4
+CAS:
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2888,15 +2712,13 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibho#18
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-11-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
 
 
 SYNONYMS: none
 MOLECULAR FORMULA: C26H37NO8
 MOLECULAR WEIGHT: 491.57
-CAS: 1355683-41-8
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2917,15 +2739,13 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibho#20
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-12-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
 
 
 SYNONYMS: none
 MOLECULAR FORMULA: C27H39NO8
 MOLECULAR WEIGHT: 505.60
-CAS: 1355683-43-0
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2947,15 +2767,13 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibho#22
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-13-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
 
 
 SYNONYMS: none
 MOLECULAR FORMULA: C28H41NO8
 MOLECULAR WEIGHT: 519.63
-CAS: 1355683-45-2
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -2977,14 +2795,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibho#24
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-14-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C29H43NO8
 MOLECULAR WEIGHT: 533.65
-CAS: 1355683-47-4
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3006,14 +2822,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ibho#26
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 3R-hydroxy-15-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C30H45NO8
 MOLECULAR WEIGHT: 547.68
-CAS: 1355683-49-6
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3034,8 +2848,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#1
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 6R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoic acid
 
@@ -3065,8 +2877,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 
 SMMID: icas#3
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
 
@@ -3101,8 +2911,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22662967
 
 SMMID: icas#7
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 6R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptenoic acid
 
 SYNONYMS: none
@@ -3130,8 +2938,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 
 SMMID: icas#10
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
@@ -3164,8 +2970,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22662967
 
 SMMID: icas#12
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 5R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexanoic acid
 
 SYNONYMS: none
@@ -3191,8 +2995,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#14
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 7R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octanoic acid
 
@@ -3221,8 +3023,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#15
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 9R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-decenoic acid
 
 SYNONYMS: none
@@ -3249,8 +3049,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#16
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 9R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
 
@@ -3279,8 +3077,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#17
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 10R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-undecenoic acid
 
 SYNONYMS: none
@@ -3307,8 +3103,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#18
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 10R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
 
@@ -3337,8 +3131,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#19
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 11R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-dodecenoic acid
 
 SYNONYMS: none
@@ -3365,8 +3157,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#20
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 11R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
 
@@ -3395,8 +3185,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#21
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 12R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptadecenoic acid
 
 SYNONYMS: none
@@ -3423,8 +3211,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icas#22
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 12R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
 
@@ -3453,8 +3239,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icos#1
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 7-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoic acid
 
 SYNONYMS: none
@@ -3481,8 +3265,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icos#3
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 9-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
 
@@ -3512,8 +3294,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icos#9
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 5-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentanoic acid
 
 SYNONYMS: none
@@ -3542,8 +3322,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icos#10
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 9-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
 SYNONYMS: none
@@ -3571,8 +3349,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icos#15
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 10-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-decenoic acid
 
 SYNONYMS: none
@@ -3598,8 +3374,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icos#16
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 10-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
 
@@ -3627,8 +3401,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: icos#17
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 11-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-undecenoic acid
 
@@ -3664,8 +3436,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 
 SMMID: icos#18
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 11-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
 
@@ -3703,8 +3473,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#1
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 7-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoic acid
 
 SYNONYMS: none
@@ -3733,8 +3501,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#3
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 9-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
 
@@ -3765,8 +3531,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#7
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 7-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptenoic acid
 
 SYNONYMS: none
@@ -3796,8 +3560,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#9
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 5-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentanoic acid
 
 SYNONYMS: none
@@ -3825,12 +3587,8 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Choe, von Reuss et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 SMMID: oscr#10
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 9-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
@@ -3863,8 +3621,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: oscr#12
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 6-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexanoic acid
 
 SYNONYMS: none
@@ -3894,8 +3650,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 
 SMMID: oscr#14
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 8-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octanoic acid
 
@@ -3928,8 +3682,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#15
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 10-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-decenoic acid
 
 SYNONYMS: none
@@ -3958,8 +3710,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#16
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 10-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
 
@@ -3990,8 +3740,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#17
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 11-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-undecenoic acid
 
 SYNONYMS: none
@@ -4020,8 +3768,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#18
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 11-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
 
@@ -4054,8 +3800,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 
 SMMID: oscr#19
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 12-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-dodecenoic acid
 
 SYNONYMS: none
@@ -4085,8 +3829,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#20
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 12-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
 
 SYNONYMS: none
@@ -4115,8 +3857,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#21
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 13-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-tridecenoic acid
 
 SYNONYMS: none
@@ -4144,8 +3884,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#22
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 13-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
 
@@ -4176,8 +3914,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#23
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 14-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-tetradecenoic acid
 
 SYNONYMS: none
@@ -4206,8 +3942,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#24
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 14-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
 
@@ -4238,8 +3972,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#25
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 15-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-pentadecenoic acid
 
 SYNONYMS: none
@@ -4268,8 +4000,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#26
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 15-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
 
@@ -4300,8 +4030,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#27
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 16-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-hexadecenoic acid
 
 SYNONYMS: none
@@ -4330,8 +4058,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#28
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 16-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
 
@@ -4362,8 +4088,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#29
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 17-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptadecenoic acid
 
 SYNONYMS: none
@@ -4391,8 +4115,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#30
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 17-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
 
@@ -4423,8 +4145,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#31
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 18-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-octadecenoic acid
 
 SYNONYMS: none
@@ -4452,8 +4172,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#32
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 18-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octadecanoic acid
 
@@ -4483,8 +4201,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#33
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 19-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonadecenoic acid
 
@@ -4516,8 +4232,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#34
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 19-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonadecanoic acid
 
 SYNONYMS: none
@@ -4547,8 +4261,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#35
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 20-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-icosenoic acid
 
@@ -4580,8 +4292,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#36
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 20-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-icosanoic acid
 
 SYNONYMS: none
@@ -4610,8 +4320,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#37
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 21-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-henicosenoic acid
 
@@ -4642,8 +4350,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: oscr#38
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 21-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-henicosanoic acid
 
 SYNONYMS: none
@@ -4671,8 +4377,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: glas#1
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: beta-D-glucos-1''-yl-6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoate
 
@@ -4702,8 +4406,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: glas#3
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoate
 
 SYNONYMS: none
@@ -4731,8 +4433,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: glas#10
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonaoate
 
@@ -4762,8 +4462,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: glas#16
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: beta-D-glucos-1''-yl-9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoate
 
 SYNONYMS: none
@@ -4791,8 +4489,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: glas#18
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: beta-D-glucos-1''-yl-10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoate
 
@@ -4822,8 +4518,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: glas#20
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: beta-D-glucos-1''-yl-11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoate
 
 SYNONYMS: none
@@ -4851,8 +4545,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: glas#22
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: beta-D-glucos-1''-yl-12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoate
 
@@ -4882,8 +4574,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: glas#24
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: beta-D-glucos-1''-yl-13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoate
 
 SYNONYMS: none
@@ -4911,8 +4601,6 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: glas#26
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: beta-D-glucos-1''-yl-14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoate
 
@@ -4942,8 +4630,6 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: hbas#3
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid 
 
 SYNONYMS: none
@@ -4969,12 +4655,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 SMMID: hbas#10
-
-ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
@@ -5004,14 +4686,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: mbas#3
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-((E)-2-methyl-2-butenoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C20H32O7
 MOLECULAR WEIGHT: 384.21
-CAS: 1355681-26-3
+CAS: tbd
 
 CONCISE SUMMARY: Detected in wild type worms.
 
@@ -5034,14 +4714,12 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: mbas#10
 
-ORGANISM: <i>C. elegans</i>
-
 CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-((E)-2-methyl-2-butenoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
 SYNONYMS: none
 MOLECULAR FORMULA: C20H34O7
 MOLECULAR WEIGHT: 386.23
-CAS: 1355683-69-0
+CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
 
@@ -5061,228 +4739,47 @@ REFERENCES:
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
-SMMID: dasc#1
-
-ORGANISM: <i>P. pacificus</i>
-
-CHEMICAL NAME: (R)-6-(((2R,3R,5R,6S)-5-(((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H- pyran-2-yl)oxy)heptanoyl)oxy)-3-hydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoic acid
-
-SYNONYMS: 
-MOLECULAR FORMULA: C26H46O11
-MOLECULAR WEIGHT: 276.33
-CAS: TBD
-
-CONCISE SUMMARY: Induces eurystomatous mouth form in P. pacificus. 
-
-BIOSYNTHESIS: 
-TBD
-
-RECEPTORS:
-TBD
-
-
 REFERENCES:
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
-
-
-SMMID: npar#1
-
-ORGANISM: <i>P. pacificus</i>
-
-CHEMICAL NAME: (2S,3R)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2- yl)oxy)pentanoyl)oxy)-2-(3-(9-((2R,3R,4S,5R)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)-9H-purin- 6-yl)ureido)butanoic acid
-
-SYNONYMS: 
-MOLECULAR FORMULA: C26H38N6O13
-MOLECULAR WEIGHT: 642.61
-CAS: TBD
-
-CONCISE SUMMARY: Strongly dauer inducing in <i>P. pacificus</i>.
-
-BIOSYNTHESIS: 
-TBD
-
-RECEPTORS:
-TBD
-
-
-REFERENCES:
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
-
-
-SMMID: npar#2
-
-ORGANISM: <i>P. pacificus</i>
-
-CHEMICAL NAME: (2S,3R)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2- yl)oxy)pentanoyl)oxy)-2-(3-(9-((2R,3R,4S,5R)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)-9H-purin- 6-yl)ureido)butanoic acid
-
-SYNONYMS: 
-MOLECULAR FORMULA: C21H30N6O9
-MOLECULAR WEIGHT: 510.50
-CAS: TBD
-
-CONCISE SUMMARY: TBD 
-
-BIOSYNTHESIS: 
-TBD
-
-RECEPTORS:
-TBD
-
-
-REFERENCES:
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
-
-
-SMMID: part#9
-
-ORGANISM: <i>P. pacificus</i>
-
-CHEMICAL NAME: (R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
-
-SYNONYMS: 
-MOLECULAR FORMULA: C11H20O6
-MOLECULAR WEIGHT: 248.27
-CAS: TBD
-
-CONCISE SUMMARY: Induces dauers in P. pacificus 
-
-BIOSYNTHESIS: 
-TBD
-
-RECEPTORS:
-TBD
-
-
-REFERENCES:
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
-
-
-SMMID: pasc#1
-
-ORGANISM: <i>P. pacificus</i>
-
-CHEMICAL NAME: TBD 
-
-SYNONYMS: 
-MOLECULAR FORMULA: C25H37NO9
-MOLECULAR WEIGHT: 495.56
-CAS: TBD
-
-CONCISE SUMMARY: TBD
-
-BIOSYNTHESIS: 
-TBD
-
-RECEPTORS:
-TBD
-
-
-REFERENCES:
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
-
-
-SMMID: pasc#9
-
-ORGANISM: <i>P. pacificus</i>
-
-CHEMICAL NAME: 4-(((R)-2-(((R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2- yl)oxy)pentanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanoic acid 
-
-SYNONYMS: 
-MOLECULAR FORMULA: C23H33NO9
-MOLECULAR WEIGHT: 467.51
-CAS: TBD
-
-CONCISE SUMMARY: Induces eurystomatous mouth form in P. pacificus
-
-BIOSYNTHESIS: 
-TBD
-
-RECEPTORS:
-TBD
-
-
-REFERENCES:
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
-
-
-SMMID: pasc#12
-
-ORGANISM: <i>P. pacificus</i>
-
-CHEMICAL NAME: TBD 
-
-SYNONYMS: 
-MOLECULAR FORMULA: C24H35NO9
-MOLECULAR WEIGHT: 481.54
-CAS: TBD
-
-CONCISE SUMMARY: TBD
-
-BIOSYNTHESIS: 
-TBD
-
-RECEPTORS:
-TBD
-
-
-REFERENCES:
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
-
-
-SMMID: ubas#1
-
-ORGANISM: <i>P. redivivus</i>
-
-CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-((5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H- pyran-2-yl)oxy)pentanoyl)oxy)-6-methyl-5-(((R)-2-methyl-3-ureidopropanoyl)oxy)tetrahydro-2H- pyran-2-yl)oxy)pentanoic acid
-
-SYNONYMS: 
-MOLECULAR FORMULA: C27H46N2O13
-MOLECULAR WEIGHT: 606.66
-CAS: TBD
-
-CONCISE SUMMARY: TBD 
-
-BIOSYNTHESIS: 
-TBD
-
-RECEPTORS:
-TBD
-
-
-REFERENCES:
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
-
-
-SMMID: ubas#2
-
-ORGANISM: <i>P. redivivus</i>
-
-CHEMICAL NAME: TBD
-
-SYNONYMS: 
-MOLECULAR FORMULA: C28H48N2O13
-MOLECULAR WEIGHT: 620.69
-CAS: TBD
-
-CONCISE SUMMARY: TBD 
-
-BIOSYNTHESIS: 
-TBD
-
-RECEPTORS:
-TBD
-
-
-REFERENCES:
-(Bose, Ogawa et al. 2012) 
-http://www.ncbi.nlm.nih.gov/pubmed/23161728
+Baiga (2008). "Metabolite Induction of Caenorhabditis elegans Dauer Larvae Arises via Transport in the Pharynx." ACS Chem Biol 3(5): 294-304.
+Beckstead, R. B. and C. S. Thummel (2006). "Indicted: worms caught using steroids." Cell 124(6): 1137-1140.
+Bento, G., A. Ogawa, et al. (2010). "Co-option of the hormone-signalling module dafachronic acid-DAF-12 in nematode evolution." Nature 466(7305): 494-497.
+Branicky, R., D. Desjardins, et al. (2010). "Lipid transport and signaling in Caenorhabditis elegans." Dev Dyn 239(5): 1365-1377.
+Butcher, R. A., M. Fujita, et al. (2007). "Small-molecule pheromones that control dauer development in Caenorhabditis elegans." Nat Chem Biol 3(7): 420-422.
+Butcher, R. A., J. R. Ragains, et al. (2010). "An indole-containing dauer pheromone component with unusual dauer inhibitory activity at higher concentrations." Organic letters 11(14): 3100-3103.
+Butcher, R. A., J. R. Ragains, et al. (2008). "A potent dauer pheromone component in Caenorhabditis elegans that acts synergistically with other components." Proceedings of the National Academy of Sciences 105(38): 14288-14292.
+Butcher, R. A., J. R. Ragains, et al. (2009). "Biosynthesis of the Caenorhabditis elegans dauer pheromone." Proc Natl Acad Sci U S A 106(6): 1875-1879.
+Fujita, M. (2008). "C. elegans dauer larval pheromones. Living longer by pheromones? Chemical ecology of model organism." Kagaku to Seibutsu 46(7): 442-443.
+Gallo, M. and D. L. Riddle (2009). "Effects of a Caenorhabditis elegans dauer pheromone ascaroside on physiology and signal transduction pathways
+." J Chem Ecol 35(2): 272-279.
+Gerisch, B., V. Rottiers, et al. (2007). "A bile acid-like steroid modulates Caenorhabditis elegans lifespan through nuclear receptor signaling." Proc Natl Acad Sci U S A 104(12): 5014-5019.
+Gioiello, A., P. Sabbatini, et al. (2011). "Divergent and stereoselective synthesis of dafachronic acids." Tetrahedron.
+Giroux, S., A. Bethke, et al. (2008). "Syntheses and biological evaluation of B-ring-modified analogues of dafachronic acid A." Org Lett 10(16): 3643-3645.
+Giroux, S. and E. J. Corey (2007). "Stereocontrolled synthesis of dafachronic acid A, the ligand for the DAF-12 nuclear receptor of Caenorhabditis elegans." J Am Chem Soc 129(32): 9866-9867.
+Giroux, S. and E. J. Corey (2008). "An efficient, stereocontrolled synthesis of the 25-(R)-diastereomer of dafachronic acid A from beta-ergosterol." Org Lett 10(5): 801-802.
+Guo and O'Doherty (2005). "de novo asymmetric synthesis of daumone via a palladium-catalyzed glycosylation." Organic letters 7(18): 3921-3924.
+Hannich, J. T., E. V. Entchev, et al. (2009). "Methylation of the sterol nucleus by STRM-1 regulates dauer larva formation in Caenorhabditis elegans." Dev Cell 16(6): 833-843.
+Jeong, P. Y., M. Jung, et al. (2005). "Chemical structure and biological activity of the Caenorhabditis elegans dauer-inducing pheromone." Nature 433(7025): 541-545.
+Jeong, P. Y., K. Na, et al. (2009). "Proteomic analysis of Caenorhabditis elegans." Methods Mol Biol 519: 145-169.
+Joo, H. J., K. Y. Kim, et al. (2010). "Contribution of the peroxisomal acox gene to the dynamic balance of daumone production in Caenorhabditis elegans." J Biol Chem 285(38): 29319-29325.
+Joo, H. J., Y. H. Yim, et al. (2009). "Caenorhabditis elegans utilizes dauer pheromone biosynthesis to dispose of toxic peroxisomal fatty acids for cellular homeostasis." Biochem J.
+Joo, H. J., Y. H. Yim, et al. (2009). "Caenorhabditis elegans utilizes dauer pheromone biosynthesis to dispose of toxic peroxisomal fatty acids for cellular homeostsasis." Biochem J 422(1): 61-71.
+Jung, M., Y. Lee, et al. (2009). "Total synthesis and anticancer activity of highly potent novel glycolipid derivatives." Eur J Med Chem 44(8): 3120-3129.
+Jung, M. and Y. K. Paik (2005). "6R-(3,6-dideoxy-L-arabino-hexopyranosyloxy)heptanoic acid, prepration process for the same and dauer effect thereof." patent.
+Kim, K., K. Sato, et al. (2009). "Two chemoreceptors mediate developmental effects of dauer pheromone in C. elegans." Science 326(5955): 994-998.
+Lee, J., K. Y. Kim, et al. (2010). "Regulation of Dauer formation by O-GlcNAcylation in Caenorhabditis elegans." J Biol Chem 285(5): 2930-2939.
+Macosko, E. Z., N. Pokala, et al. (2009). "A hub-and-spoke circuit drives pheromone attraction and social behaviour in C. elegans." Nature 458(7242): 1171-1175.
+Mangelsdorf, D. J., R. J. Auchus, et al. (2007). Ligands for nematode nuclear receptors and uses thereof. E. P. Office.
+Martin, R., F. Dabritz, et al. (2008). "Stereoselective synthesis of the hormonally active (25S)-delta7-dafachronic acid, (25S)-Delta4-dafachronic acid, (25S)-dafachronic acid, and (25S)-cholestenoic acid." Org Biomol Chem 6(23): 4293-4295.
+Martin, R., E. V. Entchev, et al. (2009). "Synthesis and Hormonal Activity of the (25S)-Cholesten-26-oic Acids - Potent Ligands for the DAF-12 Receptor in Caenorhabditis elegans." Eur J Org Chem(22): 3703-3714.
+Martin, R., T. Schafer, et al. (2009). "Improved Synthesis of an Ascaroside Pheromone Controlling Dauer Larva Development in Caenorhabditis elegans " Synthesis 20.
+Motola, D. L., C. L. Cummins, et al. (2006). "Identification of ligands for DAF-12 that govern dauer formation and reproduction in C. elegans." Cell 124(6): 1209-1223.
+Ogawa, A., A. Streit, et al. (2009). "A conserved endocrine mechanism controls the formation of dauer and infective larvae in nematodes." Curr Biol 19(1): 67-71.
+Paik, Y. K. and P. Y. Jeong (2004). "PHARMACOLOGICALLY ACTIVE NOVEL DAUER PHEROMONE COMPOUND FOR CONTROLLING AGING AND STRESS AND METHOD FOR ISOLATING AND CHARACTERIZING THE SAME." patent.
+Patel, D. S., L. L. Fang, et al. (2008). "Genetic identification of HSD-1, a conserved steroidogenic enzyme that directs larval development in Caenorhabditis elegans." Development 135(13): 2239-2249.
+Pungaliya, C., J. Srinivasan, et al. (2009). "A shortcut to identifying small molecule signals that regulate behavior and development in Caenorhabditis elegans." Proc Natl Acad Sci U S A 106(19): 7708-7713.
+Schroeder, F. C. (2006). "Small molecule signaling in Caenorhabditis elegans." ACS Chem Biol 1(4): 198-200.
+Sharma, K. K., Z. Wang, et al. (2009). "Synthesis and activity of dafachronic acid ligands for the C. elegans DAF-12 nuclear hormone receptor." Mol Endocrinol 23(5): 640-648.
+Srinivasan, J., F. Kaplan, et al. (2008). "A blend of small molecules regulates both mating and development in Caenorhabditis elegans." Nature 454(7208): 1115-1118.
+Wang, Z., X. E. Zhou, et al. (2009). "Identification of the nuclear receptor DAF-12 as a therapeutic target in parasitic nematodes." Proc Natl Acad Sci USA 106(23): 9138-9143.
 
 
