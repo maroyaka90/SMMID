@@ -3,7 +3,6 @@
 
 STRUCTURE: <br /> <img src="[% structure_file %]" /><br /><br />
 SMID ID: <b>[% smmid %]</b> <br /><br />
-ORGANISM: [% organism %]<br /><br />
 CHEMICAL NAME: [% chemical_name %]<br /><br />
 SYNONYMS: [% synonyms %]<br /><br />
 CAS: [% cas %]<br /><br />
