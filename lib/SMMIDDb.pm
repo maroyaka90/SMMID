@@ -122,7 +122,7 @@ sub get_organsism {
   return $SMMID{$self->get_smmid()}->{"ORGANISM"};
 }
 
-sub set_organism {
+sub set_molecular_weight {
   my $self = shift;
   $SMMID{$self->get_smmid()}->{"ORGANISM"}=shift;
 }
