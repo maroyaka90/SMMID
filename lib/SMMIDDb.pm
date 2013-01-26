@@ -81,7 +81,7 @@ sub fetch {
     }
     
 }
-	    
+
 =head2 accessors get_name, set_name
 
  Usage:
@@ -105,6 +105,26 @@ if (!exists $SMMID{$self->get_smmid()}) {
 sub set_name {
   my $self = shift;
   $SMMID{$self->get_smmid()}->{NAME}=shift;
+}
+	    
+=head2 accessors get_organism, set_organism
+
+ Usage:
+ Desc:
+ Property
+ Side Effects:
+ Example:
+
+=cut
+
+sub get_organsism {
+  my $self = shift;
+  return $SMMID{$self->get_smmid()}->{"ORGANISM"};
+}
+
+sub set_molecular_weight {
+  my $self = shift;
+  $SMMID{$self->get_smmid()}->{"ORGANISM"}=shift;
 }
 
 =head2 accessors get_synonyms, set_synonyms
@@ -144,7 +164,7 @@ sub get_molecular_formula {
 
 sub set_molecular_formula {
   my $self = shift;
-  $SMMID{$self->get_smmid()}->{"MOLCULAR FORMULA"}=shift;
+  $SMMID{$self->get_smmid()}->{"MOLECULAR FORMULA"}=shift;
 }
 
 
