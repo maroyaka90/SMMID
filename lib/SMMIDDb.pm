@@ -82,6 +82,26 @@ sub fetch {
     
 }
 
+=head2 accessors get_organism, set_organism
+
+ Usage:
+ Desc:
+ Property
+ Side Effects:
+ Example:
+
+=cut
+
+sub get_organsism {
+  my $self = shift;
+  return $SMMID{$self->get_smmid()}->{"ORGANISM"};
+}
+
+sub set_organism {
+  my $self = shift;
+  $SMMID{$self->get_smmid()}->{"ORGANISM"}=shift;
+}
+
 =head2 accessors get_name, set_name
 
  Usage:
@@ -107,25 +127,7 @@ sub set_name {
   $SMMID{$self->get_smmid()}->{NAME}=shift;
 }
 	    
-=head2 accessors get_organism, set_organism
 
- Usage:
- Desc:
- Property
- Side Effects:
- Example:
-
-=cut
-
-sub get_organsism {
-  my $self = shift;
-  return $SMMID{$self->get_smmid()}->{"ORGANISM"};
-}
-
-sub set_organism {
-  my $self = shift;
-  $SMMID{$self->get_smmid()}->{"ORGANISM"}=shift;
-}
 
 =head2 accessors get_synonyms, set_synonyms
 
