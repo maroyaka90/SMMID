@@ -70,7 +70,7 @@ sub detail :Path('/detail') {
     $c->stash->{smmid}=$s->get_smmid();
     $c->stash->{synonyms} = $s->get_synonyms();
     $c->stash->{molecular_weight}=$s->get_molecular_weight();
-    $c->stash->{organism}=$s->get_organism();
+    $c->stash->{organism} = $s->get_organism();
     $c->stash->{concise_summary} = $s->get_concise_summary();
     $c->stash->{receptors} = $s->get_receptors();
     @{$c->stash->{receptor_references}} = $s->get_links("RECEPTORS");
