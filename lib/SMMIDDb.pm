@@ -81,6 +81,25 @@ sub fetch {
     }
     
 }
+
+=head2 get_organism
+
+ Usage:
+ Desc:
+ Ret:
+ Args:
+ Side Effects:
+ Example:
+
+=cut
+
+sub get_organism {
+    my $self = shift;
+    return $SMMID{$self->get_smmid()}->{"ORGANISM"};
+}
+
+
+
 	    
 =head2 accessors get_name, set_name
 
