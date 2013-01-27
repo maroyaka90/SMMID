@@ -5067,12 +5067,12 @@ ORGANISM: <i>P. pacificus</i>
 
 CHEMICAL NAME: (R)-6-(((2R,3R,5R,6S)-5-(((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H- pyran-2-yl)oxy)heptanoyl)oxy)-3-hydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoic acid
 
-SYNONYMS: 
+SYNONYMS: none
 MOLECULAR FORMULA: C26H46O11
 MOLECULAR WEIGHT: 276.33
 CAS: TBD
 
-CONCISE SUMMARY: Induces eurystomatous mouth form in P. pacificus. 
+CONCISE SUMMARY: Induces eurystomatous mouth form in <i>P. pacificus</i>. 
 
 BIOSYNTHESIS: 
 TBD
@@ -5090,9 +5090,9 @@ SMMID: npar#1
 
 ORGANISM: <i>P. pacificus</i>
 
-CHEMICAL NAME: (2S,3R)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2- yl)oxy)pentanoyl)oxy)-2-(3-(9-((2R,3R,4S,5R)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)-9H-purin- 6-yl)ureido)butanoic acid
+CHEMICAL NAME: (2S,3R)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)-2-(3-(9-((2R,3R,4S,5R)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)-9H-purin-6-yl)ureido)butanoic acid
 
-SYNONYMS: 
+SYNONYMS: none
 MOLECULAR FORMULA: C26H38N6O13
 MOLECULAR WEIGHT: 642.61
 CAS: TBD
@@ -5115,14 +5115,14 @@ SMMID: npar#2
 
 ORGANISM: <i>P. pacificus</i>
 
-CHEMICAL NAME: (2S,3R)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2- yl)oxy)pentanoyl)oxy)-2-(3-(9-((2R,3R,4S,5R)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)-9H-purin- 6-yl)ureido)butanoic acid
+CHEMICAL NAME: (2S,3R)-2-(3-(9H-purin-6-yl)ureido)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)butanoic acid
 
-SYNONYMS: 
+SYNONYMS: none
 MOLECULAR FORMULA: C21H30N6O9
 MOLECULAR WEIGHT: 510.50
 CAS: TBD
 
-CONCISE SUMMARY: TBD 
+CONCISE SUMMARY: Found in <i>P. pacificus</i>. 
 
 BIOSYNTHESIS: 
 TBD
@@ -5142,12 +5142,12 @@ ORGANISM: <i>P. pacificus</i>
 
 CHEMICAL NAME: (R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
 
-SYNONYMS: 
+SYNONYMS: none
 MOLECULAR FORMULA: C11H20O6
 MOLECULAR WEIGHT: 248.27
 CAS: TBD
 
-CONCISE SUMMARY: Induces dauers in P. pacificus 
+CONCISE SUMMARY: Induces dauers in <i>P. pacificus</i>.
 
 BIOSYNTHESIS: 
 TBD
@@ -5167,12 +5167,12 @@ ORGANISM: <i>P. pacificus</i>
 
 CHEMICAL NAME: TBD 
 
-SYNONYMS: 
+SYNONYMS: none
 MOLECULAR FORMULA: C25H37NO9
 MOLECULAR WEIGHT: 495.56
 CAS: TBD
 
-CONCISE SUMMARY: TBD
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
 
 BIOSYNTHESIS: 
 TBD
@@ -5192,12 +5192,12 @@ ORGANISM: <i>P. pacificus</i>
 
 CHEMICAL NAME: 4-(((R)-2-(((R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2- yl)oxy)pentanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanoic acid 
 
-SYNONYMS: 
+SYNONYMS: none
 MOLECULAR FORMULA: C23H33NO9
 MOLECULAR WEIGHT: 467.51
 CAS: TBD
 
-CONCISE SUMMARY: Induces eurystomatous mouth form in P. pacificus
+CONCISE SUMMARY: Induces eurystomatous mouth form in <i>P. pacificus</i>.
 
 BIOSYNTHESIS: 
 TBD
@@ -5215,14 +5215,14 @@ SMMID: pasc#12
 
 ORGANISM: <i>P. pacificus</i>
 
-CHEMICAL NAME: TBD 
+CHEMICAL NAME: 4-(((R)-2-(((R)-5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hexanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanoic acid 
 
-SYNONYMS: 
+SYNONYMS: none
 MOLECULAR FORMULA: C24H35NO9
 MOLECULAR WEIGHT: 481.54
 CAS: TBD
 
-CONCISE SUMMARY: TBD
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
 
 BIOSYNTHESIS: 
 TBD
@@ -5238,16 +5238,16 @@ http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 SMMID: ubas#1
 
-ORGANISM: <i>P. redivivus</i>
+ORGANISM: <i>P. pacificus</i>
 
-CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-((5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H- pyran-2-yl)oxy)pentanoyl)oxy)-6-methyl-5-(((R)-2-methyl-3-ureidopropanoyl)oxy)tetrahydro-2H- pyran-2-yl)oxy)pentanoic acid
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-((5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)-6-methyl-5-(((R)-2-methyl-3-ureidopropanoyl)oxy)tetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
 
-SYNONYMS: 
+SYNONYMS: none
 MOLECULAR FORMULA: C27H46N2O13
 MOLECULAR WEIGHT: 606.66
 CAS: TBD
 
-CONCISE SUMMARY: TBD 
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
 
 BIOSYNTHESIS: 
 TBD
@@ -5263,16 +5263,16 @@ http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 SMMID: ubas#2
 
-ORGANISM: <i>P. redivivus</i>
+ORGANISM: <i>P. pacificus</i>
 
-CHEMICAL NAME: TBD
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-(((R)-5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hexanoyl)oxy)-6-methyl-5-(((R)-2-methyl-3-ureidopropanoyl)oxy)tetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
 
-SYNONYMS: 
+SYNONYMS: none
 MOLECULAR FORMULA: C28H48N2O13
 MOLECULAR WEIGHT: 620.69
 CAS: TBD
 
-CONCISE SUMMARY: TBD 
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
 
 BIOSYNTHESIS: 
 TBD
