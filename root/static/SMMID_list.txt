@@ -22,7 +22,7 @@ MOLECULAR FORMULA: C13H24O6
 MOLECULAR WEIGHT: 276.33
 CAS: 690991-47-0
 
-CONCISE SUMMARY:  Dauer inducing. Produced by female <i>P. redivivus</i>.
+CONCISE SUMMARY:  Dauer inducing in <i> C. elegans</i>. Produced by female <i>P. redivivus</i>.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -851,7 +851,7 @@ MOLECULAR FORMULA: C15H28O6
 MOLECULAR WEIGHT: 304.38
 CAS: 1355681-08-1
 
-CONCISE SUMMARY: Direct biosynthetic precursor to ascr#3. Absent in <i>daf-22(ok693)</i> and is a major ascaroside detected in wild type (N2) and <i>acox-1(ok2257)</i> mutants worms. Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Produced by female <i>P. redivivus</i>.
+CONCISE SUMMARY: Direct biosynthetic precursor to ascr#3. Absent in <i>daf-22(ok693)</i> and is a major ascaroside detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant <i> C. elegans</i>. Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant <i>C. elegans</i>. Produced by female <i>P. redivivus</i>.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1738,7 +1738,7 @@ MOLECULAR FORMULA: C15H28O7
 MOLECULAR WEIGHT: 320.38
 CAS: 1355682-49-3
 
-CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutants and small amounts in <i>acox-1(ok2257)</i> mutant worms. Produced by female <i>P. redivivus</i>.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutants and small amounts in <i>acox-1(ok2257)</i> mutant <i>C. elegans</i>. Produced by female <i>P. redivivus</i>.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1798,7 +1798,7 @@ MOLECULAR FORMULA: C17H32O7
 MOLECULAR WEIGHT: 348.43
 CAS: 1355682-52-8
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms. Produced by male P. redivivus.
+CONCISE SUMMARY: Detected in wild type (N2) and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant <i>C. elegans</i>. Produced by male <i>P. redivivus</i>.
 
 BIOSYNTHESIS: 
 (DAF-22)
