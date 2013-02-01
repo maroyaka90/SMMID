@@ -13,7 +13,7 @@ REFERENCES:
 
 SMMID: ascr#1
 
-ORGANISM: <i>C. elegans</i>
+ORGANISM: <i>C. elegans, P. pacificus, P. redivivus</i>
 
 CHEMICAL NAME: (-)-6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)heptanoic acid
 
@@ -22,7 +22,7 @@ MOLECULAR FORMULA: C13H24O6
 MOLECULAR WEIGHT: 276.33
 CAS: 690991-47-0
 
-CONCISE SUMMARY:  Dauer inducing. 
+CONCISE SUMMARY:  Dauer inducing. Produced by female <i>P. redivivus</i>.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -91,7 +91,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/21959166
 (Noh, Park et al. 2011)
 http://www.sciencedirect.com/science/article/pii/S0731708511002068
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Izrayelit et al. 2012)
@@ -102,6 +102,10 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
 (Bose, Ogawa et al. 2012) 
 http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+
 
 SMMID: ascr#2
 
@@ -178,7 +182,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/21935539
 (Sommer, Ogawa 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21959166
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Park et al. 2012)
@@ -191,6 +195,10 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
 (Bose, Ogawa et al. 2012) 
 http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+
 
 SMMID: ascr#3
 
@@ -267,7 +275,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/21423575
 (Sommer, Ogawa 2011) 
 http://www.ncbi.nlm.nih.gov/pubmed/21959166 
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202yascr
 (Park et al. 2012)
@@ -282,6 +290,10 @@ http://www.ncbi.nlm.nih.gov/pubmed/22503501
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
 (Bose, Ogawa et al. 2012) 
 http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+
 
 SMMID: ascr#4
 
@@ -338,6 +350,8 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
 (Kaplan, Alborn et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
 
 
 SMMID: ascr#5
@@ -403,7 +417,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/21959166
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (Park et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
 (Jang, Kim et al. 2012)
@@ -451,7 +465,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/20151418
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (Kaplan, Alborn et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
 
@@ -538,7 +552,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/20422068
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Park et al. 2012)
@@ -547,6 +561,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/22665789
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
 (Kaplan, Alborn et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
+
+
 
 SMMID: ascr#8
 
@@ -587,7 +603,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/20135027
 (Kaplan, Srinivasan et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21423575
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Park et al. 2012)
@@ -596,6 +612,10 @@ http://www.ncbi.nlm.nih.gov/pubmed/22665789
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
 (Kaplan, Alborn et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+
 
 SMMID: icas#9
 
@@ -632,7 +652,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/19665885
 (McGrath, Xu et al. 2011)
 http://www.ncbi.nlm.nih.gov/pubmed/21849976
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Park et al. 2012)
@@ -643,6 +663,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/22662967
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
 (Kaplan, Alborn et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
 
 
 SMMID: dafa#1
@@ -780,7 +802,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/22505847
 
 SMMID: ascr#9
 
-ORGANISM: <i>C. elegans</i>
+ORGANISM: <i>C. elegans, P. pacificus</i>
 
 CHEMICAL NAME: 4R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentanoic acid
 
@@ -815,10 +837,12 @@ http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
 (Bose, Ogawa et al. 2012) 
 http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 
 SMMID: ascr#10
 
-ORGANISM: <i>C. elegans</i>
+ORGANISM: <i>C. elegans, P. redivivus</i>
 
 CHEMICAL NAME: 8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
@@ -827,7 +851,7 @@ MOLECULAR FORMULA: C15H28O6
 MOLECULAR WEIGHT: 304.38
 CAS: 1355681-08-1
 
-CONCISE SUMMARY: Direct biosynthetic precursor to ascr#3. Absent in <i>daf-22(ok693)</i> and is a major ascaroside detected in wild type (N2) and <i>acox-1(ok2257)</i> mutants worms. Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+CONCISE SUMMARY: Direct biosynthetic precursor to ascr#3. Absent in <i>daf-22(ok693)</i> and is a major ascaroside detected in wild type (N2) and <i>acox-1(ok2257)</i> mutants worms. Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Produced by female <i>P. redivivus</i>.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -847,11 +871,14 @@ REFERENCES:
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (Izrayelit et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22662967
 (Choe, von Reuss et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
 
 SMMID: ascr#11
 
@@ -886,7 +913,7 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: ascr#12
 
-ORGANISM: <i>C. elegans</i>
+ORGANISM: <i>C. elegans, P. pacificus</i>
 
 CHEMICAL NAME: 5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexanoic acid
 
@@ -917,6 +944,8 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
 (Bose, Ogawa et al. 2012) 
 http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
 
 SMMID: ascr#13
 
@@ -982,6 +1011,8 @@ REFERENCES:
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Choe, von Reuss et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
 
 SMMID: ascr#15
 
@@ -1102,6 +1133,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/19174521
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Choe, von Reuss et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
 
 SMMID: ascr#19
 
@@ -1696,7 +1729,7 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#10
 
-ORGANISM: <i>C. elegans</i>
+ORGANISM: <i>C. elegans, P. redivivus</i>
 
 CHEMICAL NAME: 3R-hydroxy-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
 
@@ -1705,7 +1738,7 @@ MOLECULAR FORMULA: C15H28O7
 MOLECULAR WEIGHT: 320.38
 CAS: 1355682-49-3
 
-CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutants and small amounts in <i>acox-1(ok2257)</i> mutant worms.
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutants and small amounts in <i>acox-1(ok2257)</i> mutant worms. Produced by female <i>P. redivivus</i>.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1722,6 +1755,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
 
 SMMID: bhas#16
 
@@ -1754,7 +1789,7 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 
 SMMID: bhas#18
 
-ORGANISM: <i>C. elegans</i>
+ORGANISM: <i>C. elegans, P. redivivus</i>
 
 CHEMICAL NAME: 3R-hydroxy-10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
 
@@ -1763,7 +1798,7 @@ MOLECULAR FORMULA: C17H32O7
 MOLECULAR WEIGHT: 348.43
 CAS: 1355682-52-8
 
-CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms. Produced by male P. redivivus.
 
 BIOSYNTHESIS: 
 (DAF-22)
@@ -1780,6 +1815,8 @@ RECEPTORS: tbd
 REFERENCES: 
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
 
 SMMID: bhas#20
 
@@ -3042,7 +3079,7 @@ CHEMICAL NAME: 6R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C22H29NO7
 MOLECULAR WEIGHT: 419.47
-CAS: tbd
+CAS: 1355681-28-5
 
 CONCISE SUMMARY: Detected in wild type (N2) worms.
 
@@ -3062,7 +3099,7 @@ REFERENCES:
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 
 SMMID: icas#3
 
@@ -3073,7 +3110,7 @@ CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C24H31NO7
 MOLECULAR WEIGHT: 445.50
-CAS: tbd
+CAS: 1355681-39-8
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3093,7 +3130,7 @@ REFERENCES:
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (Park et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
 (Izrayelit et al. 2012)
@@ -3108,7 +3145,7 @@ CHEMICAL NAME: 6R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C22H27NO7
 MOLECULAR WEIGHT: 417.45
-CAS: tbd
+CAS: 1355682-94-8
 
 CONCISE SUMMARY: Detected in wild type (N2) worms.
 
@@ -3138,7 +3175,7 @@ CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C24H33NO7
 MOLECULAR WEIGHT: 447.52
-CAS: tbd
+CAS: 1355681-30-9
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
 
@@ -3158,7 +3195,7 @@ REFERENCES:
 (von Reuss et al. 2012) 
 http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Srinivasan, von Reuss et al. 2012)
-http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
 (Izrayelit et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22662967
 
@@ -3171,7 +3208,7 @@ CHEMICAL NAME: 5R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C21H27NO7
 MOLECULAR WEIGHT: 405.44
-CAS: tbd
+CAS: 1355682-92-6
 
 CONCISE SUMMARY: Detected in wild type (N2) worms.
 
@@ -3199,7 +3236,7 @@ CHEMICAL NAME: 7R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C23H31NO7
 MOLECULAR WEIGHT: 433.49
-CAS: tbd
+CAS: 1355682-96-0
 
 CONCISE SUMMARY: Detected in wild type (N2) worms.
 
@@ -3228,7 +3265,7 @@ CHEMICAL NAME: 9R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C25H33NO7
 MOLECULAR WEIGHT: 459.53
-CAS: tbd
+CAS: 1355682-99-3
 
 CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3257,7 +3294,7 @@ CHEMICAL NAME: 9R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C25H35NO7
 MOLECULAR WEIGHT: 461.55
-CAS: tbd
+CAS: 1355683-01-0
 
 CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3286,7 +3323,7 @@ CHEMICAL NAME: 10R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-te
 SYNONYMS: none
 MOLECULAR FORMULA: C26H35NO7
 MOLECULAR WEIGHT: 473.56
-CAS: tbd
+CAS: 1355683-03-2
 
 CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3315,7 +3352,7 @@ CHEMICAL NAME: 10R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-te
 SYNONYMS: none
 MOLECULAR FORMULA: C26H37NO7
 MOLECULAR WEIGHT: 475.57
-CAS: tbd
+CAS: 1355683-05-4
 
 CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3344,7 +3381,7 @@ CHEMICAL NAME: 11R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-te
 SYNONYMS: none
 MOLECULAR FORMULA: C27H37NO7
 MOLECULAR WEIGHT: 487.59
-CAS: tbd
+CAS: 1355683-08-7
 
 CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3371,9 +3408,9 @@ ORGANISM: <i>C. elegans</i>
 CHEMICAL NAME: 11R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
 
 SYNONYMS: none
-MOLECULAR FORMULA: C27H37NO7
+MOLECULAR FORMULA: C27H39NO7
 MOLECULAR WEIGHT: 489.60
-CAS: tbd
+CAS: 1355683-09-8
 
 CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3402,7 +3439,7 @@ CHEMICAL NAME: 12R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-te
 SYNONYMS: none
 MOLECULAR FORMULA: C28H39NO7
 MOLECULAR WEIGHT: 501.61
-CAS: tbd
+CAS: 1355683-10-1
 
 CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3431,7 +3468,7 @@ CHEMICAL NAME: 12R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-te
 SYNONYMS: none
 MOLECULAR FORMULA: C28H41NO7
 MOLECULAR WEIGHT: 503.63
-CAS: tbd
+CAS: 1355683-11-2
 
 CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3460,7 +3497,7 @@ CHEMICAL NAME: 7-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetr
 SYNONYMS: none
 MOLECULAR FORMULA: C22H29NO7
 MOLECULAR WEIGHT: 419.47
-CAS: tbd
+CAS: 1355681-32-1
 
 CONCISE SUMMARY: Detected in wild type (N2) worms.
 
@@ -3489,7 +3526,7 @@ CHEMICAL NAME: 9-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetr
 SYNONYMS: none
 MOLECULAR FORMULA: C24H31NO7
 MOLECULAR WEIGHT: 445.21
-CAS: tbd
+CAS: 1355683-12-3
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3519,7 +3556,7 @@ CHEMICAL NAME: 5-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetr
 SYNONYMS: none
 MOLECULAR FORMULA: C20H25NO7
 MOLECULAR WEIGHT: 391.42
-CAS: tbd
+CAS: 1355681-34-3
 
 CONCISE SUMMARY: Detected in wild type (N2) worms.
 
@@ -3549,7 +3586,7 @@ CHEMICAL NAME: 9-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetr
 SYNONYMS: none
 MOLECULAR FORMULA: C24H33NO7
 MOLECULAR WEIGHT: 447.52
-CAS: tbd
+CAS: 1355681-35-4
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3578,7 +3615,7 @@ CHEMICAL NAME: 10-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C25H33NO7
 MOLECULAR WEIGHT: 459.22
-CAS: tbd
+CAS: 1355683-13-4
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3606,7 +3643,7 @@ CHEMICAL NAME: 10-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C25H35NO7
 MOLECULAR WEIGHT: 461.55
-CAS: tbd
+CAS: 1355683-15-6
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3635,7 +3672,7 @@ CHEMICAL NAME: 11-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C26H35NO7
 MOLECULAR WEIGHT: 473.56
-CAS: tbd
+CAS: 1355683-16-7
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3672,7 +3709,8 @@ CHEMICAL NAME: 11-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tet
 SYNONYMS: none
 MOLECULAR FORMULA: C26H37NO7
 MOLECULAR WEIGHT: 475.57
-CAS: tbd
+CAS: 1355683-18-9
+
 
 CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
 
@@ -3710,7 +3748,7 @@ CHEMICAL NAME: 7-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-he
 SYNONYMS: none
 MOLECULAR FORMULA: C13H24O6
 MOLECULAR WEIGHT: 276.33
-CAS: tbd
+CAS: 1355681-97-8
 
 CONCISE SUMMARY: Detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant worms. 
 
@@ -3741,7 +3779,7 @@ CHEMICAL NAME: 9-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E
 SYNONYMS: none
 MOLECULAR FORMULA: C15H26O6
 MOLECULAR WEIGHT: 302.36
-CAS: tbd
+CAS: 1355682-01-7
 
 CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and small amounts detected in <i>acox-1(ok2257)</i> mutant worms. 
 
@@ -3772,7 +3810,7 @@ CHEMICAL NAME: 7-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E
 SYNONYMS: none
 MOLECULAR FORMULA: C13H22O6
 MOLECULAR WEIGHT: 274.31
-CAS: tbd
+CAS: 1355681-95-6
 
 CONCISE SUMMARY: tbd
 
@@ -3803,7 +3841,7 @@ CHEMICAL NAME: 5-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pe
 SYNONYMS: none
 MOLECULAR FORMULA: C11H20O6
 MOLECULAR WEIGHT: 248.27
-CAS: tbd
+CAS: 1355681-20-7
 
 CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -4709,7 +4747,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrah
 SYNONYMS: none
 MOLECULAR FORMULA: C21H36O11
 MOLECULAR WEIGHT: 464.22
-CAS: tbd
+CAS: 1355683-53-2
 
 CONCISE SUMMARY: Detected in acox-1 mutant worms.
 
@@ -4739,7 +4777,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrah
 SYNONYMS: none
 MOLECULAR FORMULA: C21H38O11
 MOLECULAR WEIGHT: 466.24
-CAS: tbd
+CAS: 1355681-37-6
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -4769,7 +4807,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrah
 SYNONYMS: none
 MOLECULAR FORMULA: C22H40O11
 MOLECULAR WEIGHT: 480.26
-CAS: tbd
+CAS: 1355683-55-4
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -4799,7 +4837,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 SYNONYMS: none
 MOLECULAR FORMULA: C23H42O11
 MOLECULAR WEIGHT: 494.27
-CAS: tbd
+CAS: 1355683-57-6
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -4829,7 +4867,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 SYNONYMS: none
 MOLECULAR FORMULA: C24H44O11
 MOLECULAR WEIGHT: 508.29
-CAS: tbd
+CAS: 1355683-59-8
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -4859,7 +4897,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 SYNONYMS: none
 MOLECULAR FORMULA: C25H46O11
 MOLECULAR WEIGHT: 522.30
-CAS: tbd
+CAS: 1355683-61-2
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -4889,7 +4927,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 SYNONYMS: none
 MOLECULAR FORMULA: C26H48O11
 MOLECULAR WEIGHT: 536.32
-CAS: tbd
+CAS: 1355683-63-4
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -4919,7 +4957,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 SYNONYMS: none
 MOLECULAR FORMULA: C27H50O11
 MOLECULAR WEIGHT: 550.34
-CAS: tbd
+CAS: 1355683-65-6
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
 
@@ -4949,7 +4987,7 @@ CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahyd
 SYNONYMS: none
 MOLECULAR FORMULA: C22H30O8
 MOLECULAR WEIGHT: 422.19
-CAS: tbd
+CAS: 1355681-25-2
 
 CONCISE SUMMARY: Detected in wild type worms.
 
@@ -4981,7 +5019,7 @@ CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahyd
 SYNONYMS: none
 MOLECULAR FORMULA: C22H32O8
 MOLECULAR WEIGHT: 424.21
-CAS: tbd
+CAS: 1355683-67-8
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
 
@@ -5070,7 +5108,7 @@ CHEMICAL NAME: (R)-6-(((2R,3R,5R,6S)-5-(((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-m
 SYNONYMS: none
 MOLECULAR FORMULA: C26H46O11
 MOLECULAR WEIGHT: 276.33
-CAS: TBD
+CAS: 1417721-86-8
 
 CONCISE SUMMARY: Induces eurystomatous mouth form in <i>P. pacificus</i>. 
 
@@ -5093,7 +5131,7 @@ CHEMICAL NAME: (2S,3R)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydr
 SYNONYMS: none
 MOLECULAR FORMULA: C26H38N6O13
 MOLECULAR WEIGHT: 642.61
-CAS: TBD
+CAS: 1417721-71-1
 
 CONCISE SUMMARY: Strongly dauer inducing in <i>P. pacificus</i>.
 
@@ -5139,7 +5177,7 @@ CHEMICAL NAME: (R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2
 SYNONYMS: none
 MOLECULAR FORMULA: C11H20O6
 MOLECULAR WEIGHT: 248.27
-CAS: TBD
+CAS: 1417721-79-9
 
 CONCISE SUMMARY: Induces dauers in <i>P. pacificus</i>.
 
@@ -5157,7 +5195,7 @@ SMMID: pasc#1
 
 ORGANISM: <i>P. pacificus</i>
 
-CHEMICAL NAME: TBD 
+CHEMICAL NAME: 4-(((R)-2-(((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanoic acid 
 
 SYNONYMS: none
 MOLECULAR FORMULA: C25H37NO9
@@ -5185,7 +5223,7 @@ CHEMICAL NAME: 4-(((R)-2-(((R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydr
 SYNONYMS: none
 MOLECULAR FORMULA: C23H33NO9
 MOLECULAR WEIGHT: 467.51
-CAS: TBD
+CAS: 1417721-44-8
 
 CONCISE SUMMARY: Induces eurystomatous mouth form in <i>P. pacificus</i>.
 
@@ -5208,7 +5246,7 @@ CHEMICAL NAME: 4-(((R)-2-(((R)-5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydr
 SYNONYMS: none
 MOLECULAR FORMULA: C24H35NO9
 MOLECULAR WEIGHT: 481.54
-CAS: TBD
+CAS: 1417721-89-1
 
 CONCISE SUMMARY: Found in <i>P. pacificus</i>.
 
@@ -5267,4 +5305,26 @@ REFERENCES:
 (Bose, Ogawa et al. 2012) 
 http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
+
+SMMID: dhas#18
+
+ORGANISM: <i>P. redivivus</i>
+
+CHEMICAL NAME: (3R,8R,10R)-10-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)-3,8-dihydroxyundecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C17H32O8
+MOLECULAR WEIGHT: 364.43
+CAS: TBD
+
+CONCISE SUMMARY: Produced by male <i>P. redivivus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
 
