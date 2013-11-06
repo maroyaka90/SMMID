@@ -1,3 +1,5 @@
-export PERL5LIB="/home/mueller/cxgn/cxgn-corelibs/lib:/home/mueller/cxgn/sgn/lib:/home/mueller/cxgn/tomato_genome/lib:/home/mueller/cxgn/Cview/lib:/home/mueller/cxgn/ITAG/lib:/home/mueller/cxgn/local-lib/lib:/home/mueller/cxgn/Phenome/lib:/home/mueller/cxgn/biosource/lib:/home/mueller/cxgn/local-lib/lib/perl5:$PERL5LIB"
+#!/bin/bash
 
-screen script/smmid_server.pl -r --fork
+export PERL5LIB=/usr/local/share/smid-db/local-lib/lib/perl5
+
+screen ./script/smmid_server.pl -r --fork
