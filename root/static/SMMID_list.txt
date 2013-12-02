@@ -667,18 +667,21 @@ http://www.ncbi.nlm.nih.gov/pubmed/22701701
 http://www.ncbi.nlm.nih.gov/pubmed/23213209
 (Artyukhin, Yim et al. 2013)
 http://www.ncbi.nlm.nih.gov/pubmed/23689506
+
+
+
 SMMID: dafa#1
 
 ORGANISM: <i>C. elegans</i>
 
-CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-7-en-26-oic acid
+CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-1,7-dien-26-oic acid
 
-SYNONYMS: &Delta;7-dafachronic acid; dafachronic acid A; (+)-(5a,25S)-3-oxocholest-7-en-26-oic acid
-MOLECULAR FORMULA: C27H42O3
-MOLECULAR WEIGHT: 414.62
-CAS: 949004-12-0
+SYNONYMS: &Delta;1,7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-1,7-dien-26-oic acid
+MOLECULAR FORMULA: C27H40O3
+MOLECULAR WEIGHT: 412.61
+CAS: 1377666-88-0
 
-CONCISE SUMMARY: Putative endogenous ligand for DAF-12.
+CONCISE SUMMARY: Endogenous ligand for DAF-12.
 
 BIOSYNTHESIS: 
 (HSD-1)
@@ -695,6 +698,42 @@ http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
 RECEPTORS: 
 (DAF-12)
 http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
+
+REFERENCES:
+(Saini, Boland et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22434373
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/
+
+SMMID: dafa#2
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-7-en-26-oic acid
+
+SYNONYMS: &Delta;7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-7-en-26-oic acid
+MOLECULAR FORMULA: C27H42O3
+MOLECULAR WEIGHT: 414.62
+CAS: 949004-12-0
+
+CONCISE SUMMARY: Endogenous ligand for DAF-12.
+
+RECEPTOR(S):
+DAF-12
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6); 
+(DAF-9)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
 
 
 REFERENCES:
@@ -731,27 +770,73 @@ http://www.ncbi.nlm.nih.gov/pubmed/19110431
 (Bento, Ogawa et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20592728
 (Gioiello, Sabbatini et al. 2011) 
-http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THR-523JY1P-2&_user=492137&_coverDate=03%2F11%2F2011&_alid=1671926313&_rdoc=3&_fmt=high&_orig=search&_origin=search&_zone=rslt_list_item&_cdi=5289&_sort=r&_st=13&_docanchor=&view=c&_ct=3&_acct=C000022719&_version=1&_urlVersion=0&_userid=492137&md5=42860e68bdf0c64a4487b0d221a7470a&searchtype=a
+http://www.sciencedirect.com/science/article/pii/S0040402011000573
 (Schaedel, Gerisch et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22505848
 (Wollam, Magner et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22505847
+(Saini, Boland et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22434373
+(Alvarez, Mañez et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22489014
+(Zhi, Zhou et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22170062
+(Lee and Schroeder 2012)
+http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001307
+(Zhao, Zhang et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/24120638
+(Li, Chen et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/24010904
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/
 
-
-
-
-SMMID: dafa#2
+SMMID: dafa#3
 
 ORGANISM: <i>C. elegans</i>
 
-CHEMICAL NAME: (+)-(25S)-3-keto-cholest-4-en-26-oic acid
+CHEMICAL NAME: (+)-3a-hydroxy-(5a,25S)-3-ketocholest-7-en-26-oic acid
 
-SYNONYMS: dafachronic acid B, &Delta;4-dafachronic acid; (+)-(25S)-3-oxocholest-4-en-26-oic acid, (+)-3-keto-4-cholestenoic acid
+SYNONYMS: 3a-OH-&Delta;7-dafachronic acid; (+)—3a-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid
+MOLECULAR FORMULA: C27H44O3
+MOLECULAR WEIGHT: 416.65
+CAS: tbd
+
+CONCISE SUMMARY: Endogenous ligand for DAF-12. 
+
+RECEPTOR(S):
+DAF-12
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6); 
+(DAF-9)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
+
+
+REFERENCES:
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/
+
+
+SMMID: dafa#4
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-(25S)-3-ketocholest-4-en-26-oic acid
+
+SYNONYMS: dafachronic acid B; &Delta;4-dafachronic acid; (+)-(25S)-3-oxocholest-4-en-26-oic acid; (+)-3-keto-4-cholestenoic acid
 MOLECULAR FORMULA: C27H42O3
 MOLECULAR WEIGHT: 414.62
-CAS: 869858-35-5
+CAS: 23017-97-2
 
-CONCISE SUMMARY: Putative endogenous ligand for DAF-12
+CONCISE SUMMARY: Putative endogenous ligand for DAF-12.
 
 RECEPTOR(S):
 DAF-12
@@ -791,14 +876,112 @@ http://www.ncbi.nlm.nih.gov/pubmed/18642835
 http://www.ncbi.nlm.nih.gov/pubmed/19005586 
 (Sharma, Wang et al. 2009) 
 http://www.ncbi.nlm.nih.gov/pubmed/19196833 
+(Wang, Zhou et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19497877
+(Bethke, Fielenbach et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19342589
 (Branicky, Desjardins et al. 2010) 
 http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(Yamawaki, Berman et al. 2010)
+http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000468
+(Dumas, Guo et al. 2010)
+http://www.ncbi.nlm.nih.gov/pubmed/20178781
 (Gioiello, Sabbatini et al. 2011) 
-http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THR-523JY1P-2&_user=492137&_coverDate=03%2F11%2F2011&_alid=1671926313&_rdoc=3&_fmt=high&_orig=search&_origin=search&_zone=rslt_list_item&_cdi=5289&_sort=r&_st=13&_docanchor=&view=c&_ct=3&_acct=C000022719&_version=1&_urlVersion=0&_userid=492137&md5=42860e68bdf0c64a4487b0d221a7470a&searchtype=a
+http://www.sciencedirect.com/science/article/pii/S0040402011000573
+(Wilbrink, Petrusma et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21602385
+(Sommer and Ogawa)
+http://www.ncbi.nlm.nih.gov/pubmed/21959166
+Wollam, Magomedova et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21749634
 (Schaedel, Gerisch et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22505848
 (Wollam, Magner et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22505847
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/
+
+SMMID: dafa#5
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-(25S)-3-ketocholestan-26-oic acid
+
+SYNONYMS: dafachronic acid;&Delta;0-dafachronic acid; (+)-(25S)-3-oxocholestan-26-oic acid; (+)-3-ketocholestanoic acid
+MOLECULAR FORMULA: C27H44O3
+MOLECULAR WEIGHT: 416.65
+CAS: 1042719-97-0
+
+CONCISE SUMMARY: Intermediate in DAF-12 ligand biosynthesis present in HSD-1 and DAF-36 mutant worms.
+
+RECEPTOR(S):
+DAF-12
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6); 
+(DAF-9)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
+
+
+REFERENCES:
+(Martin, Däbritz et al. 2008)
+http://pubs.rsc.org/en/content/articlepdf/2008/ob10.1039/b815064h
+(Giroux, Bethke et al. 2008)
+http://www.ncbi.nlm.nih.gov/pubmed/18642835
+(Sharma, Wang et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19196833
+(Martin, Entchev et al. 2009)
+http://onlinelibrary.wiley.com/doi/10.1002/ejoc.200900443/abstract
+(Saini, Boland et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22434373
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/
+
+
+
+SMMID: dafa#6
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-3b-hydroxy-(5a,25S)-3-ketocholest-7-en-26-oic acid
+
+SYNONYMS: 3b-OH-&Delta;7-dafachronic acid; (+)—3b-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid
+MOLECULAR FORMULA: C27H44O3
+MOLECULAR WEIGHT: 416.65
+CAS: 1278580-94-1
+
+CONCISE SUMMARY: Intermediate in DAF-12 ligand biosynthesis present in HSD-1 mutant worms.
+
+RECEPTOR(S):
+DAF-12
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6); 
+(DAF-9)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
+
+
+REFERENCES:
+(Gioiello, Sabbatini et al. 2011) 
+http://www.sciencedirect.com/science/article/pii/S0040402011000573
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/
 
 SMMID: ascr#9
 
@@ -5331,7 +5514,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/23213209
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 SMMID: tsas#9
 
 ORGANISM: <i>C. elegans</i>
