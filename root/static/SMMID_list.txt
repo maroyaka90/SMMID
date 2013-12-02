@@ -719,7 +719,7 @@ CAS: 949004-12-0
 
 CONCISE SUMMARY: Endogenous ligand for DAF-12.
 
-RECEPTOR(S):
+RECEPTORS:
 (DAF-12)
 http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
 
@@ -796,14 +796,14 @@ ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-3a-hydroxy-(5a,25S)-3-ketocholest-7-en-26-oic acid
 
-SYNONYMS: 3a-OH-&Delta;7-dafachronic acid; (+)—3a-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid
+SYNONYMS: 3a-OH-&Delta;7-dafachronic acid; (+)-3a-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid
 MOLECULAR FORMULA: C27H44O3
 MOLECULAR WEIGHT: 416.65
 CAS: tbd
 
 CONCISE SUMMARY: Endogenous ligand for DAF-12. 
 
-RECEPTOR(S):
+RECEPTORS:
 (DAF-12)
 http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
 
@@ -838,7 +838,7 @@ CAS: 23017-97-2
 
 CONCISE SUMMARY: Putative endogenous ligand for DAF-12.
 
-RECEPTOR(S):
+RECEPTORS:
 (DAF-12)
 http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
 
@@ -914,7 +914,7 @@ CAS: 1042719-97-0
 
 CONCISE SUMMARY: Intermediate in DAF-12 ligand biosynthesis present in HSD-1 and DAF-36 mutant worms.
 
-RECEPTOR(S):
+RECEPTORS:
 
 BIOSYNTHESIS: 
 (HSD-1)
@@ -958,7 +958,7 @@ CAS: 1278580-94-1
 
 CONCISE SUMMARY: Intermediate in DAF-12 ligand biosynthesis present in HSD-1 mutant worms.
 
-RECEPTOR(S):
+RECEPTORS:
 
 
 BIOSYNTHESIS: 
