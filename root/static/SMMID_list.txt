@@ -951,7 +951,7 @@ ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-3b-hydroxy-(5a,25S)-3-ketocholest-7-en-26-oic acid
 
-SYNONYMS: 3b-OH-&Delta;7-dafachronic acid; (+)—3b-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid
+SYNONYMS: 3b-OH-&Delta;7-dafachronic acid; (+)-3b-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid
 MOLECULAR FORMULA: C27H44O3
 MOLECULAR WEIGHT: 416.65
 CAS: 1278580-94-1
