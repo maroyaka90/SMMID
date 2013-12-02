@@ -804,7 +804,7 @@ CAS: tbd
 CONCISE SUMMARY: Endogenous ligand for DAF-12. 
 
 RECEPTOR(S):
-DAF-12
+(DAF-12)
 http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
 
 BIOSYNTHESIS: 
@@ -839,7 +839,7 @@ CAS: 23017-97-2
 CONCISE SUMMARY: Putative endogenous ligand for DAF-12.
 
 RECEPTOR(S):
-DAF-12
+(DAF-12)
 http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
 
 BIOSYNTHESIS: 
@@ -915,8 +915,6 @@ CAS: 1042719-97-0
 CONCISE SUMMARY: Intermediate in DAF-12 ligand biosynthesis present in HSD-1 and DAF-36 mutant worms.
 
 RECEPTOR(S):
-DAF-12
-http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
 
 BIOSYNTHESIS: 
 (HSD-1)
@@ -961,8 +959,7 @@ CAS: 1278580-94-1
 CONCISE SUMMARY: Intermediate in DAF-12 ligand biosynthesis present in HSD-1 mutant worms.
 
 RECEPTOR(S):
-DAF-12
-http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
 
 BIOSYNTHESIS: 
 (HSD-1)
