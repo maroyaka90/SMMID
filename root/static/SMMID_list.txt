@@ -705,9 +705,7 @@ REFERENCES:
 (Saini, Boland et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22434373
 (Mahanti and Bose et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24411940
-(Judkins, Mahanti et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24453122
+http://www.ncbi.nlm.nih.gov/pubmed/
 
 SMMID: dafa#2
 
@@ -792,9 +790,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/24120638
 (Li, Chen et al. 2013)
 http://www.ncbi.nlm.nih.gov/pubmed/24010904
 (Mahanti and Bose et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24411940
-(Judkins, Mahanti et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24453122
+http://www.ncbi.nlm.nih.gov/pubmed/
 
 SMMID: dafa#3
 
@@ -829,9 +825,7 @@ http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
 
 REFERENCES:
 (Mahanti and Bose et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24411940
-(Judkins, Mahanti et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24453122
+http://www.ncbi.nlm.nih.gov/pubmed/
 
 
 SMMID: dafa#4
@@ -909,9 +903,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/22505848
 (Wollam, Magner et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22505847
 (Mahanti and Bose et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24411940
-(Judkins, Mahanti et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24453122
+http://www.ncbi.nlm.nih.gov/pubmed/
 
 SMMID: dafa#5
 
@@ -954,9 +946,7 @@ http://onlinelibrary.wiley.com/doi/10.1002/ejoc.200900443/abstract
 (Saini, Boland et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22434373
 (Mahanti and Bose et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24411940
-(Judkins, Mahanti et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24453122
+http://www.ncbi.nlm.nih.gov/pubmed/
 
 
 
@@ -993,7 +983,7 @@ REFERENCES:
 (Gioiello, Sabbatini et al. 2011) 
 http://www.sciencedirect.com/science/article/pii/S0040402011000573
 (Mahanti and Bose et al. 2014)
-http://www.ncbi.nlm.nih.gov/pubmed/24411940
+http://www.ncbi.nlm.nih.gov/pubmed/
 
 SMMID: ascr#9
 
