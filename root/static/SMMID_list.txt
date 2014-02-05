@@ -676,7 +676,8 @@ ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-1,7-dien-26-oic acid
 
-SYNONYMS: &Delta;1,7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-1,7-dien-26-oic acid
+SYNONYMS: &Delta;1,7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-1,7-dien-26-oic acid; Called dafa#3 <a href=“//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract”><b>here</b></a>.
+
 MOLECULAR FORMULA: C27H40O3
 MOLECULAR WEIGHT: 412.61
 CAS: 1377666-88-0
@@ -712,7 +713,8 @@ ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-7-en-26-oic acid
 
-SYNONYMS: &Delta;7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-7-en-26-oic acid
+SYNONYMS: &Delta;7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-7-en-26-oic acid; Called dafa#1 <a href=“//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract”><b>here</b></a>.
+
 MOLECULAR FORMULA: C27H42O3
 MOLECULAR WEIGHT: 414.62
 CAS: 949004-12-0
@@ -796,7 +798,8 @@ ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-3a-hydroxy-(5a,25S)-3-ketocholest-7-en-26-oic acid
 
-SYNONYMS: 3a-OH-&Delta;7-dafachronic acid; (+)-3a-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid
+SYNONYMS: 3a-OH-&Delta;7-dafachronic acid; (+)-3a-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid; Called hyda#1 <a href=“//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract”><b>here</b></a>.
+
 MOLECULAR FORMULA: C27H44O3
 MOLECULAR WEIGHT: 416.65
 CAS: tbd
@@ -831,7 +834,8 @@ ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-(25S)-3-ketocholest-4-en-26-oic acid
 
-SYNONYMS: dafachronic acid B; &Delta;4-dafachronic acid; (+)-(25S)-3-oxocholest-4-en-26-oic acid; (+)-3-keto-4-cholestenoic acid
+SYNONYMS: dafachronic acid B; &Delta;4-dafachronic acid; (+)-(25S)-3-oxocholest-4-en-26-oic acid; (+)-3-keto-4-cholestenoic acid; Called dafa#2 <a href=“//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract”><b>here</b></a>.
+
 MOLECULAR FORMULA: C27H42O3
 MOLECULAR WEIGHT: 414.62
 CAS: 23017-97-2
@@ -907,7 +911,8 @@ ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-(25S)-3-ketocholestan-26-oic acid
 
-SYNONYMS: dafachronic acid;&Delta;0-dafachronic acid; (+)-(25S)-3-oxocholestan-26-oic acid; (+)-3-ketocholestanoic acid
+SYNONYMS: dafachronic acid;&Delta;0-dafachronic acid; (+)-(25S)-3-oxocholestan-26-oic acid; (+)-3-ketocholestanoic acid; Called dafa#4 <a href=“//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract”><b>here</b></a>.
+
 MOLECULAR FORMULA: C27H44O3
 MOLECULAR WEIGHT: 416.65
 CAS: 1042719-97-0
