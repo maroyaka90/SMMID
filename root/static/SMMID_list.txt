@@ -676,7 +676,7 @@ ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-1,7-dien-26-oic acid
 
-SYNONYMS: &Delta;1,7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-1,7-dien-26-oic acid; Called dafa#3 <a href=“http://www.ncbi.nlm.nih.gov/pubmed/24453122/”><b>here</b></a>.
+SYNONYMS: &Delta;1,7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-1,7-dien-26-oic acid; Called dafa#3 <a href=“//www.ncbi.nlm.nih.gov/pubmed/24453122/”><b>here</b></a>.
 
 MOLECULAR FORMULA: C27H40O3
 MOLECULAR WEIGHT: 412.61
@@ -715,7 +715,7 @@ ORGANISM: <i>C. elegans</i>
 
 CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-7-en-26-oic acid
 
-SYNONYMS: &Delta;7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-7-en-26-oic acid; Called dafa#1 <a href=“http://www.ncbi.nlm.nih.gov/pubmed/24453122/”><b>here</b></a>.
+SYNONYMS: &Delta;7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-7-en-26-oic acid; Called dafa#1 <a href=“//www.ncbi.nlm.nih.gov/pubmed/24453122/”><b>here</b></a>.
 
 MOLECULAR FORMULA: C27H42O3
 MOLECULAR WEIGHT: 414.62
