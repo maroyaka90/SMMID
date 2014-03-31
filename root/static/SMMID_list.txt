@@ -1277,7 +1277,7 @@ ORGANISM: <i>C. elegans</i>
 CHEMICAL NAME: 10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-undecenoic acid
 
 SYNONYMS: none
-MOLECULAR FORMULA: C16H30O6
+MOLECULAR FORMULA: C17H30O6
 MOLECULAR WEIGHT: 330.42
 CAS: 1186217-53-7
 
@@ -1400,7 +1400,7 @@ ORGANISM: <i>C. elegans</i>
 CHEMICAL NAME:12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-tridecenoic acid
 
 SYNONYMS: none
-MOLECULAR FORMULA: C18H34O6
+MOLECULAR FORMULA: C19H34O6
 MOLECULAR WEIGHT: 358.47
 CAS: 1355681-57-0
 
@@ -4912,8 +4912,8 @@ ORGANISM: <i>C. elegans</i>
 CHEMICAL NAME: beta-D-glucos-1''-yl-6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoate
 
 SYNONYMS: none
-MOLECULAR FORMULA: C19H32O11
-MOLECULAR WEIGHT: 438.21
+MOLECULAR FORMULA: C19H34O11
+MOLECULAR WEIGHT: 438.47
 CAS: tbd
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -4943,7 +4943,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrah
 
 SYNONYMS: none
 MOLECULAR FORMULA: C21H36O11
-MOLECULAR WEIGHT: 464.22
+MOLECULAR WEIGHT: 464.51
 CAS: 1355683-53-2
 
 CONCISE SUMMARY: Detected in acox-1 mutant worms.
@@ -4973,7 +4973,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrah
 
 SYNONYMS: none
 MOLECULAR FORMULA: C21H38O11
-MOLECULAR WEIGHT: 466.24
+MOLECULAR WEIGHT: 466.52
 CAS: 1355681-37-6
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -5003,7 +5003,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrah
 
 SYNONYMS: none
 MOLECULAR FORMULA: C22H40O11
-MOLECULAR WEIGHT: 480.26
+MOLECULAR WEIGHT: 480.55
 CAS: 1355683-55-4
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -5033,7 +5033,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 
 SYNONYMS: none
 MOLECULAR FORMULA: C23H42O11
-MOLECULAR WEIGHT: 494.27
+MOLECULAR WEIGHT: 494.58
 CAS: 1355683-57-6
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -5063,7 +5063,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 
 SYNONYMS: none
 MOLECULAR FORMULA: C24H44O11
-MOLECULAR WEIGHT: 508.29
+MOLECULAR WEIGHT: 508.60
 CAS: 1355683-59-8
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -5093,7 +5093,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 
 SYNONYMS: none
 MOLECULAR FORMULA: C25H46O11
-MOLECULAR WEIGHT: 522.30
+MOLECULAR WEIGHT: 522.63
 CAS: 1355683-61-2
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -5123,7 +5123,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 
 SYNONYMS: none
 MOLECULAR FORMULA: C26H48O11
-MOLECULAR WEIGHT: 536.32
+MOLECULAR WEIGHT: 536.66
 CAS: 1355683-63-4
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -5153,7 +5153,7 @@ CHEMICAL NAME: beta-D-glucos-1''-yl-14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetra
 
 SYNONYMS: none
 MOLECULAR FORMULA: C27H50O11
-MOLECULAR WEIGHT: 550.34
+MOLECULAR WEIGHT: 550.69
 CAS: 1355683-65-6
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
@@ -5183,7 +5183,7 @@ CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahyd
 
 SYNONYMS: none
 MOLECULAR FORMULA: C22H30O8
-MOLECULAR WEIGHT: 422.19
+MOLECULAR WEIGHT: 422.47
 CAS: 1355681-25-2
 
 CONCISE SUMMARY: Detected in wild type worms.
@@ -5215,7 +5215,7 @@ CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahyd
 
 SYNONYMS: none
 MOLECULAR FORMULA: C22H32O8
-MOLECULAR WEIGHT: 424.21
+MOLECULAR WEIGHT: 424.49
 CAS: 1355683-67-8
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
@@ -5245,7 +5245,7 @@ CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-((E)-2-methyl-2-butenoyl)-6'S-methyl-(2H)-t
 
 SYNONYMS: none
 MOLECULAR FORMULA: C20H32O7
-MOLECULAR WEIGHT: 384.21
+MOLECULAR WEIGHT: 384.47
 CAS: 1355681-26-3
 
 CONCISE SUMMARY: Detected in wild type worms.
@@ -5275,7 +5275,7 @@ CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-((E)-2-methyl-2-butenoyl)-6'S-methyl-(2H)-t
 
 SYNONYMS: none
 MOLECULAR FORMULA: C20H34O7
-MOLECULAR WEIGHT: 386.23
+MOLECULAR WEIGHT: 386.48
 CAS: 1355683-69-0
 
 CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
@@ -5304,7 +5304,7 @@ CHEMICAL NAME: (R)-6-(((2R,3R,5R,6S)-5-(((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-m
 
 SYNONYMS: none
 MOLECULAR FORMULA: C26H46O11
-MOLECULAR WEIGHT: 276.33
+MOLECULAR WEIGHT: 534.64
 CAS: 1417721-86-8
 
 CONCISE SUMMARY: Induces eurystomatous mouth form in <i>P. pacificus</i>. 
@@ -5327,7 +5327,7 @@ CHEMICAL NAME: (2S,3R)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydr
 
 SYNONYMS: none
 MOLECULAR FORMULA: C26H38N6O13
-MOLECULAR WEIGHT: 642.61
+MOLECULAR WEIGHT: 642.62
 CAS: 1417721-71-1
 
 CONCISE SUMMARY: Strongly dauer inducing in <i>P. pacificus</i>.
@@ -5373,7 +5373,7 @@ CHEMICAL NAME: (R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2
 
 SYNONYMS: none
 MOLECULAR FORMULA: C11H20O6
-MOLECULAR WEIGHT: 248.27
+MOLECULAR WEIGHT: 248.28
 CAS: 1417721-79-9
 
 CONCISE SUMMARY: Induces dauers in <i>P. pacificus</i>.
@@ -5396,7 +5396,7 @@ CHEMICAL NAME: 4-(((R)-2-(((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydr
 
 SYNONYMS: none
 MOLECULAR FORMULA: C25H37NO9
-MOLECULAR WEIGHT: 495.56
+MOLECULAR WEIGHT: 495.57
 CAS: TBD
 
 CONCISE SUMMARY: Found in <i>P. pacificus</i>.
@@ -5419,7 +5419,7 @@ CHEMICAL NAME: 4-(((R)-2-(((R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydr
 
 SYNONYMS: none
 MOLECULAR FORMULA: C23H33NO9
-MOLECULAR WEIGHT: 467.51
+MOLECULAR WEIGHT: 467.52
 CAS: 1417721-44-8
 
 CONCISE SUMMARY: Induces eurystomatous mouth form in <i>P. pacificus</i>.
@@ -5465,7 +5465,7 @@ CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-((5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methy
 
 SYNONYMS: none
 MOLECULAR FORMULA: C27H46N2O13
-MOLECULAR WEIGHT: 606.66
+MOLECULAR WEIGHT: 606.67
 CAS: TBD
 
 CONCISE SUMMARY: Found in <i>P. pacificus</i>.
@@ -5511,7 +5511,7 @@ CHEMICAL NAME: (3R,8R,10R)-10-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2
 
 SYNONYMS: none
 MOLECULAR FORMULA: C17H32O8
-MOLECULAR WEIGHT: 364.43
+MOLECULAR WEIGHT: 364.44
 CAS: TBD
 
 CONCISE SUMMARY: Produced by male <i>P. redivivus</i>.
@@ -5536,7 +5536,7 @@ CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-((4-hydroxyphenethyl)amino)
 
 SYNONYMS: none
 MOLECULAR FORMULA: C23H33NO9
-MOLECULAR WEIGHT: 467.51
+MOLECULAR WEIGHT: 467.52
 CAS:  1447281-61-9
 
 CONCISE SUMMARY: Detected in <i>tbh-1</i> mutants.
@@ -5562,7 +5562,7 @@ CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydrox
 
 SYNONYMS: none
 MOLECULAR FORMULA: C23H33NO10
-MOLECULAR WEIGHT: 483.21
+MOLECULAR WEIGHT: 483.51
 CAS:  1447281-59-5
 
 
