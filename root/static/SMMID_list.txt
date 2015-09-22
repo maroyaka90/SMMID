@@ -5639,30 +5639,29 @@ REFERENCES:
 (Artyukhin, Yim et al. 2013)
 http://www.ncbi.nlm.nih.gov/pubmed/23689506
 
-SYNONYMS: "C7"; TEST
-MOLECULAR FORMULA: C13H24O6
-MOLECULAR WEIGHT: 276.33
-CAS: 690991-47-0
+SMMID: test#1
+ORGANISM: <i>C. elegans</i>
 
-CONCISE SUMMARY:  Dauer inducing in <i> C. elegans</i>. Produced by female <i>P. redivivus</i>.
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)-2-hexanone
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H35NO9
+MOLECULAR WEIGHT: 481.54
+CAS: 1447281-67-5
+
+CONCISE SUMMARY: Detected in smaller and more variable amounts than osas#9 or osas#10. Not produced by <i>tdc-1</i> and <i>tbh-1</i> mutants.
 
 BIOSYNTHESIS: 
-(DAF-22)
-http://www.wormbase.org/species/c_elegans/gene/WBGene00013284#01-9d4-6
-(DHS-28) 
-http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
-(ACOX-1)
-http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
-(MAOC-1)
-http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
-
-RECEPTORS:
-(SRBC-64)
-http://www.wormbase.org/species/c_elegans/gene/WBGene00021477#01-9d4-6
-(SRBC-66)
-http://www.wormbase.org/species/c_elegans/gene/WBGene00020746#01-9d4-6
+(TBH-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006541#01-9d4-6
+(TDC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006562#01-9d4-6
 
 
 
+RECEPTORS: TBD
 
-REFERENCES:
+
+REFERENCES: 
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
