@@ -5638,3 +5638,31 @@ RECEPTORS: TBD
 REFERENCES: 
 (Artyukhin, Yim et al. 2013)
 http://www.ncbi.nlm.nih.gov/pubmed/23689506
+
+SYNONYMS: "C7"; TEST
+MOLECULAR FORMULA: C13H24O6
+MOLECULAR WEIGHT: 276.33
+CAS: 690991-47-0
+
+CONCISE SUMMARY:  Dauer inducing in <i> C. elegans</i>. Produced by female <i>P. redivivus</i>.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00013284#01-9d4-6
+(DHS-28) 
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS:
+(SRBC-64)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00021477#01-9d4-6
+(SRBC-66)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00020746#01-9d4-6
+
+
+
+
+REFERENCES:
