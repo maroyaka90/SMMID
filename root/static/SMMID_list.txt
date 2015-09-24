@@ -5638,3 +5638,32 @@ RECEPTORS: TBD
 REFERENCES: 
 (Artyukhin, Yim et al. 2013)
 http://www.ncbi.nlm.nih.gov/pubmed/23689506
+
+
+
+SMMID: test#1
+ORGANISM: <i>(‚ø‚__‚ø‚)</i>
+
+CHEMICAL NAME: test
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H35NO9
+MOLECULAR WEIGHT: 481.54
+CAS: 1447281-67-5
+
+CONCISE SUMMARY: Detected in smaller and more variable amounts than osas#9 or osas#10. Not produced by <i>tdc-1</i> and <i>tbh-1</i> mutants.
+
+BIOSYNTHESIS: 
+(TBH-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006541#01-9d4-6
+(TDC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006562#01-9d4-6
+
+
+
+RECEPTORS: TBD
+
+
+REFERENCES: 
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
