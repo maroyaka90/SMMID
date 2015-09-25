@@ -5642,7 +5642,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/23689506
 
 
 SMMID: test#1
-ORGANISM: <i>(‚ø‚__‚ø‚)</i>
+ORGANISM: <i>test</i>
 
 CHEMICAL NAME: test
 
