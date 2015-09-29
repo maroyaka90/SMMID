@@ -22,9 +22,10 @@ MORE INFO
 <form method="get" action="https://scholar.google.com/scholar?hl=en&q=ascr%238&btnG=&as_sdt=1%2C33&as_sdtp=">
 <input type="hidden" name="cref" value=“” />
   <input type="hidden" name="ie" value="utf-8" />
-  <input type="hidden" name="hl" value=“x” />
+  <input type="hidden" name="hl" value=“” />
   <input name="q" type="text" size="40" />
-  <input type="submit" name="sa" value=“Google Scholar Search" />
+<input type="hidden" name="hl" value=<b>[% smmid %]</b>  />
+  <input type="submit" name="sa" value=“Google_Scholar_Search" />
 </form>
 
 <br/>[% FOREACH link IN links %]
