@@ -32,7 +32,13 @@ RECEPTOR(S):
 [% END %]
 <br /><br />
 
-REFERENCES: <br/>[% FOREACH link IN links %]
+REFERENCES: 
+
+<form method="get" action="https://www.google.com/search">
+<input type="text" name=“q” size="31" value="">
+</form>
+
+<br/>[% FOREACH link IN links %]
  <a href="[% link.1 %]">[% link.0  %]</a><br/>
 [% END %]
 <br /><br />
