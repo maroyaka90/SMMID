@@ -18,6 +18,15 @@ BIOSYNTHESIS:
 <br /><br />
 
 RECEPTOR(S): 
+
+  <input type="hidden" name="cref" value="" />
+  <input type="hidden" name="ie" value="utf-8" />
+  <input type="hidden" name="hl" value="" />
+  <input name="q" type="text" size="40" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="https%3A%2F%2Fcse.google.com%2Fcse/tools/onthefly?form=searchbox_demo&lang="></script>
+
 [% FOREACH link IN receptor_references %]
  <a href="[% link.1 %]">[% link.0  %]</a>&nbsp;&nbsp;
 [% END %]
