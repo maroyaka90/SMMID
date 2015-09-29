@@ -68,7 +68,6 @@ sub detail :Path('/detail') {
 	return;
     }
     $c->stash->{smmid}=$s->get_smmid();
-    $c->stash->{smmid}=$s->get_smmidq();
     $c->stash->{synonyms} = $s->get_synonyms();
     $c->stash->{molecular_weight}=$s->get_molecular_weight();
     $c->stash->{organism}=$s->get_organism();
