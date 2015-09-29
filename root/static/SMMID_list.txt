@@ -12,6 +12,7 @@ RECEPTORS:
 REFERENCES:
 
 SMMID: ascr#1
+smmidq: “ascr#1”
 
 ORGANISM: <i>C. elegans, P. pacificus, P. redivivus</i>
 
