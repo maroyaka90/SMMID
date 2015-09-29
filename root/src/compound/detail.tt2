@@ -12,12 +12,15 @@ MOLECULAR FORMULA: [% molecular_formula %]<br /><br />
 CONCISE SUMMARY: [% concise_summary %]<br /><br />
 
 BIOSYNTHESIS: 
-[% FOREACH link IN biosynthesis_references %]
- <a href="[% link.1 %]">[% link.0  %]</a>&nbsp;&nbsp;
-[% END %]
-<br /><br />
 
-MORE INFO
+<form method="get" action="https://scholar.google.com/scholar?hl=en&q=ascr%238&btnG=&as_sdt=1%2C33&as_sdtp=">
+
+  <input name="q" type=“search” size=“60” value="&quot;[% smmid | html %]&quot; &quot;biosynthesis&quot;"/>
+
+  <input type="submit" name="sa" value=Search />
+</form>
+
+RECEPTORS: 
 
 <form method="get" action="https://scholar.google.com/scholar?hl=en&q=ascr%238&btnG=&as_sdt=1%2C33&as_sdtp=">
 
@@ -26,4 +29,11 @@ MORE INFO
   <input type="submit" name="sa" value=Search />
 </form>
 
+MORE INFO: 
 
+<form method="get" action="https://scholar.google.com/scholar?hl=en&q=ascr%238&btnG=&as_sdt=1%2C33&as_sdtp=">
+
+  <input name="q" type=“search” size=“60” value="&quot;[% smmid | html %]&quot;"/>
+
+  <input type="submit" name="sa" value=Search />
+</form>
