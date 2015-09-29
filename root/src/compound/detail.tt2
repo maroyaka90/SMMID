@@ -23,7 +23,7 @@ MORE INFO
 <input type="hidden" name="cref" value=“” />
   <input type="hidden" name="ie" value="utf-8" />
   <input type="hidden" name="hl" value=“” />
-  <input name="q" type="text" size=“100” value = [% smmid %] + hi />
+  <input name="q" type="text" size=“1000” value = [% smmid %] + hi />
 <input type="hidden" name="hl" value=“”  />
   <input type="submit" name="sa" value=Search />
 </form>
