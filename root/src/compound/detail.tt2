@@ -21,7 +21,7 @@ MORE INFO
 
 <form method="get" action="https://scholar.google.com/scholar?hl=en&q=ascr%238&btnG=&as_sdt=1%2C33&as_sdtp=">
 
-  <input name="q" type=“search” size=“60” value=&quot;%smmid%>
+  <input name="q" type=“search” size=“60” value=&quot%smmid%;>
   <input type="submit" name="sa" value=Search />
 </form>
 
