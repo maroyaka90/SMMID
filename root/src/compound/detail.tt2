@@ -17,29 +17,14 @@ BIOSYNTHESIS:
 [% END %]
 <br /><br />
 
-RECEPTOR(S): 
+MORE INFO
 
-<form method="get" action="https://www.google.com/search/">
+<form method="get" action="https://scholar.google.com/scholar?hl=en&q=ascr%238&btnG=&as_sdt=1%2C33&as_sdtp=">
 <input type="hidden" name="cref" value="" />
   <input type="hidden" name="ie" value="utf-8" />
   <input type="hidden" name="hl" value="" />
   <input name="q" type="text" size="40" />
-  <input type="submit" name="sa" value="Search" />
-</form>
-
-[% FOREACH link IN receptor_references %]
- <a href="[% link.1 %]">[% link.0  %]</a>&nbsp;&nbsp;
-[% END %]
-<br /><br />
-
-REFERENCES: 
-
-<form method="get" action="https://www.google.com/search">
-<input type="hidden" name="cref" value="" />
-  <input type="hidden" name="ie" value="utf-8" />
-  <input type="hidden" name="hl" value="" />
-  <input name="q" type="text" size="40" />
-  <input type="submit" name="sa" value="Search" />
+  <input type="submit" name="sa" value=“Google Scholar Search" />
 </form>
 
 <br/>[% FOREACH link IN links %]
