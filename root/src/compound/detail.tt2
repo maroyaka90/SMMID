@@ -19,7 +19,7 @@ BIOSYNTHESIS:
 
 RECEPTOR(S): 
 
-<form method="get" action="https://scholar.google.com">
+<form method="get" action="https://scholar.google.com/search”>
 <input type="hidden" name="cref" value="" />
   <input type="hidden" name="ie" value="utf-8" />
   <input type="hidden" name="hl" value="" />
@@ -34,7 +34,7 @@ RECEPTOR(S):
 
 REFERENCES: 
 
-<form method="get" action="https://scholar.google.com">
+<form method="get" action="https://scholar.google.com/search”>
 <input type="hidden" name="cref" value="" />
   <input type="hidden" name="ie" value="utf-8" />
   <input type="hidden" name="hl" value="" />
