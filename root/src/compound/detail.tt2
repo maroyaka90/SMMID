@@ -31,9 +31,9 @@ RECEPTORS:
 
 Pub Med:
 
-<form method="get" action="http://www.ncbi.nlm.nih.gov/pubmed/?term=ascr%238">
+<form method="get" action="http://www.ncbi.nlm.nih.gov/pubmed/">
 
-  <input name="q" type=“search” size=“60” value="&quot;[% smmid | html %]&quot; &quot;nematode&quot;"/>
+  <input name=“g” type=“search” size=“60” value="&quot;[% smmid | html %]&quot; &quot;nematode&quot;"/>
 
   <input type="submit" name="sa" value=Search />
 </form>
