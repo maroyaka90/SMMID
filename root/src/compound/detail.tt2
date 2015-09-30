@@ -14,7 +14,7 @@ Google Scholar:
 
 <form method="get" action="https://scholar.google.com/scholar?hl=en&q=ascr%238&btnG=&as_sdt=1%2C33&as_sdtp=">
 
-  <input type="submit" name="q" value="&quot;[% smmid | html %]&quot; &quot;nematode&quot;" />
+  <input type="submit" name="q" value="&quot;[% smmid | html %]&quot;  &quot;nematode&quot;" />
 
 </form>
 
