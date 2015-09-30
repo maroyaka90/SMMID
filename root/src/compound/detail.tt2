@@ -35,5 +35,5 @@ Pub Med:
 
   <input name=“q” type=“text” size=“60” value=""/>
 
-  <input type="submit" name="" value="" />
+  <input type="submit" name="sa" value=Search />
 </form>
