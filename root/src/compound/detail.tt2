@@ -32,6 +32,6 @@ RECEPTORS:
 Pub Med:
 
 <form method="get" action="http://www.ncbi.nlm.nih.gov/pubmed">
-<input type="submit" name=“term” value="name" />
+<input type="submit" name="term" value=Search />
 
 </form>
