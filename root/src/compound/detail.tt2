@@ -33,7 +33,6 @@ Pub Med:
 
 <form method="get" action="http://www.ncbi.nlm.nih.gov/pubmed“>
 
-  <input name=“q” type=“text” size=“60” value=""/>
-
   <input type="submit" name="sa" value=Search />
+
 </form>
