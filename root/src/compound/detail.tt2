@@ -29,9 +29,9 @@ RECEPTORS:
   <input type="submit" name="sa" value=Search />
 </form>
 
-MORE INFO: 
+Pub Med:
 
-<form method="get" action="https://scholar.google.com/scholar?hl=en&q=ascr%238&btnG=&as_sdt=1%2C33&as_sdtp=">
+<form method="get" action="http://www.ncbi.nlm.nih.gov/pubmed/">
 
   <input name="q" type=“search” size=“60” value="&quot;[% smmid | html %]&quot; &quot;nematode&quot;"/>
 
