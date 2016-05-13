@@ -5387,6 +5387,16 @@ REFERENCES:
 (Bose, Ogawa et al. 2012) 
 http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
+SMMID: pasa#9
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 2-(4-(((R)-2-(((R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanamido)benzoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C30H38N2O10
+MOLECULAR WEIGHT: 586.64
+CAS: TBD
 
 SMMID: pasc#1
 
@@ -5456,6 +5466,16 @@ REFERENCES:
 (Bose, Ogawa et al. 2012) 
 http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
+SMMID: pasy#9
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: (R)-2-(2,5-dioxopyrrolidin-1-yl)-1-phenylethyl (R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H31NO8
+MOLECULAR WEIGHT: 449.50
+CAS: TBD
 
 SMMID: ubas#1
 
