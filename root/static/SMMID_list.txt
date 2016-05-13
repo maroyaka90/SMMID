@@ -5444,7 +5444,7 @@ REFERENCES:
 http://www.ncbi.nlm.nih.gov/pubmed/23161728
 
 
-SMMID: prasc#12
+SMMID: pasc#12
 
 ORGANISM: <i>P. pacificus</i>
 
