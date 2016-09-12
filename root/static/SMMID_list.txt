@@ -5668,6 +5668,46 @@ REFERENCES:
 (Artyukhin, Yim et al. 2013)
 http://www.ncbi.nlm.nih.gov/pubmed/23689506
 
+SMMID: sufac#1
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 13-methyl-10-(sulfooxy)tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H30O6S
+MOLECULAR WEIGHT: 328.45900
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: sufal#1
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 14-hydroxy-2-methyltetradecan-5-yl hydrogen sulfate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H32O5S
+MOLECULAR WEIGHT: 324.47600
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
 SMMID: sufal#2
 
 ORGANISM: <i>P. pacificus</i>
@@ -5677,6 +5717,26 @@ CHEMICAL NAME: 14-hydroxy-2-methyltetradecan-6-yl hydrogen sulfate
 SYNONYMS: none
 MOLECULAR FORMULA: C15H32O5S
 MOLECULAR WEIGHT: 324.47600
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: sufac#2
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 13-methyl-9-(sulfooxy)tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H30O6S
+MOLECULAR WEIGHT: 338.45900
 CAS: TBD
 
 CONCISE SUMMARY: Found in <i>P. pacificus</i>.
