@@ -5748,4 +5748,25 @@ RECEPTORS: TBD
 
 REFERENCES:
 
+SMMID: npar#3
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: O-((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)-N-((8-hydroxy-9H-purin-6-yl)carbamoyl)-L-threonine
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H30N6O10
+MOLECULAR WEIGHT: 526.50300
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+
 
