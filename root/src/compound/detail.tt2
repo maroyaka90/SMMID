@@ -9,6 +9,7 @@ SYNONYMS: [% synonyms %]<br /><br />
 CAS: [% cas %]<br /><br />
 MOLECULAR WEIGHT: [% molecular_weight %]<br /><br />
 MOLECULAR FORMULA: [% molecular_formula %]<br /><br />
+EXACT MASS: [% exact_mass %]<br /><br/>
 
 Google Scholar: 
 
