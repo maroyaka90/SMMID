@@ -116,6 +116,7 @@ CHEMICAL NAME: (-)-5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2’-yl
 SYNONYMS: "C6"; daumone-2
 MOLECULAR FORMULA: C12H22O5
 MOLECULAR WEIGHT: 246.30
+EXACT MASS: 246.14672
 CAS: 946524-24-9
 
 CONCISE SUMMARY: Dauer inducing, male attractant, synergizes with ascr#3, ascr#4, and ascr#8 in male attraction.
@@ -5430,6 +5431,7 @@ CHEMICAL NAME: 4-(((R)-2-(((R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydr
 SYNONYMS: none
 MOLECULAR FORMULA: C23H33NO9
 MOLECULAR WEIGHT: 467.52
+EXACT MASS: 467.21553
 CAS: 1417721-44-8
 
 CONCISE SUMMARY: Induces eurystomatous mouth form in <i>P. pacificus</i>.
