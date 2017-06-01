@@ -19,7 +19,7 @@ CHEMICAL NAME: (-)-6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-ylox
 
 SYNONYMS: "C7"; daumone-1
 MOLECULAR FORMULA: C13H24O6
-MOLECULAR WEIGHT: 276.3
+MOLECULAR WEIGHT: 276.33
 CAS: 690991-47-0
 
 CONCISE SUMMARY:  Dauer inducing in <i> C. elegans</i>. Produced by female <i>P. redivivus</i>.
