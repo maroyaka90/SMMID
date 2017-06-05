@@ -3299,6 +3299,27 @@ http://pubs.acs.org/doi/abs/10.1021/ja210202y
 (Srinivasan, von Reuss et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22253572
 
+SMMID: icas#2
+
+ORGANISM: <i>C. briggsae</i>
+
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-2-methyl-6-(((R)-5-oxohexan-2-yl)oxy)tetrahydro-2H-pyran-3-yl 1H-indole-3-carboxylate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H27NO6
+MOLECULAR WEIGHT: 389.44800
+EXACT MASS: 389.18384
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>C. briggsae</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
 SMMID: icas#3
 
 ORGANISM: <i>C. elegans</i>
@@ -3333,6 +3354,26 @@ http://www.ncbi.nlm.nih.gov/pubmed/22253572
 http://www.ncbi.nlm.nih.gov/pubmed/22665789
 (Izrayelit et al. 2012)
 http://www.ncbi.nlm.nih.gov/pubmed/22662967
+
+SMMID: icas#6.2
+
+ORGANISM: <i>C. briggsae</i>
+
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-6-(((2R,5S)-5-hydroxyhexan-2-yl)oxy)-2-methyltetrahydro-2H-pyran-3-yl 1H-indole-3-carboxylate
+SYNONYMS: none
+MOLECULAR FORMULA: C21H29NO6
+MOLECULAR WEIGHT: 391.46400
+EXACT MASS: 391.19949
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>C. briggsae</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
 
 SMMID: icas#7
 
