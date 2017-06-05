@@ -26,3 +26,5 @@ Pub Med:
 <input type="submit" name="term" value=[% smmid | html %] />
 
 </form>
+
+Chemcalc: <a href="http://www.chemcalc.org/analyse?mf=[% molecular_formula %]" target="_blank">[% molecular_formula %]</a>
