@@ -82,6 +82,7 @@ sub detail :Path('/detail') {
     #print STDERR "FORMATTED FORMULA = $formatted_formula\n";
     $c->stash->{molecular_formula}=$formatted_formula;
     $c->stash->{structure_file}= $c->config->{"smid_structure_dir"}."/".$s->get_structure_file().".png";
+    $c->stash->{molecular_formula2}=$s->get_molecular_formula();
 
     
     @{$c->stash->{links}} = $s->get_links("REFERENCES");
