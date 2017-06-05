@@ -1,6 +1,6 @@
 
 <table>
-<h2>SMID list last revised 11-20-2016</h2>
+<h2>SMID list last revised June 5, 2017</h2>
 
 
 [% FOREACH s = all_smmids %]
