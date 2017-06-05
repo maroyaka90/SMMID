@@ -581,10 +581,10 @@ CONCISE SUMMARY:  Dauer inducing, strongly male attracting, synergizes with ascr
 BIOSYNTHESIS: 
 (DAF-22)
 http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
-(DHS-28)
+(DHS-28)g
 http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
 (ACOX-1)
-http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+http://www.wormbase.org/species/c_eleans/gene/WBGene00008564#01-9d4-6
 (MAOC-1)
 http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
 
@@ -3313,12 +3313,53 @@ CAS: TBD
 
 CONCISE SUMMARY: Found in <i>C. briggsae</i>.
 
-BIOSYNTHESIS:TBD
+SMMID: iglu#1
 
-RECEPTORS: TBD
+ORGANISM: <i>C. elegans</i>
 
+CHEMICAL NAME: (2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(1H-indol-1-yl)tetrahydro-2H-pyran-3,4,5-triol
 
-REFERENCES:
+SYNONYMS: none
+MOLECULAR FORMULA: C14H17NO5
+MOLECULAR WEIGHT: 279.29200
+EXACT MASS: 279.11067
+CAS: TBD
+
+SMMID: iglu#2
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (2R,3R,4S,5R,6R)-3,5-dihydroxy-2-(hydroxymethyl)-6-(1H-indol-1-yl)tetrahydro-2H-pyran-4-yl dihydrogen phosphate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C14H18NO8P
+MOLECULAR WEIGHT: 359.27076
+EXACT MASS: 359.07700
+CAS: TBD
+
+SMMID: angl#1
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl 2-aminobenzoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C13H17NO7
+MOLECULAR WEIGHT: 299.27900
+EXACT MASS: 299.10050
+CAS: TBD
+
+SMMID: angl#2
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (2S,3R,4S,5R,6R)-3,5-dihydroxy-6-(hydroxymethyl)-4-(phosphonooxy)tetrahydro-2H-pyran-2-yl 2-aminobenzoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C13H18NO10P
+MOLECULAR WEIGHT: 379.25776
+EXACT MASS: 379.06683
+CAS: TBD
 
 SMMID: icas#3
 
