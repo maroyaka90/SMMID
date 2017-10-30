@@ -5832,6 +5832,46 @@ RECEPTORS: TBD
 
 REFERENCES:
 
+SMMID: sufal#3
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 13-hydroxy-2-methyltridecan-5-yl hydrogen sulfate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H32O5S
+MOLECULAR WEIGHT: 324.47600
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: sufal#4
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 13-hydroxy-2-methyltridecan-6-yl hydrogen sulfate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H32O5S
+MOLECULAR WEIGHT: 324.47600
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
 SMMID: sufac#2
 
 ORGANISM: <i>P. pacificus</i>
