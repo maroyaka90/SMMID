@@ -8,6 +8,7 @@ in metabolomic and genomic applications.     <br /><br />
 
 
 <a href="/browse"><b>Browse SMIDs</b></a><br /><br />
+<a href="/smidclasses"><b>SMID Classes</b></a><br /><br />
 <b>Search SMIDs <br/></b>(example: ascr#3)<br />
 <form action="/search">
 <input name="term" />
