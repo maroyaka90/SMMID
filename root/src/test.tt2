@@ -613,7 +613,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
   </v:shape><![endif]--><![if !vml]><img width=220 height=83
   
 
-  src="C:/Users/Maro/Documents/GitHub/SMMID/root/static/images/smid_db-classes-fs_files/image006.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image006.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/bhas%2310.png" v:shapes="Picture_x0020_4"><![endif]><b
   style='mso-bidi-font-weight:normal'>bhas#10<o:p></o:p></b></p>
   </td>
@@ -650,7 +650,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image007.png" o:title="bhos%2310"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=262 height=99
-  src="smid_db%20classes-fs_files/image008.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image008.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/bhos%2310.png" v:shapes="Picture_x0020_5"><![endif]><b
   style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
   </td>
@@ -686,7 +686,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image009.png" o:title="dafa%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=218 height=105
-  src="smid_db%20classes-fs_files/image010.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image010.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/dafa%231.png" v:shapes="Picture_x0020_6"><![endif]><b
   style='mso-bidi-font-weight:normal'>dafa#1<o:p></o:p></b></p>
   </td>
@@ -722,7 +722,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image011.png" o:title="dasc%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=375 height=134
-  src="smid_db%20classes-fs_files/image012.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image012.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/dasc%231.png" v:shapes="Picture_x0020_7"><![endif]><b
   style='mso-bidi-font-weight:normal'>dasc#1<o:p></o:p></b></p>
   </td>
@@ -759,7 +759,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image013.png" o:title="dhas%2318"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=311 height=110
-  src="smid_db%20classes-fs_files/image014.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image014.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/dhas%2318.png" v:shapes="Picture_x0020_8"><![endif]><b
   style='mso-bidi-font-weight:normal'>dhas#18<o:p></o:p></b></p>
   </td>
@@ -795,7 +795,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image015.png" o:title="glas%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=325 height=109
-  src="smid_db%20classes-fs_files/image016.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image016.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/glas%231.png" v:shapes="Picture_x0020_9"><![endif]><b
   style='mso-bidi-font-weight:normal'>glas#1<o:p></o:p></b></p>
   </td>
@@ -832,7 +832,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image017.png" o:title="hbas%233"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=285 height=143
-  src="smid_db%20classes-fs_files/image018.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image018.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/hbas%233.png" v:shapes="Picture_x0020_10"><![endif]><b
   style='mso-bidi-font-weight:normal'>hbas#3<o:p></o:p></b></p>
   </td>
@@ -869,7 +869,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image019.png" o:title="ibha%2310"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=302 height=122
-  src="smid_db%20classes-fs_files/image020.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image020.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/ibha%2310.png" v:shapes="Picture_x0020_11"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>ibha#10<o:p></o:p></b></span></p>
   </td>
@@ -908,7 +908,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image021.png" o:title="ibho%2310"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=320 height=129
-  src="smid_db%20classes-fs_files/image022.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image022.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/ibho%2310.png" v:shapes="Picture_x0020_12"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
   </td>
@@ -945,7 +945,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image023.png" o:title="icas%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=273 height=122
-  src="smid_db%20classes-fs_files/image024.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image024.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/icas%231.png" v:shapes="Picture_x0020_13"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>icas#1<o:p></o:p></b></span></p>
   </td>
@@ -984,7 +984,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image025.png" o:title="icos%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=290 height=129
-  src="smid_db%20classes-fs_files/image026.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image026.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/icos%231.png" v:shapes="Picture_x0020_14"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
   </td>
@@ -1020,7 +1020,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image027.png" o:title="iglu%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=151 height=77
-  src="smid_db%20classes-fs_files/image028.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image028.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/iglu%231.png" v:shapes="Picture_x0020_15"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>iglu#1<o:p></o:p></b></span></p>
   </td>
@@ -1057,7 +1057,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image029.png" o:title="mbas%233"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=272 height=116
-  src="smid_db%20classes-fs_files/image030.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image030.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/mbas%233.png" v:shapes="Picture_x0020_16"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>mbas#3<o:p></o:p></b></span></p>
   </td>
@@ -1093,7 +1093,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image031.png" o:title="npar%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=236 height=163
-  src="smid_db%20classes-fs_files/image032.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image032.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/npar%231.png" v:shapes="Picture_x0020_17"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>npar#1<o:p></o:p></b></span></p>
   </td>
@@ -1130,7 +1130,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image033.png" o:title="osas%239"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=238 height=193
-  src="smid_db%20classes-fs_files/image034.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image034.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/osas%239.png" v:shapes="Picture_x0020_18"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>osas#9<o:p></o:p></b></span></p>
   </td>
@@ -1167,7 +1167,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image035.png" o:title="oscr%239"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=201 height=98
-  src="smid_db%20classes-fs_files/image036.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image036.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/oscr%239.png" v:shapes="Picture_x0020_19"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>oscr#9<br>
   </b>Note exception: <b style='mso-bidi-font-weight:normal'>ascr#5</b><o:p></o:p></span></p>
@@ -1204,7 +1204,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image037.png" o:title="part%239"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=197 height=81
-  src="smid_db%20classes-fs_files/image038.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image038.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/part%239.png" v:shapes="Picture_x0020_20"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>part#9<o:p></o:p></b></span></p>
   </td>
@@ -1241,7 +1241,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image039.png" o:title="pasa%239"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=268 height=164
-  src="smid_db%20classes-fs_files/image040.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image040.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/pasa%239.png" v:shapes="Picture_x0020_21"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>pasa#9<o:p></o:p></b></span></p>
   </td>
@@ -1277,7 +1277,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image041.png" o:title="pasc%239"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=276 height=97
-  src="smid_db%20classes-fs_files/image042.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image042.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/pasc%239.png" v:shapes="Picture_x0020_22"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>pasc#9<o:p></o:p></b></span></p>
   </td>
@@ -1315,7 +1315,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image043.png" o:title="pasy%239"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=241 height=120
-  src="smid_db%20classes-fs_files/image044.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image044.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/pasy%239.png" v:shapes="Picture_x0020_23"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>pasy#9<o:p></o:p></b></span></p>
   </td>
@@ -1353,7 +1353,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image045.png" o:title="sufac%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=193 height=52
-  src="smid_db%20classes-fs_files/image046.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image046.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/sufac%231.png" v:shapes="Picture_x0020_24"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>sufac#1<o:p></o:p></b></span></p>
   </td>
@@ -1392,7 +1392,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image047.png" o:title="sufal%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=194 height=47
-  src="smid_db%20classes-fs_files/image048.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image048.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/sufal%231.png" v:shapes="Picture_x0020_25"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
   </td>
@@ -1429,7 +1429,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image049.png" o:title="tsas%239"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=211 height=181
-  src="smid_db%20classes-fs_files/image050.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image050.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/tsas%239.png" v:shapes="Picture_x0020_26"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>tsas#9<o:p></o:p></b></span></p>
   </td>
@@ -1466,7 +1466,7 @@ families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
    <v:imagedata src="smid_db%20classes-fs_files/image051.png" o:title="ubas%231"/>
    <w:wrap type="square"/>
   </v:shape><![endif]--><![if !vml]><img width=263 height=152
-  src="smid_db%20classes-fs_files/image052.png" align=left hspace=12
+  src="static/images/smid_db-classes-fs_files/image052.png" align=left hspace=12
   alt="http://www.smid-db.org/static/structures/ubas%231.png" v:shapes="Picture_x0020_27"><![endif]><span
   style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>ubas#1<o:p></o:p></b></span></p>
   </td>
