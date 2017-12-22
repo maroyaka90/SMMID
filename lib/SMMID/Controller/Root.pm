@@ -64,6 +64,10 @@ sub smidclasses :Path('/smidclasses') :Args(0) {
     my ($self, $c) = @_;
 }
 
+sub smidclasses :Path('/smidclasses-2') :Args(0) {
+    my ($self, $c) = @_;
+}
+
 =head2 end
 
 Attempt to render a view, if needed.

@@ -1,0 +1,1481 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link rel=File-List href="smid_db%20classes-fs_files/filelist.xml">
+<link rel=Edit-Time-Data href="smid_db%20classes-fs_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Alex Artyukhin</o:Author>
+  <o:LastAuthor>Frank Schroeder</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>71</o:TotalTime>
+  <o:LastPrinted>2017-12-21T17:37:00Z</o:LastPrinted>
+  <o:Created>2017-12-22T02:55:00Z</o:Created>
+  <o:LastSaved>2017-12-22T02:55:00Z</o:LastSaved>
+  <o:Pages>4</o:Pages>
+  <o:Words>196</o:Words>
+  <o:Characters>1119</o:Characters>
+  <o:Company>Boyce Thompson / Cornell</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1313</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="smid_db%20classes-fs_files/themedata.thmx">
+<link rel=colorSchemeMapping
+href="smid_db%20classes-fs_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:.6in .8in .6in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:39;
+	mso-style-unhide:no;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1052"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:107%'>SMID Classes.</span></b><span
+style='font-size:12.0pt;line-height:107%'> Example structures for the different
+families of SMID identifiers in alphabetic order. <o:p></o:p></span></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:18.0pt;mso-line-height-rule:exactly'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;color:#002060'>SMID-DB
+  class</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt'><o:p></o:p></span></b></p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:18.0pt;mso-line-height-rule:exactly'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;color:#002060'>Representative
+  structure</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>angl<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>an</u></i>thranilic
+  acid <i style='mso-bidi-font-style:normal'><u>gl</u></i>ucoside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+   coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+   filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_s1051" type="#_x0000_t75"
+   alt="http://www.smid-db.org/static/structures/angl%231.png" style='position:absolute;
+   margin-left:.1pt;margin-top:0;width:120.95pt;height:57.6pt;z-index:251658240;
+   visibility:visible;mso-wrap-style:square;mso-width-percent:0;
+   mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;
+   mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;
+   mso-position-horizontal:absolute;mso-position-horizontal-relative:text;
+   mso-position-vertical:absolute;mso-position-vertical-relative:page;
+   mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;
+   mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image001.png" o:title="angl%231"/>
+   <w:wrap type="square" anchory="page"/>
+  </v:shape><![endif]--><![if !vml]><img width=161 height=77
+  src="smid_db%20classes-fs_files/image002.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/angl%231.png" v:shapes="Picture_x0020_1"><![endif]><span
+  style='mso-spacerun:yes'>         </span><b style='mso-bidi-font-weight:normal'>angl#1<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>ascr<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>asc</u></i>a<i
+  style='mso-bidi-font-style:normal'><u>r</u></i>oside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_3"
+   o:spid="_x0000_s1050" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/ascr%231.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:160.55pt;
+   height:67.7pt;z-index:251659264;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image003.png" o:title="ascr%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=214 height=90
+  src="smid_db%20classes-fs_files/image004.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/ascr%231.png" v:shapes="Picture_x0020_3"><![endif]><b
+  style='mso-bidi-font-weight:normal'>ascr#1</b><br>
+  Note exceptions <b style='mso-bidi-font-weight:normal'>ascr#5</b>, <b
+  style='mso-bidi-font-weight:normal'>ascr#8</b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>bhas<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>b</u></i>eta-<i
+  style='mso-bidi-font-style:normal'><u>h</u></i>ydroxy <i style='mso-bidi-font-style:
+  normal'><u>as</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_4"
+   o:spid="_x0000_s1049" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/bhas%2310.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:164.9pt;
+   height:61.9pt;z-index:251660288;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image005.png" o:title="bhas%2310"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=220 height=83
+  src="smid_db%20classes-fs_files/image006.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/bhas%2310.png" v:shapes="Picture_x0020_4"><![endif]><b
+  style='mso-bidi-font-weight:normal'>bhas#10<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>bhos<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>b</u></i>eta-<i
+  style='mso-bidi-font-style:normal'><u>h</u></i>ydroxy <i style='mso-bidi-font-style:
+  normal'><u>o</u></i>mega-a<i style='mso-bidi-font-style:normal'><u>s</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'>bhos#10</b><!--[if gte vml 1]><v:shape
+   id="Picture_x0020_5" o:spid="_x0000_s1048" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/bhos%2310.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:196.55pt;
+   height:74.15pt;z-index:251661312;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image007.png" o:title="bhos%2310"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=262 height=99
+  src="smid_db%20classes-fs_files/image008.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/bhos%2310.png" v:shapes="Picture_x0020_5"><![endif]><b
+  style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>dafa<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>daf</u></i>achronic
+  <i style='mso-bidi-font-style:normal'><u>a</u></i>cid</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_6"
+   o:spid="_x0000_s1047" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/dafa%231.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:163.45pt;
+   height:78.5pt;z-index:251662336;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image009.png" o:title="dafa%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=218 height=105
+  src="smid_db%20classes-fs_files/image010.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/dafa%231.png" v:shapes="Picture_x0020_6"><![endif]><b
+  style='mso-bidi-font-weight:normal'>dafa#1<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>dasc<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>d</u></i>imeric
+  <i style='mso-bidi-font-style:normal'><u>asc</u></i>aroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_7"
+   o:spid="_x0000_s1046" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/dasc%231.png"
+   style='position:absolute;margin-left:-4.9pt;margin-top:0;width:281pt;
+   height:100.3pt;z-index:251663360;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image011.png" o:title="dasc%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=375 height=134
+  src="smid_db%20classes-fs_files/image012.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/dasc%231.png" v:shapes="Picture_x0020_7"><![endif]><b
+  style='mso-bidi-font-weight:normal'>dasc#1<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>dhas<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>d</u></i>i<i
+  style='mso-bidi-font-style:normal'><u>h</u></i>ydroxy <i style='mso-bidi-font-style:
+  normal'><u>as</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_8"
+   o:spid="_x0000_s1045" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/dhas%2318.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:233.5pt;
+   height:82.35pt;z-index:251664384;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image013.png" o:title="dhas%2318"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=311 height=110
+  src="smid_db%20classes-fs_files/image014.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/dhas%2318.png" v:shapes="Picture_x0020_8"><![endif]><b
+  style='mso-bidi-font-weight:normal'>dhas#18<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>glas<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>gl</u></i>ycosylated
+  <i style='mso-bidi-font-style:normal'><u>as</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_9"
+   o:spid="_x0000_s1044" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/glas%231.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:244.1pt;
+   height:82.1pt;z-index:251665408;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image015.png" o:title="glas%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=325 height=109
+  src="smid_db%20classes-fs_files/image016.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/glas%231.png" v:shapes="Picture_x0020_9"><![endif]><b
+  style='mso-bidi-font-weight:normal'>glas#1<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>hbas<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>h</u></i>ydro<i
+  style='mso-bidi-font-style:normal'><u>b</u></i>enzoyl <i style='mso-bidi-font-style:
+  normal'><u>as</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_10"
+   o:spid="_x0000_s1043" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/hbas%233.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:.2pt;width:213.85pt;
+   height:107.3pt;z-index:251666432;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image017.png" o:title="hbas%233"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=285 height=143
+  src="smid_db%20classes-fs_files/image018.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/hbas%233.png" v:shapes="Picture_x0020_10"><![endif]><b
+  style='mso-bidi-font-weight:normal'>hbas#3<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>ibha<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>i</u></i>ndol
+  <i style='mso-bidi-font-style:normal'><u>b</u></i>eta-<i style='mso-bidi-font-style:
+  normal'><u>h</u></i>ydroxy <i style='mso-bidi-font-style:normal'><u>a</u></i>scaroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_11"
+   o:spid="_x0000_s1042" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/ibha%2310.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:.05pt;width:226.8pt;
+   height:91.45pt;z-index:251667456;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image019.png" o:title="ibha%2310"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=302 height=122
+  src="smid_db%20classes-fs_files/image020.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/ibha%2310.png" v:shapes="Picture_x0020_11"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>ibha#10<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>ibho<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>i</u></i>ndol
+  <i style='mso-bidi-font-style:normal'><u>b</u></i>eta-<i style='mso-bidi-font-style:
+  normal'><u>h</u></i>ydroxy <i style='mso-bidi-font-style:normal'><u>o</u></i>mega-ascaroside<b
+  style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='mso-no-proof:yes'>ibho#10</span></b><!--[if gte vml 1]><v:shape id="Picture_x0020_12"
+   o:spid="_x0000_s1041" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/ibho%2310.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:239.75pt;
+   height:96.5pt;z-index:251668480;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image021.png" o:title="ibho%2310"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=320 height=129
+  src="smid_db%20classes-fs_files/image022.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/ibho%2310.png" v:shapes="Picture_x0020_12"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>icas<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>i</u></i>ndol<i
+  style='mso-bidi-font-style:normal'><u>c</u></i>arboxylic acid <i
+  style='mso-bidi-font-style:normal'><u>as</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_13"
+   o:spid="_x0000_s1040" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/icas%231.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:204.5pt;
+   height:91.45pt;z-index:251669504;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image023.png" o:title="icas%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=273 height=122
+  src="smid_db%20classes-fs_files/image024.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/icas%231.png" v:shapes="Picture_x0020_13"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>icas#1<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>icos<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>i</u></i>ndol<i
+  style='mso-bidi-font-style:normal'><u>c</u></i>arboxylic acid <i
+  style='mso-bidi-font-style:normal'><u>o</u></i>mega-a<i style='mso-bidi-font-style:
+  normal'><u>s</u></i>caroside<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='mso-no-proof:yes'>icos#1</span></b><!--[if gte vml 1]><v:shape id="Picture_x0020_14"
+   o:spid="_x0000_s1039" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/icos%231.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:217.45pt;
+   height:96.5pt;z-index:251670528;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image025.png" o:title="icos%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=290 height=129
+  src="smid_db%20classes-fs_files/image026.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/icos%231.png" v:shapes="Picture_x0020_14"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>iglu<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>i</u></i>ndol
+  <i style='mso-bidi-font-style:normal'><u>glu</u></i>coside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_15"
+   o:spid="_x0000_s1038" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/iglu%231.png"
+   style='position:absolute;margin-left:3.1pt;margin-top:0;width:113.05pt;
+   height:57.6pt;z-index:251671552;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image027.png" o:title="iglu%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=151 height=77
+  src="smid_db%20classes-fs_files/image028.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/iglu%231.png" v:shapes="Picture_x0020_15"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>iglu#1<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>mbas<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>m</u></i>ethyl<i
+  style='mso-bidi-font-style:normal'><u>b</u></i>utenoyl <i style='mso-bidi-font-style:
+  normal'><u>as</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_16"
+   o:spid="_x0000_s1037" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/mbas%233.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:203.75pt;
+   height:87.1pt;z-index:251672576;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image029.png" o:title="mbas%233"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=272 height=116
+  src="smid_db%20classes-fs_files/image030.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/mbas%233.png" v:shapes="Picture_x0020_16"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>mbas#3<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>npar<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>n</u></i>ucleoside
+  <i style='mso-bidi-font-style:normal'><u>par</u></i>atoside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_17"
+   o:spid="_x0000_s1036" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/npar%231.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:177.1pt;
+   height:122.4pt;z-index:251673600;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image031.png" o:title="npar%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=236 height=163
+  src="smid_db%20classes-fs_files/image032.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/npar%231.png" v:shapes="Picture_x0020_17"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>npar#1<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>osas<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>o</u></i>ctopamine
+  <i style='mso-bidi-font-style:normal'><u>s</u></i>uccinate <i
+  style='mso-bidi-font-style:normal'><u>as</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_18"
+   o:spid="_x0000_s1035" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/osas%239.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:178.55pt;
+   height:144.7pt;z-index:251674624;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image033.png" o:title="osas%239"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=238 height=193
+  src="smid_db%20classes-fs_files/image034.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/osas%239.png" v:shapes="Picture_x0020_18"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>osas#9<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>oscr<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>o</u></i>mega-a<i
+  style='mso-bidi-font-style:normal'><u>sc</u></i>a<i style='mso-bidi-font-style:
+  normal'><u>r</u></i>oside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_19"
+   o:spid="_x0000_s1034" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/oscr%239.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:151pt;height:73.55pt;
+   z-index:251675648;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image035.png" o:title="oscr%239"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=201 height=98
+  src="smid_db%20classes-fs_files/image036.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/oscr%239.png" v:shapes="Picture_x0020_19"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>oscr#9<br>
+  </b>Note exception: <b style='mso-bidi-font-weight:normal'>ascr#5</b><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>part<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>par</u></i>a<i
+  style='mso-bidi-font-style:normal'><u>t</u></i>oside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_20"
+   o:spid="_x0000_s1033" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/part%239.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:148pt;height:60.7pt;
+   z-index:251676672;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image037.png" o:title="part%239"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=197 height=81
+  src="smid_db%20classes-fs_files/image038.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/part%239.png" v:shapes="Picture_x0020_20"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>part#9<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>pasa<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>p</u></i>henylethanolamine
+  <i style='mso-bidi-font-style:normal'><u>as</u></i>caroside succinate <br>
+  <i style='mso-bidi-font-style:normal'><u>a</u></i>nthranilic acid</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_21"
+   o:spid="_x0000_s1032" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/pasa%239.png"
+   style='position:absolute;margin-left:.1pt;margin-top:.25pt;width:200.9pt;
+   height:123.1pt;z-index:251677696;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image039.png" o:title="pasa%239"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=268 height=164
+  src="smid_db%20classes-fs_files/image040.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/pasa%239.png" v:shapes="Picture_x0020_21"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>pasa#9<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>pasc<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>p</u></i>henylethanolamine
+  <i style='mso-bidi-font-style:normal'><u>asc</u></i>aroside succinate</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_22"
+   o:spid="_x0000_s1031" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/pasc%239.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:207.35pt;
+   height:72.7pt;z-index:251678720;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image041.png" o:title="pasc%239"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=276 height=97
+  src="smid_db%20classes-fs_files/image042.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/pasc%239.png" v:shapes="Picture_x0020_22"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>pasc#9<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>pasy<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>p</u></i>henylethanolamine
+  <i style='mso-bidi-font-style:normal'><u>as</u></i>caroside succinate c<i
+  style='mso-bidi-font-style:normal'><u>y</u></i>clized<b style='mso-bidi-font-weight:
+  normal'><o:p></o:p></b></p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_23"
+   o:spid="_x0000_s1030" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/pasy%239.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:180.7pt;
+   height:90pt;z-index:251679744;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image043.png" o:title="pasy%239"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=241 height=120
+  src="smid_db%20classes-fs_files/image044.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/pasy%239.png" v:shapes="Picture_x0020_23"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>pasy#9<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>sufac<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>su</u></i>l<i
+  style='mso-bidi-font-style:normal'><u>f</u></i>ated fatty <i
+  style='mso-bidi-font-style:normal'><u>ac</u></i>id<b style='mso-bidi-font-weight:
+  normal'><o:p></o:p></b></p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_24"
+   o:spid="_x0000_s1029" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/sufac%231.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:144.7pt;
+   height:38.9pt;z-index:251680768;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image045.png" o:title="sufac%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=193 height=52
+  src="smid_db%20classes-fs_files/image046.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/sufac%231.png" v:shapes="Picture_x0020_24"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>sufac#1<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>sufal<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>su</u></i>l<i
+  style='mso-bidi-font-style:normal'><u>f</u></i>ated fatty <i
+  style='mso-bidi-font-style:normal'><u>al</u></i>cohol<b style='mso-bidi-font-weight:
+  normal'><o:p></o:p></b></p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='mso-no-proof:yes'>sufal#1</span></b><!--[if gte vml 1]><v:shape id="Picture_x0020_25"
+   o:spid="_x0000_s1028" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/sufal%231.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:145.45pt;
+   height:35.3pt;z-index:251681792;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image047.png" o:title="sufal%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=194 height=47
+  src="smid_db%20classes-fs_files/image048.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/sufal%231.png" v:shapes="Picture_x0020_25"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>tsas<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>t</u></i>yramine
+  <i style='mso-bidi-font-style:normal'><u>s</u></i>uccinate <i
+  style='mso-bidi-font-style:normal'><u>as</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_26"
+   o:spid="_x0000_s1027" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/tsas%239.png"
+   style='position:absolute;margin-left:.1pt;margin-top:0;width:158.4pt;
+   height:136.1pt;z-index:251682816;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image049.png" o:title="tsas%239"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=211 height=181
+  src="smid_db%20classes-fs_files/image050.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/tsas%239.png" v:shapes="Picture_x0020_26"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>tsas#9<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26;mso-yfti-lastrow:yes'>
+  <td width=186 valign=top style='width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt'>ubas<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><i style='mso-bidi-font-style:normal'><u>u</u></i>reidoiso<i
+  style='mso-bidi-font-style:normal'><u>b</u></i>utyric acid <i
+  style='mso-bidi-font-style:normal'><u>as</u></i>caroside</p>
+  </td>
+  <td width=476 valign=top style='width:356.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  18.0pt;mso-line-height-rule:exactly'><!--[if gte vml 1]><v:shape id="Picture_x0020_27"
+   o:spid="_x0000_s1026" type="#_x0000_t75" alt="http://www.smid-db.org/static/structures/ubas%231.png"
+   style='position:absolute;margin-left:-5.15pt;margin-top:0;width:197.3pt;
+   height:113.75pt;z-index:251683840;visibility:visible;mso-wrap-style:square;
+   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+   mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+   mso-position-vertical-relative:text;mso-width-percent:0;
+   mso-height-percent:0;mso-width-relative:margin;mso-height-relative:margin'>
+   <v:imagedata src="smid_db%20classes-fs_files/image051.png" o:title="ubas%231"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=263 height=152
+  src="smid_db%20classes-fs_files/image052.png" align=left hspace=12
+  alt="http://www.smid-db.org/static/structures/ubas%231.png" v:shapes="Picture_x0020_27"><![endif]><span
+  style='mso-no-proof:yes'><b style='mso-bidi-font-weight:normal'>ubas#1<o:p></o:p></b></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+18.0pt;mso-line-height-rule:exactly'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
