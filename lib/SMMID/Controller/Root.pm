@@ -64,7 +64,7 @@ sub smidclasses :Path('/smidclasses') :Args(0) {
     my ($self, $c) = @_;
 }
 
-sub smidclasses :Path('/smidclasses-2') :Args(0) {
+sub smidclasses :Path('/test') :Args(0) {
     my ($self, $c) = @_;
 }
 
