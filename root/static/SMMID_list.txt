@@ -5815,7 +5815,7 @@ CHEMICAL NAME: 14-hydroxy-2-methyltetradecan-6-yl hydrogen sulfate
 SYNONYMS: none
 MOLECULAR FORMULA: C15H32O5S
 MOLECULAR WEIGHT: 324.47600
-CAS: test
+CAS: TBD
 
 CONCISE SUMMARY: Found in <i>P. pacificus</i>.
 
