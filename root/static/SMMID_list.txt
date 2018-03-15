@@ -5955,3 +5955,357 @@ MOLECULAR FORMULA: C24H35NO12
 MOLECULAR WEIGHT: 529.53900
 CAS: TBD
 CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: ascr#69
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,4S,5S,6R)-2-(((2R,3R,5R,6S)-5-hydroxy-2-(((2R)-5-hydroxyhexan-2-yl)oxy)-6-methyltetrahydro-2H-pyran-3-yl)oxy)-6-(hydroxymethyl)tetrahydro-2H-pyran-3,4,5-triol
+MOLECULAR FORMULA: C18H34O10
+MOLECULAR WEIGHT: 410.46000
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: ascr#81
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (4-((R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enamido)benzoyl)-L-glutamic acid
+MOLECULAR FORMULA: C25H34N2O10
+MOLECULAR WEIGHT: 522.55100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: ascr#82
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (4-((6R,E)-6-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enamido)benzoyl)-L-glutamyl-L-glutamic acid
+MOLECULAR FORMULA: C30H41N3O13
+MOLECULAR WEIGHT: 651.66600
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: bhas#9
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (4R)-4-(((2S,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)-3-hydroxypentanoic acid
+MOLECULAR FORMULA: C11H20O7
+MOLECULAR WEIGHT: 264.27400
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: bkas#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)-3-oxoheptanoic acid
+MOLECULAR FORMULA: C13H22O7
+MOLECULAR WEIGHT: 290.31200
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#2
+
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-2-methyl-6-(((R)-5-oxohexan-2-yl)oxy)tetrahydro-2H-pyran-3-yl 4-(((R)-2-(4-hydroxyphenyl)-2-(((2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C30H45NO14
+MOLECULAR WEIGHT: 643.68300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#9
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-(4-hydroxyphenyl)-2-(((2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+MOLECULAR FORMULA: C29H43NO15
+MOLECULAR WEIGHT: 645.65500
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#10
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-8-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-(4-hydroxyphenyl)-2-(((2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)nonanoic acid
+MOLECULAR FORMULA: C33H51NO15
+MOLECULAR WEIGHT: 701.76300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#21
+
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,5R,6R)-2-methyl-6-(((R)-5-oxohexan-2-yl)oxy)-5-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)tetrahydro-2H-pyran-3-yl 4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C30H45NO14
+MOLECULAR WEIGHT: 643.68300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#91
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyl-3-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)tetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+MOLECULAR FORMULA: C29H43NO15
+MOLECULAR WEIGHT: 645.65500
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#101
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-8-(((2R,3R,5R,6S)-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyl-3-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)tetrahydro-2H-pyran-2-yl)oxy)nonanoic acid
+MOLECULAR FORMULA: C33H51NO15
+MOLECULAR WEIGHT: 701.76300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: hbas#9
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-hydroxybenzoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+MOLECULAR FORMULA: C18H24O8
+MOLECULAR WEIGHT: 368.38200
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: hbas#13
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-5-((4-hydroxybenzoyl)oxy)-6-methyl-3-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)tetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+MOLECULAR FORMULA: C24H34O13
+MOLECULAR WEIGHT: 530.52300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: iglas#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-(1H-indol-1-yl)tetrahydro-2H-pyran-2-yl)methyl (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoate
+MOLECULAR FORMULA: C27H39NO10
+MOLECULAR WEIGHT: 537.60600
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: iglas#2
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3R,4S,5R,6R)-3,5-dihydroxy-6-(1H-indol-1-yl)-4-(phosphonooxy)tetrahydro-2H-pyran-2-yl)methyl (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoate
+MOLECULAR FORMULA: C27H40NO13P
+MOLECULAR WEIGHT: 617.58476
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: iglas#3
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-(1H-indol-1-yl)tetrahydro-2H-pyran-2-yl)methyl (R,E)-8-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoate
+MOLECULAR FORMULA: C29H41NO10
+MOLECULAR WEIGHT: 563.64400
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: iglas#7
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-(1H-indol-1-yl)tetrahydro-2H-pyran-2-yl)methyl (R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoate
+MOLECULAR FORMULA: C27H37NO10
+MOLECULAR WEIGHT: 535.59000
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: npar#4
+ORGANISM: <i> P. pacificus </i>
+SYNONYMS: none
+CHEMICAL NAME: O-((4R)-4-(((2R,3S,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)-N-((2-(methylthio)-9-((2R,3S,4S,5R)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)-9H-purin-6-yl)carbamoyl)-L-threonine
+MOLECULAR FORMULA: C27H40N6O13S
+MOLECULAR WEIGHT: 688.70600
+CAS: TBD
+CONCISE SUMMARY: Found in <i> P. pacificus </i>.
+
+SMMID: nuclas#31
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2R,5R)-5-(6-(dimethylamino)-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)tetrahydrofuran-3-yl (8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoate
+MOLECULAR FORMULA: C27H41N5O9
+MOLECULAR WEIGHT: 579.65100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#32
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2R,4S,5R)-2-(6-(dimethylamino)-9H-purin-9-yl)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-3-yl (8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoate
+MOLECULAR FORMULA: C27H41N5O9
+MOLECULAR WEIGHT: 579.65100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#33
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((9-((2R,5R)-4-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-3-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-threonine
+MOLECULAR FORMULA: C30H44N6O13
+MOLECULAR WEIGHT: 696.71100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#34
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((9-((2R,4S,5R)-3-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-threonine
+MOLECULAR FORMULA: C30H44N6O13
+MOLECULAR WEIGHT: 696.71100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#35
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((9-((2R,5R)-4-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-3-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-aspartic acid
+MOLECULAR FORMULA: C30H42N6O14
+MOLECULAR WEIGHT: 710.69400
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#36
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((9-((2R,4S,5R)-3-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-aspartic acid
+MOLECULAR FORMULA: C30H42N6O14
+MOLECULAR WEIGHT: 710.69400
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#71
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2R,3S,4R,5R)-5-(6-(dimethylamino)-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)tetrahydrofuran-3-yl (R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoate
+MOLECULAR FORMULA: C25H37N5O9
+MOLECULAR WEIGHT: 551.59700
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-6-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoic acid
+MOLECULAR FORMULA: C25H37NO10
+MOLECULAR WEIGHT: 511.56800
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#7
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R,E)-6-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoic acid
+MOLECULAR FORMULA: C25H35NO10
+MOLECULAR WEIGHT: 509.55200
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#13
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-6-(((2R)-5-((2-((hydroxy(2-hydroxy-3-(((2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)propoxy)phosphoryl)oxy)ethyl)amino)-5-oxopentan-2-yl)oxy)-2-methyltetrahydro-2H-pyran-3-yl 4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C34H55N2O20P
+MOLECULAR WEIGHT: 842.78176
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#15
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: N/A
+MOLECULAR FORMULA: C27H40N2O11
+MOLECULAR WEIGHT: 568.62000
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#24
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (6R)-3-hydroxy-6-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoic acid
+MOLECULAR FORMULA: C25H37NO11
+MOLECULAR WEIGHT: 527.56700
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#91
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-6-(((R)-5-((2-hydroxyethyl)amino)-5-oxopentan-2-yl)oxy)-2-methyltetrahydro-2H-pyran-3-yl 4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C25H38N2O10
+MOLECULAR WEIGHT: 526.58300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#92
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (3R,6R)-6-(((2R)-5-((2-(((2,3-dihydroxypropoxy)(hydroxy)phosphoryl)oxy)ethyl)amino)-5-oxopentan-2-yl)oxy)-5-hydroxy-2-methyltetrahydro-2H-pyran-3-yl 4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C28H45N2O15P
+MOLECULAR WEIGHT: 680.64076
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: paso#9
+ORGANISM: <i> P. pacificus </i>
+SYNONYMS: none
+CHEMICAL NAME: 2-(4-(((2R)-2-(((4R)-4-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanamido)-3-hydroxybenzoic acid
+MOLECULAR FORMULA: C30H38N2O11
+MOLECULAR WEIGHT: 602.63700
+CAS: TBD
+CONCISE SUMMARY: Found in <i> P. pacificus </i>.
+
+SMMID: pugl#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(6-((3-methylbut-2-en-1-yl)amino)-2-(methylthio)-9H-purin-9-yl)tetrahydro-2H-pyran-3,4,5-triol
+MOLECULAR FORMULA: C17H25N5O5S
+MOLECULAR WEIGHT: 411.47700
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: puglas#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-(6-((3-methylbut-2-en-1-yl)amino)-2-(methylthio)-9H-purin-9-yl)tetrahydro-2H-pyran-2-yl)methyl (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoate
+MOLECULAR FORMULA: C30H47N5O10S
+MOLECULAR WEIGHT: 669.79100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#36
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((9-((2R,4S,5R)-3-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-aspartic acid
+MOLECULAR FORMULA: C30H42N6O14
+MOLECULAR WEIGHT: 710.69400
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: uglas#11
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3R,4S,5R,6R)-3,5-dihydroxy-4-(phosphonooxy)-6-(2,6,8-trioxo-1,2,3,6,7,8-hexahydro-9H-purin-9-yl)tetrahydro-2H-pyran-2-yl)methyl (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoate
+MOLECULAR FORMULA: C24H37N4O16P
+MOLECULAR WEIGHT: 668.54576
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: uglas#31
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3R,4S,5R,6R)-3,5-dihydroxy-4-(phosphonooxy)-6-(2,6,8-trioxo-1,2,3,6,7,8-hexahydro-9H-purin-9-yl)tetrahydro-2H-pyran-2-yl)methyl (R,E)-8-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoate
+MOLECULAR FORMULA: C26H39N4O16P
+MOLECULAR WEIGHT: 694.58376
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: uglas#71
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3R,4S,5R,6R)-3,5-dihydroxy-4-(phosphonooxy)-6-(2,6,8-trioxo-1,2,3,6,7,8-hexahydro-9H-purin-9-yl)tetrahydro-2H-pyran-2-yl)methyl (R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoate
+MOLECULAR FORMULA: C24H35N4O16P
+MOLECULAR WEIGHT: 666.52976
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
