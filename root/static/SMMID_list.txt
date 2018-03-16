@@ -6159,20 +6159,22 @@ CONCISE SUMMARY: Found in <i> C. elegans </i>.
 SMMID: nuclas#35
 ORGANISM: <i>C. elegans</i>
 SYNONYMS: none
-CHEMICAL NAME: ((9-((2R,5R)-4-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-3-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-aspartic acid
-MOLECULAR FORMULA: C30H42N6O14
-MOLECULAR WEIGHT: 710.69400
+CHEMICAL NAME: (9-((2R,3R,4S,5R)-4-(((R,E)-8-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-3-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)-L-aspartic acid
+MOLECULAR FORMULA: C29H41N5O13
+MOLECULAR WEIGHT: 667.66900
 CAS: TBD
 CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
 
 SMMID: nuclas#36
 ORGANISM: <i>C. elegans</i>
 SYNONYMS: none
-CHEMICAL NAME: ((9-((2R,4S,5R)-3-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-aspartic acid
-MOLECULAR FORMULA: C30H42N6O14
-MOLECULAR WEIGHT: 710.69400
+CHEMICAL NAME: (9-((2R,3R,4R,5R)-3-(((R,E)-8-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)-L-aspartic acid
+MOLECULAR FORMULA: C29H41N5O13
+MOLECULAR WEIGHT: 667.66900
 CAS: TBD
 CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
 
 SMMID: nuclas#71
 ORGANISM: <i>C. elegans</i>
