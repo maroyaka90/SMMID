@@ -1,0 +1,6313 @@
+SMMID: 
+ORGANISM:
+CHEMICAL NAME:
+SYNONYMS: 
+CONCISE SUMMARY:
+MOLECULAR FORMULA: 
+MOLECULAR WEIGHT: 
+CAS#:
+CONCISE SUMMARY:	
+BIOSYNTHESIS:
+RECEPTORS:
+REFERENCES:
+
+SMMID: ascr#1
+
+ORGANISM: <i>C. elegans, P. pacificus, P. redivivus</i>
+
+CHEMICAL NAME: (-)-6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)heptanoic acid
+
+SYNONYMS: "C7"; daumone-1
+MOLECULAR FORMULA: C13H24O6
+MOLECULAR WEIGHT: 276.33
+CAS: 690991-47-0
+
+CONCISE SUMMARY:  Dauer inducing in <i> C. elegans</i>. Produced by female <i>P. redivivus</i>.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00013284#01-9d4-6
+(DHS-28) 
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS:
+(SRBC-64)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00021477#01-9d4-6
+(SRBC-66)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00020746#01-9d4-6
+
+
+
+
+REFERENCES:
+(Jeong, Jung et al. 2005) 
+http://www.ncbi.nlm.nih.gov/pubmed/15690045
+(Guo and O'Doherty 2005) 
+http://www.ncbi.nlm.nih.gov/pubmed/16119932
+(Jung and Paik 2005) 
+http://v3.espacenet.com/publicationDetails/biblio?DB=EPODOC&adjacent=true&locale=en_ep&FT=D&date=20050818&CC=WO&NR=2005075491A1&KC=A1 
+(Schroeder 2006) 
+http://www.ncbi.nlm.nih.gov/pubmed/17163670
+(Butcher, Fujita et al. 2007) 
+http://www.ncbi.nlm.nih.gov/pubmed/17558398
+(Butcher, Ragains et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18791072
+(Baiga 2008) 
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2692194 
+(Butcher, Ragains et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19545143
+(Jeong, Na et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19381582
+(Joo, Yim et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19496754
+(Gallo and Riddle 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19190963 
+(Kim, Sato et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19797623 
+(Jung, Lee et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19342127 
+(Martin, Schafer et al. 2009) 
+https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+(Lee, Kim et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/19940149 
+(Joo, Kim et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20610393 
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(La Clair 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20422068 
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+(Kaplan, Srinivasan et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21423575
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166
+(Noh, Park et al. 2011)
+http://www.sciencedirect.com/science/article/pii/S0731708511002068
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Izrayelit et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22662967
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+
+
+SMMID: ascr#2
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (-)-5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2’-yloxy)-2-hexanone
+
+SYNONYMS: "C6"; daumone-2
+MOLECULAR FORMULA: C12H22O5
+MOLECULAR WEIGHT: 246.30
+EXACT MASS: 246.14672
+CAS: 946524-24-9
+
+CONCISE SUMMARY: Dauer inducing, male attractant, synergizes with ascr#3, ascr#4, and ascr#8 in male attraction.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS:
+(SRBC-64)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00021477#01-9d4-6
+(SRBC-66)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00020746#01-9d4-6
+
+
+
+REFERENCES:
+(Butcher, Fujita et al. 2007) 
+http://www.ncbi.nlm.nih.gov/pubmed/17558398
+(Butcher, Ragains et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18791072
+(Srinivasan, Kaplan et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18650807
+(Macosko, Pokala et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19349961 
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+(Butcher, Ragains et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19545143
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(Pungaliya, Srinivasan et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493 
+(Joo, Yim et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19496754
+(Martin, Schafer et al. 2009) 
+https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
+(Kim, Sato et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19797623
+(Kaplan, Badri et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19649780 
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(Yamada, Hirotsu et al. 2010)
+http://www.ncbi.nlm.nih.gov/pubmed/20929849
+(Prince, Pohnert 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/19813005
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+(Lesch and Bargmann 2010)
+http://www.ncbi.nlm.nih.gov/pubmed/20713521
+(McGrath, Xu et al. 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21849976
+(Kaplan, Srinivasan et al. 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21423575
+(Chung, Zhan et al. 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21935539
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Park et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Jang, Kim et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22920251
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+
+SMMID: ascr#3
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (-)-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
+
+SYNONYMS: "C9"; daumone-3
+MOLECULAR FORMULA: C15H26O6
+MOLECULAR WEIGHT: 302.36
+CAS: 946524-26-1
+
+CONCISE SUMMARY: Dauer inducing, male attractant, synergizes with ascr#2, ascr#4, and ascr#8 in male attraction.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: 
+(SRBC-64)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00021477#01-9d4-6
+(SRBC-66)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00020746#01-9d4-6
+
+
+REFERENCES:
+(Butcher, Fujita et al. 2007) 
+http://www.ncbi.nlm.nih.gov/pubmed/17558398
+(Butcher, Ragains et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18791072
+(Srinivasan, Kaplan et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18650807
+(Baiga 2008) 
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2692194 
+(Macosko, Pokala et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19349961 
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+(Pungaliya, Srinivasan et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493 
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(Butcher, Ragains et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19545143 
+(Kim, Sato et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19797623
+(Joo, Yim et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19496754 
+(Kaplan, Badri et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19649780 
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(Yamada, Hirotsu et al. 2010)
+http://www.ncbi.nlm.nih.gov/pubmed/20929849
+(Prince, Pohnert 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/19813005
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+(Lesch and Bargmann 2010)
+http://www.ncbi.nlm.nih.gov/pubmed/20713521
+(La Clair 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20422068 
+(McGrath, Xu et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21849976
+(Kaplan, Srinivasan et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21423575
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166 
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202yascr
+(Park et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Izrayelit et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22662967
+(Jang, Kim et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22920251
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+SMMID: ascr#4
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (-)-5R-(3'-O-[beta-D-glucosyl]-3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2-hexanone
+
+SYNONYMS: none
+MOLECULAR FORMULA: C18H32O10
+MOLECULAR WEIGHT: 408.44
+CAS: 1255514-32-9
+
+CONCISE SUMMARY: Weakly dauer inducing, synergizes with ascr#2, ascr#3, and ascr#8 in male attraction.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+
+RECEPTORS: tbd
+
+
+REFERENCES:
+(Srinivasan, Kaplan et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18650807
+(Pungaliya, Srinivasan et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+(Martin, Schafer et al. 2009) 
+https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
+(Kaplan, Badri et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19649780 
+(Joo, Yim et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19496754 
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418 
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+(Kaplan, Srinivasan et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21423575
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Park et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+
+SMMID: ascr#5
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (-)-3-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-propanoic acid
+
+SYNONYMS: "C3"
+MOLECULAR FORMULA: C9H16O6
+MOLECULAR WEIGHT: 220.22
+CAS: 1086696-26-5
+
+CONCISE SUMMARY:  Dauer inducing, synergizes with ascr#2 and ascr#3.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+
+RECEPTORS:
+(SRG-36)
+http://www.wormbase.org/db/gene/gene?name=WBGene00005193;class=Gene
+(SRG-37)
+http://www.wormbase.org/db/gene/gene?name=WBGene00005194;class=Gene
+
+REFERENCES:
+(Butcher, Ragains et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18791072
+(Macosko, Pokala et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19349961
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+(Butcher, Ragains et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19545143
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(Pungaliya, Srinivasan et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493 
+(Kim, Sato et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19797623 
+(Joo, Yim et al.) 
+http://www.ncbi.nlm.nih.gov/pubmed/19496754 
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+(Lesch and Bargmann 2010)
+http://www.ncbi.nlm.nih.gov/pubmed/20713521
+(McGrath, Xu et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21849976
+(Kaplan, Srinivasan et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21423575
+(Sommer, Ogawa 2011) 
+http://www.ncbi.nlm.nih.gov/pubmed/21959166 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(Park et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Jang, Kim et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22920251
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+SMMID: ascr#6.1
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (-)-5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2R-hexanol
+
+SYNONYMS: none
+MOLECULAR FORMULA: C12H24O5
+MOLECULAR WEIGHT: 248.32
+CAS: 1172120-36-3
+
+CONCISE SUMMARY:  Dauer inducing.
+ 
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+
+RECEPTORS: tbd
+
+
+REFERENCES:
+(Pungaliya, Srinivasan et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(Kaplan, Srinivasan et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21423575
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
+
+SMMID: ascr#6.2
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (-)-5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2S-hexanol
+
+SYNONYMS: none
+MOLECULAR FORMULA: C12H24O5
+MOLECULAR WEIGHT: 248.32
+CAS: 1172120-41-0
+
+CONCISE SUMMARY: Diastereomer of ascr#6.1.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+
+RECEPTORS: tbd
+
+
+REFERENCES:
+(Pungaliya, Srinivasan et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(Kaplan, Srinivasan et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21423575
+
+
+
+
+SMMID: ascr#7
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C13H22O6
+MOLECULAR WEIGHT: 274.31
+CAS: 1139837-37-8
+
+CONCISE SUMMARY: Weakly dauer inducing and weak male attractant.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+
+RECEPTORS: tbd
+
+
+REFERENCES:
+(Pungaliya, Srinivasan et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+(Martin, Schafer et al. 2009) 
+https://www.thieme-connect.de/DOI/DOI?10.1055/s-0029-1216967
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+(La Clair 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20422068 
+(Kaplan, Srinivasan et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21423575
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Park et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
+
+
+
+SMMID: ascr#8
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: N-(6'R-[3''R,5''R-dihydroxy-6''S-methyl-(2H)-tetrahydropyran-2'-yloxy]-2'E-heptenoyl)-4-aminobenzoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H27NO7
+MOLECULAR WEIGHT: 393.43
+CAS: 1172120-40-9
+
+CONCISE SUMMARY:  Dauer inducing, strongly male attracting, synergizes with ascr#2 and ascr#3.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)g
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_eleans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+
+REFERENCES:
+(Pungaliya, Srinivasan et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19346493
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418 
+(Prince, Pohnert 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/19813005
+(Martin, Entchev et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027 
+(Kaplan, Srinivasan et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21423575
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Park et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+
+
+SMMID: icas#9
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (4R)-4-((3,6-dideoxy-4-O-(1H-indol-3-ylcarbonyl)-a-L-arabino-hexopyranosyl)oxy)-pentanoic acid
+
+SYNONYMS: indolecarboxylascaroside C5, "C5"
+MOLECULAR FORMULA: C20H25NO7
+MOLECULAR WEIGHT: 391.42
+CAS: 1173933-40-8
+
+CONCISE SUMMARY:  Dauer inducing (bell-shaped response).
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES:
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19545143
+(Edison 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19665885 
+(McGrath, Xu et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21849976
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Park et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Izrayelit et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22662967
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Kaplan, Alborn et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22701701
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+
+
+
+SMMID: dafa#1
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-1,7-dien-26-oic acid
+
+SYNONYMS: &Delta;1,7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-1,7-dien-26-oic acid; Called dafa#3 <a href="//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract"><b>here</b></a>.
+
+
+MOLECULAR FORMULA: C27H40O3
+MOLECULAR WEIGHT: 412.61
+CAS: 1377666-88-0
+
+CONCISE SUMMARY: Endogenous ligand for DAF-12.
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6
+(DAF-9) 
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16) 
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
+
+RECEPTORS: 
+(DAF-12)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
+
+REFERENCES:
+(Saini, Boland et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22434373
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24411940
+(Judkins, Mahanti et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24453122
+
+SMMID: dafa#2
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-(5a,25S)-3-ketocholest-7-en-26-oic acid
+
+SYNONYMS: &Delta;7-dafachronic acid; (+)-(5a,25S)-3-oxocholest-7-en-26-oic acid; Called dafa#1 <a href="//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract"><b>here</b></a>.
+
+MOLECULAR FORMULA: C27H42O3
+MOLECULAR WEIGHT: 414.62
+CAS: 949004-12-0
+
+CONCISE SUMMARY: Endogenous ligand for DAF-12.
+
+RECEPTORS:
+(DAF-12)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6); 
+(DAF-9)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
+
+
+REFERENCES:
+(Motola, Cummins et al. 2006) 
+http://www.ncbi.nlm.nih.gov/pubmed/16529801 
+(Schroeder 2006) 
+http://www.ncbi.nlm.nih.gov/pubmed/17163670 
+(Beckstead and Thummel 2006) 
+http://www.ncbi.nlm.nih.gov/pubmed/16564008 
+(Gerisch, Rottiers et al. 2007) 
+http://www.ncbi.nlm.nih.gov/pubmed/17360327 
+(Giroux and Corey 2007) 
+http://www.ncbi.nlm.nih.gov/pubmed/17658816 
+(Mangelsdorf, Auchus et al. 2007) 
+http://v3.espacenet.com/publicationDetails/biblio?DB=EPODOC&adjacent=true&locale=en_ep&FT=D&date=20070913&CC=WO&NR=2007103508A2&KC=A2
+(Patel, Fang et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18495818
+(Giroux and Corey 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18247628 
+(Giroux, Bethke et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18642835 
+(Martin, Dabritz et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/19005586 
+(Sharma, Wang et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19196833 
+(Martin, Entchev et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/20135027
+(Wang, Zhou et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19497877
+(Hannich, Entchev et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19531354
+(Ogawa, Streit et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19110431 
+(Bento, Ogawa et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20592728
+(Gioiello, Sabbatini et al. 2011) 
+http://www.sciencedirect.com/science/article/pii/S0040402011000573
+(Schaedel, Gerisch et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22505848
+(Wollam, Magner et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22505847
+(Saini, Boland et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22434373
+(Alvarez, Mañez et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22489014
+(Zhi, Zhou et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22170062
+(Lee and Schroeder 2012)
+http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001307
+(Zhao, Zhang et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/24120638
+(Li, Chen et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/24010904
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24411940
+(Judkins, Mahanti et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24453122
+
+SMMID: dafa#3
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-3a-hydroxy-(5a,25S)-3-ketocholest-7-en-26-oic acid
+
+SYNONYMS: 3a-OH-&Delta;7-dafachronic acid; (+)-3a-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid; Called hyda#1 <a href="//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract"><b>here</b></a>.
+
+MOLECULAR FORMULA: C27H44O3
+MOLECULAR WEIGHT: 416.65
+CAS: tbd
+
+CONCISE SUMMARY: Endogenous ligand for DAF-12. 
+
+RECEPTORS:
+(DAF-12)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6); 
+(DAF-9)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
+
+
+REFERENCES:
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24411940
+(Judkins, Mahanti et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24453122
+
+
+SMMID: dafa#4
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-(25S)-3-ketocholest-4-en-26-oic acid
+
+SYNONYMS: dafachronic acid B; &Delta;4-dafachronic acid; (+)-(25S)-3-oxocholest-4-en-26-oic acid; (+)-3-keto-4-cholestenoic acid; Called dafa#2 <a href="//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract"><b>here</b></a>.
+
+MOLECULAR FORMULA: C27H42O3
+MOLECULAR WEIGHT: 414.62
+CAS: 23017-97-2
+
+CONCISE SUMMARY: Putative endogenous ligand for DAF-12.
+
+RECEPTORS:
+(DAF-12)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000908#01-9d4-6
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6); 
+(DAF-9)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
+
+
+REFERENCES:
+(Motola, Cummins et al. 2006) 
+http://www.ncbi.nlm.nih.gov/pubmed/16529801
+(Schroeder 2006) 
+http://www.ncbi.nlm.nih.gov/pubmed/17163670 
+(Beckstead and Thummel 2006) 
+http://www.ncbi.nlm.nih.gov/pubmed/16564008
+(Gerisch, Rottiers et al. 2007) 
+http://www.ncbi.nlm.nih.gov/pubmed/17360327 
+(Giroux and Corey 2007) 
+http://www.ncbi.nlm.nih.gov/pubmed/17658816 
+(Patel, Fang et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18495818 
+(Giroux and Corey 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18247628 
+(Giroux, Bethke et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/18642835 
+(Martin, Dabritz et al. 2008) 
+http://www.ncbi.nlm.nih.gov/pubmed/19005586 
+(Sharma, Wang et al. 2009) 
+http://www.ncbi.nlm.nih.gov/pubmed/19196833 
+(Wang, Zhou et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19497877
+(Bethke, Fielenbach et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19342589
+(Branicky, Desjardins et al. 2010) 
+http://www.ncbi.nlm.nih.gov/pubmed/20151418
+(Yamawaki, Berman et al. 2010)
+http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000468
+(Dumas, Guo et al. 2010)
+http://www.ncbi.nlm.nih.gov/pubmed/20178781
+(Gioiello, Sabbatini et al. 2011) 
+http://www.sciencedirect.com/science/article/pii/S0040402011000573
+(Wilbrink, Petrusma et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21602385
+(Sommer and Ogawa)
+http://www.ncbi.nlm.nih.gov/pubmed/21959166
+Wollam, Magomedova et al. 2011)
+http://www.ncbi.nlm.nih.gov/pubmed/21749634
+(Schaedel, Gerisch et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22505848
+(Wollam, Magner et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22505847
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24411940
+(Judkins, Mahanti et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24453122
+
+SMMID: dafa#5
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-(25S)-3-ketocholestan-26-oic acid
+
+SYNONYMS: dafachronic acid;&Delta;0-dafachronic acid; (+)-(25S)-3-oxocholestan-26-oic acid; (+)-3-ketocholestanoic acid; Called dafa#4 <a href="//onlinelibrary.wiley.com/doi/10.1002/anie.201307465/abstract"><b>here</b></a>.
+
+MOLECULAR FORMULA: C27H44O3
+MOLECULAR WEIGHT: 416.65
+CAS: 1042719-97-0
+
+CONCISE SUMMARY: Intermediate in DAF-12 ligand biosynthesis present in HSD-1 and DAF-36 mutant worms.
+
+RECEPTORS:
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6); 
+(DAF-9)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
+
+
+REFERENCES:
+(Martin, Däbritz et al. 2008)
+http://pubs.rsc.org/en/content/articlepdf/2008/ob10.1039/b815064h
+(Giroux, Bethke et al. 2008)
+http://www.ncbi.nlm.nih.gov/pubmed/18642835
+(Sharma, Wang et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19196833
+(Martin, Entchev et al. 2009)
+http://onlinelibrary.wiley.com/doi/10.1002/ejoc.200900443/abstract
+(Saini, Boland et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22434373
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24411940
+(Judkins, Mahanti et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24453122
+
+
+
+SMMID: dafa#6
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (+)-3b-hydroxy-(5a,25S)-3-ketocholest-7-en-26-oic acid
+
+SYNONYMS: 3b-OH-&Delta;7-dafachronic acid; (+)-3b-hydroxy-(5a,25S)-3-oxocholest-7-en-26-oic acid
+MOLECULAR FORMULA: C27H44O3
+MOLECULAR WEIGHT: 416.65
+CAS: 1278580-94-1
+
+CONCISE SUMMARY: Intermediate in DAF-12 ligand biosynthesis present in HSD-1 mutant worms.
+
+RECEPTORS:
+
+
+BIOSYNTHESIS: 
+(HSD-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00012394#01-9d4-6); 
+(DAF-9)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000905#01-9d4-6
+(STRM-1)
+http://www.wormbase.org/resources/paper/WBPaper00034639#0--10
+(DHS-16)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000979#01-9d4-6
+(DAF-36)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00007536#01-9d4-6
+
+
+REFERENCES:
+(Gioiello, Sabbatini et al. 2011) 
+http://www.sciencedirect.com/science/article/pii/S0040402011000573
+(Mahanti and Bose et al. 2014)
+http://www.ncbi.nlm.nih.gov/pubmed/24411940
+
+SMMID: ascr#9
+
+ORGANISM: <i>C. elegans, P. pacificus</i>
+
+CHEMICAL NAME: 4R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C11H20O6
+MOLECULAR WEIGHT: 248.27
+CAS: 1186217-42-4
+
+CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES:
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Srinivasan, von Reuss et al. 2012)
+http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+SMMID: ascr#10
+
+ORGANISM: <i>C. elegans, P. redivivus</i>
+
+CHEMICAL NAME: 8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H28O6
+MOLECULAR WEIGHT: 304.38
+CAS: 1355681-08-1
+
+CONCISE SUMMARY: Direct biosynthetic precursor to ascr#3. Absent in <i>daf-22(ok693)</i> and is a major ascaroside detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant <i> C. elegans</i>. Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant <i>C. elegans</i>. Produced by female <i>P. redivivus</i>.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(Izrayelit et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22662967
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+SMMID: ascr#11
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-butanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C10H18O6
+MOLECULAR WEIGHT: 234.25
+CAS: 1355681-41-2
+
+CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. Detected in wild type (N2) worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#12
+
+ORGANISM: <i>C. elegans, P. pacificus</i>
+
+CHEMICAL NAME: 5R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C12H22O6
+MOLECULAR WEIGHT: 262.30
+CAS: 1355681-43-4
+
+CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+SMMID: ascr#13
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 7R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-octenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C14H24O6
+MOLECULAR WEIGHT: 288.34
+CAS: 1355681-45-6
+
+CONCISE SUMMARY: Absent in <i>daf-22(ok693)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+
+SMMID: ascr#14
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 7R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C14H26O6
+MOLECULAR WEIGHT: 290.35
+CAS: 1355681-47-8
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+SMMID: ascr#15
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-decenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C16H28O6
+MOLECULAR WEIGHT: 316.39
+CAS: 1355681-49-0
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#16
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C16H30O6
+MOLECULAR WEIGHT: 318.40
+CAS: 1186217-53-7
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#17
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-undecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C17H30O6
+MOLECULAR WEIGHT: 330.42
+CAS: 1186217-53-7
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#18
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C17H32O6
+MOLECULAR WEIGHT: 332.43
+CAS: 1355681-10-5
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. A major ascaroside detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+SMMID: ascr#19
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-dodecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C18H32O6
+MOLECULAR WEIGHT: 344.44
+CAS: 1355681-55-8
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#20
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C18H34O6
+MOLECULAR WEIGHT: 346.46
+CAS: 1355681-57-0
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+
+SMMID: ascr#21
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME:12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-tridecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C19H34O6
+MOLECULAR WEIGHT: 358.47
+CAS: 1355681-57-0
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and is a major ascaroside detected in <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#22
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C19H36O6
+MOLECULAR WEIGHT: 360.49
+CAS: 1186217-43-5
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+
+SMMID: ascr#23
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-tetradecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H36O6
+MOLECULAR WEIGHT: 372.50
+CAS: 1355681-61-6
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#24
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H38O6
+MOLECULAR WEIGHT: 374.51
+CAS: 1355681-61-6
+
+CONCISE SUMMARY: Detected in <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+
+SMMID: ascr#25
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-pentadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H38O6
+MOLECULAR WEIGHT: 386.52
+CAS: 1355681-15-0
+
+CONCISE SUMMARY: Detected in <i>daf-22(ok693)</i> and <i>dhs-28(hj8)</i> mutant worms. A major ascaroside in <i>maoc-1(hj13)</i> worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+REFERENCES: 
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#26
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H40O6
+MOLECULAR WEIGHT: 388.54
+CAS: 1355681-67-2
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>daf-22(ok693)</i>, <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+
+SMMID: ascr#27
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 15R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-hexadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H40O6
+MOLECULAR WEIGHT: 400.55
+CAS: 1355681-69-4
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#28
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 15R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H42O6
+MOLECULAR WEIGHT: 402.57
+CAS: 1355681-71-8
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. A major ascaroside in <i>daf-22(ok693)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#29
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 16R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H42O6
+MOLECULAR WEIGHT: 414.58
+CAS: 1355681-73-0
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#30
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 16R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H44O6
+MOLECULAR WEIGHT: 416.59
+CAS: 1355681-75-2
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>acox-1(ok2257)</i>, <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#31
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 17R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-octadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H44O6
+MOLECULAR WEIGHT: 428.60
+CAS: 1355681-77-4
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#32
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 17R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H46O6
+MOLECULAR WEIGHT: 430.62
+CAS: 1355681-79-6
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#33
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 18R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H46O6
+MOLECULAR WEIGHT: 442.63
+CAS: 1355681-81-0
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#34
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 18R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H48O6
+MOLECULAR WEIGHT: 444.64
+CAS: 1355681-83-2
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#35
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 19R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-icosenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H48O6
+MOLECULAR WEIGHT: 456.66
+CAS: 1355681-85-4
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#36
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 19R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-icosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H50O6
+MOLECULAR WEIGHT: 458.67
+CAS: 1355681-87-6
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#37
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 20R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-henicosenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H50O6
+MOLECULAR WEIGHT: 470.68
+CAS: 1355681-89-8
+ 
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ascr#38
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 20R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-henicosenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H52O6
+MOLECULAR WEIGHT: 472.70
+CAS: 1355681-91-2
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Is a major ascaroside in <i>daf-22(ok693)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#10
+
+ORGANISM: <i>C. elegans, P. redivivus</i>
+
+CHEMICAL NAME: 3R-hydroxy-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H28O7
+MOLECULAR WEIGHT: 320.38
+CAS: 1355682-49-3
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutants and small amounts in <i>acox-1(ok2257)</i> mutant <i>C. elegans</i>. Produced by female <i>P. redivivus</i>.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+SMMID: bhas#16
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C16H30O7
+MOLECULAR WEIGHT: 334.40
+CAS: 1355682-50-6
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i> mutants. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#18
+
+ORGANISM: <i>C. elegans, P. redivivus</i>
+
+CHEMICAL NAME: 3R-hydroxy-10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C17H32O7
+MOLECULAR WEIGHT: 348.43
+CAS: 1355682-52-8
+
+CONCISE SUMMARY: Detected in wild type (N2) and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant <i>C. elegans</i>. Produced by male <i>P. redivivus</i>.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+SMMID: bhas#20
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C18H34O7
+MOLECULAR WEIGHT: 362.46
+CAS: 1355682-54-0
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#22
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C19H36O7
+MOLECULAR WEIGHT: 376.48
+CAS: 1355681-17-2
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside detected in <i>dhs-28(hj8)</i> mutant worms. Detected in <i>maoc-1(hj13)</i> and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#24
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H38O7
+MOLECULAR WEIGHT: 390.51
+CAS: 1355682-56-2
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#26
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H40O7
+MOLECULAR WEIGHT: 404.54
+CAS: 1355682-58-4
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>dhs-28(hj8)</i> mutant worms. Detected in <i>maoc-1(hj13)</i> and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(Butcher, Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#28
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-15R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H42O7
+MOLECULAR WEIGHT: 418.56
+CAS: 1355682-60-8
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+REFERENCES: 
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#30
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-16R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H44O7
+MOLECULAR WEIGHT: 432.59
+CAS: 1355682-63-1
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. Detected in <i>daf-22(ok693)</i> and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(Butcher Ragains et al. 2009)
+http://www.ncbi.nlm.nih.gov/pubmed/19174521
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#32
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-17R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H46O7
+MOLECULAR WEIGHT: 446.62
+CAS: 1355682-64-2
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#34
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-18R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H48O7
+MOLECULAR WEIGHT: 460.64
+CAS: 1355682-66-4
+
+CONCISE SUMMARY: A major ascaroside detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#36
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-19R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-icosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H50O7
+MOLECULAR WEIGHT: 474.67
+CAS: 1355682-68-6
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. A major ascaroside detected in <i>daf-22(ok693)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#38
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-20R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-henicosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H52O7
+MOLECULAR WEIGHT: 488.70
+CAS: 1355682-70-0
+
+CONCISE SUMMARY: A major ascaroside detected in <i>dhs-28(hj8)</i> and <i>daf-22(ok693)</i> mutant worms. Detected in <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#40
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-21R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-docosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C28H54O7
+MOLECULAR WEIGHT: 502.72
+CAS: tbd
+
+CONCISE SUMMARY: Small amounts detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS:
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhas#42
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-21R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tricosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C29H56O7
+MOLECULAR WEIGHT: 516.75
+CAS: tbd
+
+CONCISE SUMMARY: Small amounts detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#10
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-9-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H28O7
+MOLECULAR WEIGHT: 320.38
+CAS: 1355682-72-2
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#16
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-10-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C16H30O7
+MOLECULAR WEIGHT: 334.40
+CAS: 1355682-73-3
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#18
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-11-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C17H32O7
+MOLECULAR WEIGHT: 348.43
+CAS: 1355682-75-5
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#20
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-12-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C18H34O7
+MOLECULAR WEIGHT: 362.46
+CAS: 1355682-77-7
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#22
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-13-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C19H36O7
+MOLECULAR WEIGHT: 376.48
+CAS: 1355682-79-9
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in <i>dhs-28(hj8)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#24
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-14-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H38O7
+MOLECULAR WEIGHT: 390.51
+CAS:1355682-80-2
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+
+SMMID: bhos#26
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-15-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H40O7
+MOLECULAR WEIGHT: 404.54
+CAS: 1355681-23-0
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#28
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-16-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H42O7
+MOLECULAR WEIGHT: 418.56
+CAS: 1355682-81-3
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#30
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-17-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H44O7
+MOLECULAR WEIGHT: 432.59
+CAS: 1355682-83-5
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#32
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-18-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H46O7
+MOLECULAR WEIGHT: 446.62
+CAS: 1413439-62-9
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#34
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-19-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H48O7
+MOLECULAR WEIGHT: 460.64
+CAS: 1355682-87-9
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#36
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-20-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-icosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H50O7
+MOLECULAR WEIGHT: 474.67
+CAS: 1355682-89-1
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+
+SMMID: bhos#38
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-21-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-henicosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H52O7
+MOLECULAR WEIGHT: 488.70
+CAS: 1355682-91-5
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: bhos#40
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-22-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-docosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C28H54O7
+MOLECULAR WEIGHT: 502.72
+CAS: tbd
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1w021/ja210202y
+
+SMMID: bhos#42
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-22-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tricosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C29H56O7
+MOLECULAR WEIGHT: 516.75
+CAS: tbd
+
+CONCISE SUMMARY: Detected in dhs-28(hj8), <i>daf-22(ok693)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibha#10
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-8R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H33NO8
+MOLECULAR WEIGHT: 463.52
+CAS: 1355683-20-3
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibha#16
+
+CHEMICAL NAME: 3R-hydroxy-9R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H35NO8
+MOLECULAR WEIGHT: 477.55
+CAS: 1355683-39-4
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibha#18
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-10R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H37NO8
+MOLECULAR WEIGHT: 491.57
+CAS: 1355683-24-7
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibha#20
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-11R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H39NO8
+MOLECULAR WEIGHT: 505.60
+CAS: 1355683-26-9
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibha#22
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-12R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C28H41NO8
+MOLECULAR WEIGHT: 519.63
+CAS: 1355683-28-1
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene 
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibha#24
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-13R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C29H43NO8
+MOLECULAR WEIGHT: 533.65
+CAS: 1355683-30-5
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibha#26
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-14R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C30H45NO8
+MOLECULAR WEIGHT: 547.68
+CAS: 1355683-32-7
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibha#28
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-15R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C31H47NO8
+MOLECULAR WEIGHT: 561.71
+CAS: 1355683-34-9
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibha#30
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-16R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C32H49NO8
+MOLECULAR WEIGHT: 575.73
+CAS: 1355683-37-2
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibho#10
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-9-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H33NO8
+MOLECULAR WEIGHT: 463.52
+CAS: 1355683-38-3
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: (DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibho#16
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-10-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H35NO8
+MOLECULAR WEIGHT: 477.55
+CAS: 1355683-39-4
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibho#18
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-11-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
+
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H37NO8
+MOLECULAR WEIGHT: 491.57
+CAS: 1355683-41-8
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibho#20
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-12-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
+
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H39NO8
+MOLECULAR WEIGHT: 505.60
+CAS: 1355683-43-0
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibho#22
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-13-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
+
+
+SYNONYMS: none
+MOLECULAR FORMULA: C28H41NO8
+MOLECULAR WEIGHT: 519.63
+CAS: 1355683-45-2
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibho#24
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-14-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C29H43NO8
+MOLECULAR WEIGHT: 533.65
+CAS: 1355683-47-4
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: ibho#26
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 3R-hydroxy-15-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C30H45NO8
+MOLECULAR WEIGHT: 547.68
+CAS: 1355683-49-6
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#1
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 6R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H29NO7
+MOLECULAR WEIGHT: 419.47
+CAS: 1355681-28-5
+
+CONCISE SUMMARY: Detected in wild type (N2) worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+
+SMMID: icas#2
+
+ORGANISM: <i>C. briggsae</i>
+
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-2-methyl-6-(((R)-5-oxohexan-2-yl)oxy)tetrahydro-2H-pyran-3-yl 1H-indole-3-carboxylate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H27NO6
+MOLECULAR WEIGHT: 389.44800
+EXACT MASS: 389.18384
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>C. briggsae</i>.
+
+SMMID: iglu#1
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(1H-indol-1-yl)tetrahydro-2H-pyran-3,4,5-triol
+
+SYNONYMS: none
+MOLECULAR FORMULA: C14H17NO5
+MOLECULAR WEIGHT: 279.29200
+EXACT MASS: 279.11067
+CAS: TBD
+
+SMMID: iglu#2
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (2R,3R,4S,5R,6R)-3,5-dihydroxy-2-(hydroxymethyl)-6-(1H-indol-1-yl)tetrahydro-2H-pyran-4-yl dihydrogen phosphate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C14H18NO8P
+MOLECULAR WEIGHT: 359.27076
+EXACT MASS: 359.07700
+CAS: TBD
+
+SMMID: angl#1
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl 2-aminobenzoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C13H17NO7
+MOLECULAR WEIGHT: 299.27900
+EXACT MASS: 299.10050
+CAS: TBD
+
+SMMID: angl#2
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (2S,3R,4S,5R,6R)-3,5-dihydroxy-6-(hydroxymethyl)-4-(phosphonooxy)tetrahydro-2H-pyran-2-yl 2-aminobenzoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C13H18NO10P
+MOLECULAR WEIGHT: 379.25776
+EXACT MASS: 379.06683
+CAS: TBD
+
+SMMID: icas#3
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H31NO7
+MOLECULAR WEIGHT: 445.50
+CAS: 1355681-39-8
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(Park et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22665789
+(Izrayelit et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22662967
+
+SMMID: icas#6.1
+
+ORGANISM: <i>C. briggsae</i>
+
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-6-(((2R,5R)-5-hydroxyhexan-2-yl)oxy)-2-methyltetrahydro-2H-pyran-3-yl 1H-indole-3-carboxylate
+SYNONYMS: none
+MOLECULAR FORMULA: C21H29NO6
+MOLECULAR WEIGHT: 391.46400
+EXACT MASS: 391.19949
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>C. briggsae</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: icas#6.2
+
+ORGANISM: <i>C. briggsae</i>
+
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-6-(((2R,5S)-5-hydroxyhexan-2-yl)oxy)-2-methyltetrahydro-2H-pyran-3-yl 1H-indole-3-carboxylate
+SYNONYMS: none
+MOLECULAR FORMULA: C21H29NO6
+MOLECULAR WEIGHT: 391.46400
+EXACT MASS: 391.19949
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>C. briggsae</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: icas#7
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 6R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H27NO7
+MOLECULAR WEIGHT: 417.45
+CAS: 1355682-94-8
+
+CONCISE SUMMARY: Detected in wild type (N2) worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Srinivasan, von Reuss et al. 2012)
+http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001237
+
+SMMID: icas#10
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H33NO7
+MOLECULAR WEIGHT: 447.52
+CAS: 1355681-30-9
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Srinivasan, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22253572
+(Izrayelit et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22662967
+
+SMMID: icas#12
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 5R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H27NO7
+MOLECULAR WEIGHT: 405.44
+CAS: 1355682-92-6
+
+CONCISE SUMMARY: Detected in wild type (N2) worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#14
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 7R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H31NO7
+MOLECULAR WEIGHT: 433.49
+CAS: 1355682-96-0
+
+CONCISE SUMMARY: Detected in wild type (N2) worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#15
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 9R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-decenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H33NO7
+MOLECULAR WEIGHT: 459.53
+CAS: 1355682-99-3
+
+CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#16
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 9R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H35NO7
+MOLECULAR WEIGHT: 461.55
+CAS: 1355683-01-0
+
+CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#17
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 10R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-undecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H35NO7
+MOLECULAR WEIGHT: 473.56
+CAS: 1355683-03-2
+
+CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#18
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 10R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H37NO7
+MOLECULAR WEIGHT: 475.57
+CAS: 1355683-05-4
+
+CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#19
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 11R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-dodecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H37NO7
+MOLECULAR WEIGHT: 487.59
+CAS: 1355683-08-7
+
+CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#20
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 11R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H39NO7
+MOLECULAR WEIGHT: 489.60
+CAS: 1355683-09-8
+
+CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+(http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6);
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#21
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 12R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C28H39NO7
+MOLECULAR WEIGHT: 501.61
+CAS: 1355683-10-1
+
+CONCISE SUMMARY: Detected in dhs28(hj8) and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icas#22
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 12R-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C28H41NO7
+MOLECULAR WEIGHT: 503.63
+CAS: 1355683-11-2
+
+CONCISE SUMMARY: Detected in dhs28(hj8), <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icos#1
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 7-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H29NO7
+MOLECULAR WEIGHT: 419.47
+CAS: 1355681-32-1
+
+CONCISE SUMMARY: Detected in wild type (N2) worms.
+
+BIOSYNTHESIS:
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icos#3
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 9-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H31NO7
+MOLECULAR WEIGHT: 445.21
+CAS: 1355683-12-3
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+
+SMMID: icos#9
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 5-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H25NO7
+MOLECULAR WEIGHT: 391.42
+CAS: 1355681-34-3
+
+CONCISE SUMMARY: Detected in wild type (N2) worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icos#10
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 9-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H33NO7
+MOLECULAR WEIGHT: 447.52
+CAS: 1355681-35-4
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icos#15
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 10-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-decenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H33NO7
+MOLECULAR WEIGHT: 459.22
+CAS: 1355683-13-4
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icos#16
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 10-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H35NO7
+MOLECULAR WEIGHT: 461.55
+CAS: 1355683-15-6
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: icos#17
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 11-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-undecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H35NO7
+MOLECULAR WEIGHT: 473.56
+CAS: 1355683-16-7
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+DAF-22; (http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene); 
+DHS-28; (http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6);
+ACOX-1;
+(http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6);
+MAOC-1;
+(http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6);
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+
+SMMID: icos#18
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 11-(3'R-hydroxy-5'R-O-(1H-indol-3-ylcarbonyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H37NO7
+MOLECULAR WEIGHT: 475.57
+CAS: 1355683-18-9
+
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>acox-1(ok2257)</i>, and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+DAF-22
+(http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene)
+DHS-28
+(http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6)
+ACOX-1
+(http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6)
+MAOC-1
+(http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6)
+
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#1
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 7-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C13H24O6
+MOLECULAR WEIGHT: 276.33
+CAS: 1355681-97-8
+
+CONCISE SUMMARY: Detected in wild type (N2) and <i>acox-1(ok2257)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#3
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 9-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H26O6
+MOLECULAR WEIGHT: 302.36
+CAS: 1355682-01-7
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and small amounts detected in <i>acox-1(ok2257)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#7
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 7-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C13H22O6
+MOLECULAR WEIGHT: 274.31
+CAS: 1355681-95-6
+
+CONCISE SUMMARY: tbd
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#9
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 5-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C11H20O6
+MOLECULAR WEIGHT: 248.27
+CAS: 1355681-20-7
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS:
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+SMMID: oscr#10
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 9-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H28O6
+MOLECULAR WEIGHT: 304.38
+CAS: 1355681-22-9
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms. Also detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+
+SMMID: oscr#12
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 6-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C12H22O6
+MOLECULAR WEIGHT: 262.30
+CAS: 1355681-93-4
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+
+SMMID: oscr#14
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 8-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C14H26O6
+MOLECULAR WEIGHT: 290.35
+CAS: 1355681-99-0
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms. 
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+
+SMMID: oscr#15
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 10-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-decenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C16H28O6
+MOLECULAR WEIGHT: 316.39
+CAS: 1355682-03-9
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#16
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 10-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C16H30O6
+MOLECULAR WEIGHT: 318.40
+CAS: 1355682-05-1
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i>, <i>maoc-1(hj13)</i>, and <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#17
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 11-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-undecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C17H30O6
+MOLECULAR WEIGHT: 330.42
+CAS: 1355682-05-1
+
+CONCISE SUMMARY: Detected in <i>dhs-28(hj8)</i> and <i>maoc-1(hj13)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#18
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 11-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C17H32O6
+MOLECULAR WEIGHT: 332.43
+CAS: 1355682-09-5
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and is a major ascaroside in <i>acox-1(ok2257)</i> mutant worms. Also detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Choe, von Reuss et al. 2012)
+http://www.ncbi.nlm.nih.gov/pubmed/22503501
+
+SMMID: oscr#19
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 12-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-dodecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C18H32O6
+MOLECULAR WEIGHT: 344.44
+CAS: 1355682-11-9
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#20
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 12-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C18H34O6
+MOLECULAR WEIGHT: 346.46
+CAS: 1355682-13-1
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#21
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 13-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-tridecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C19H34O6
+MOLECULAR WEIGHT: 358.47
+CAS: 1355682-13-1
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#22
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 13-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C19H36O6
+MOLECULAR WEIGHT: 360.48
+CAS: 1355682-18-6
+ 
+CONCISE SUMMARY: Detected in wild type (N2) worms and also detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#23
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 14-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-tetradecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H36O6
+MOLECULAR WEIGHT: 372.50
+CAS: 1355682-20-0
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#24
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 14-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H38O6
+MOLECULAR WEIGHT: 374.51
+CAS: 1355682-20-0
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#25
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 15-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-pentadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H38O6
+MOLECULAR WEIGHT: 386.52
+CAS: 1355682-23-3
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#26
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 15-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H40O6
+MOLECULAR WEIGHT: 388.54
+CAS: 1355682-25-5
+
+CONCISE SUMMARY: Detected in wild type (N2) worms and is also detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#27
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 16-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-hexadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H40O6
+MOLECULAR WEIGHT: 400.55
+CAS: 1355682-27-7
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#28
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 16-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-hexadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H42O6
+MOLECULAR WEIGHT: 402.56
+CAS: 1355682-29-9
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#29
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 17-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-heptadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H42O6
+MOLECULAR WEIGHT: 414.58
+CAS: 1355682-31-3
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>,and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#30
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 17-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H44O6
+MOLECULAR WEIGHT: 416.59
+CAS: 1355684-09-1
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i>, <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#31
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 18-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-octadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H44O6
+MOLECULAR WEIGHT: 428.60
+CAS: 1355682-33-5
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#32
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 18-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-octadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H46O6
+MOLECULAR WEIGHT: 430.62
+CAS: 1355682-35-7
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#33
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 19-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonadecenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H46O6
+MOLECULAR WEIGHT: 442.63
+CAS: 1355682-37-9
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
+
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#34
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 19-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonadecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H48O6
+MOLECULAR WEIGHT: 444.64
+CAS: 1355682-39-1
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, <i>acox-1(ok2257)</i> and <i>dhs-28(hj8)</i> mutant worms.
+
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#35
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 20-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-icosenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H48O6
+MOLECULAR WEIGHT: 456.66
+CAS: 1355682-41-5
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
+
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#36
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 20-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-icosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H50O6
+MOLECULAR WEIGHT: 458.67
+CAS: 1355682-43-7
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#37
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 21-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-henicosenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H50O6
+MOLECULAR WEIGHT: 470.68
+CAS: 1355682-45-9
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i> and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: oscr#38
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 21-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-henicosanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H52O6
+MOLECULAR WEIGHT: 472.70
+CAS: 1355682-47-1
+
+CONCISE SUMMARY: Detected in <i>maoc-1(hj13)</i>, <i>daf-22(ok693)</i>, and <i>dhs-28(hj8)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: glas#1
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: beta-D-glucos-1''-yl-6R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-heptanoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C19H34O11
+MOLECULAR WEIGHT: 438.47
+CAS: tbd
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: glas#3
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H36O11
+MOLECULAR WEIGHT: 464.51
+CAS: 1355683-53-2
+
+CONCISE SUMMARY: Detected in acox-1 mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: glas#10
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: beta-D-glucos-1''-yl-8R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonaoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H38O11
+MOLECULAR WEIGHT: 466.52
+CAS: 1355681-37-6
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS:
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: glas#16
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: beta-D-glucos-1''-yl-9R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-decanoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H40O11
+MOLECULAR WEIGHT: 480.55
+CAS: 1355683-55-4
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: glas#18
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: beta-D-glucos-1''-yl-10R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-undecanoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H42O11
+MOLECULAR WEIGHT: 494.58
+CAS: 1355683-57-6
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: glas#20
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: beta-D-glucos-1''-yl-11R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-dodecanoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H44O11
+MOLECULAR WEIGHT: 508.60
+CAS: 1355683-59-8
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: glas#22
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: beta-D-glucos-1''-yl-12R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tridecanoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H46O11
+MOLECULAR WEIGHT: 522.63
+CAS: 1355683-61-2
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: glas#24
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: beta-D-glucos-1''-yl-13R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-tetradecanoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H48O11
+MOLECULAR WEIGHT: 536.66
+CAS: 1355683-63-4
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: glas#26
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: beta-D-glucos-1''-yl-14R-(3'R,5'R-dihydroxy-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-pentadecanoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H50O11
+MOLECULAR WEIGHT: 550.69
+CAS: 1355683-65-6
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> mutant worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: hbas#3
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid 
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H30O8
+MOLECULAR WEIGHT: 422.47
+CAS: 1355681-25-2
+
+CONCISE SUMMARY: Detected in wild type worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+SMMID: hbas#10
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-(4-hydroxybenzoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C22H32O8
+MOLECULAR WEIGHT: 424.49
+CAS: 1355683-67-8
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: mbas#3
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-((E)-2-methyl-2-butenoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-2E-nonenoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H32O7
+MOLECULAR WEIGHT: 384.47
+CAS: 1355681-26-3
+
+CONCISE SUMMARY: Detected in wild type worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: TBD
+
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: mbas#10
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: 8R-(3'R-hydroxy-5'R-O-((E)-2-methyl-2-butenoyl)-6'S-methyl-(2H)-tetrahydropyran-2'-yloxy)-nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C20H34O7
+MOLECULAR WEIGHT: 386.48
+CAS: 1355683-69-0
+
+CONCISE SUMMARY: Detected in <i>acox-1(ok2257)</i> worms.
+
+BIOSYNTHESIS: 
+(DAF-22)
+http://www.wormbase.org/db/gene/gene?name=WBGene00013284;class=Gene
+(DHS-28)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00000991#01-9d4-6
+(ACOX-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00008564#01-9d4-6
+(MAOC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00017123#01-9d4-6
+
+RECEPTORS: tbd
+
+REFERENCES: 
+(von Reuss et al. 2012) 
+http://pubs.acs.org/doi/abs/10.1021/ja210202y
+
+SMMID: dasc#1
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: (R)-6-(((2R,3R,5R,6S)-5-(((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H- pyran-2-yl)oxy)heptanoyl)oxy)-3-hydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H46O11
+MOLECULAR WEIGHT: 534.64
+CAS: 1417721-86-8
+
+CONCISE SUMMARY: Induces eurystomatous mouth form in <i>P. pacificus</i>. 
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+
+SMMID: npar#1
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: (2S,3R)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)-2-(3-(9-((2R,3R,4S,5R)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)-9H-purin-6-yl)ureido)butanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C26H38N6O13
+MOLECULAR WEIGHT: 642.62
+CAS: 1417721-71-1
+
+CONCISE SUMMARY: Strongly dauer inducing in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+
+SMMID: npar#2
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: (2S,3R)-2-(3-(9H-purin-6-yl)ureido)-3-(((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)butanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H30N6O9
+MOLECULAR WEIGHT: 510.50
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>. 
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+
+SMMID: part#9
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: (R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C11H20O6
+MOLECULAR WEIGHT: 248.28
+CAS: 1417721-79-9
+
+CONCISE SUMMARY: Induces dauers in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+SMMID: pasa#9
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 2-(4-(((R)-2-(((R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanamido)benzoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C30H38N2O10
+MOLECULAR WEIGHT: 586.64
+CAS: TBD
+
+SMMID: pasc#1
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 4-(((R)-2-(((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanoic acid 
+
+SYNONYMS: none
+MOLECULAR FORMULA: C25H37NO9
+MOLECULAR WEIGHT: 495.57
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+
+SMMID: pasc#9
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 4-(((R)-2-(((R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanoic acid 
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H33NO9
+MOLECULAR WEIGHT: 467.52
+EXACT MASS: 467.21553
+CAS: 1417721-44-8
+
+CONCISE SUMMARY: Induces eurystomatous mouth form in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+
+SMMID: pasc#12
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 4-(((R)-2-(((R)-5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hexanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanoic acid 
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H35NO9
+MOLECULAR WEIGHT: 481.54
+CAS: 1417721-89-1
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+SMMID: pasy#9
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: (R)-2-(2,5-dioxopyrrolidin-1-yl)-1-phenylethyl (R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H31NO8
+MOLECULAR WEIGHT: 449.50
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: ubas#1
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-((5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)-6-methyl-5-(((R)-2-methyl-3-ureidopropanoyl)oxy)tetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H46N2O13
+MOLECULAR WEIGHT: 606.67
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+
+SMMID: ubas#2
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-(((R)-5-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hexanoyl)oxy)-6-methyl-5-(((R)-2-methyl-3-ureidopropanoyl)oxy)tetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C28H48N2O13
+MOLECULAR WEIGHT: 620.69
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Bose, Ogawa et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23161728
+
+
+SMMID: dhas#18
+
+ORGANISM: <i>P. redivivus</i>
+
+CHEMICAL NAME: (3R,8R,10R)-10-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)-3,8-dihydroxyundecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C17H32O8
+MOLECULAR WEIGHT: 364.44
+CAS: TBD
+
+CONCISE SUMMARY: Produced by male <i>P. redivivus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS:TBD
+
+
+REFERENCES:
+(Choe, Chuman et al. 2012) 
+http://www.ncbi.nlm.nih.gov/pubmed/23213209
+
+
+
+
+SMMID: tsas#9
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-((4-hydroxyphenethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H33NO9
+MOLECULAR WEIGHT: 467.52
+CAS:  1447281-61-9
+
+CONCISE SUMMARY: Detected in <i>tbh-1</i> mutants.
+
+BIOSYNTHESIS:
+(TBH-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006541#01-9d4-6
+
+
+RECEPTORS: TBD
+
+
+REFERENCES: 
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+
+
+SMMID: osas#9
+
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C23H33NO10
+MOLECULAR WEIGHT: 483.51
+CAS:  1447281-59-5
+
+
+CONCISE SUMMARY: Most abundantly produced by starved wild-type L1 larvae. Not produced by <i>tdc-1</i> and <i>tbh-1</i> mutants.
+
+BIOSYNTHESIS: 
+(TBH-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006541#01-9d4-6
+(TDC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006562#01-9d4-6
+
+
+RECEPTORS: TBD
+
+
+REFERENCES: 
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+
+
+
+SMMID: osas#10
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)nonanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C27H41NO10
+MOLECULAR WEIGHT: 539.62
+CAS: 1447281-69-7
+
+CONCISE SUMMARY: Most abundantly produced by fed wild-type L1 larvae. Not produced by <i>tdc-1</i> and <i>tbh-1</i> mutants.
+
+BIOSYNTHESIS: 
+(TBH-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006541#01-9d4-6
+(TDC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006562#01-9d4-6
+
+
+RECEPTORS: TBD
+
+
+REFERENCES: 
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+
+
+
+SMMID: osas#2
+ORGANISM: <i>C. elegans</i>
+
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)-2-hexanone
+
+SYNONYMS: none
+MOLECULAR FORMULA: C24H35NO9
+MOLECULAR WEIGHT: 481.54
+CAS: 1447281-67-5
+
+CONCISE SUMMARY: Detected in smaller and more variable amounts than osas#9 or osas#10. Not produced by <i>tdc-1</i> and <i>tbh-1</i> mutants.
+
+BIOSYNTHESIS: 
+(TBH-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006541#01-9d4-6
+(TDC-1)
+http://www.wormbase.org/species/c_elegans/gene/WBGene00006562#01-9d4-6
+
+
+
+RECEPTORS: TBD
+
+
+REFERENCES: 
+(Artyukhin, Yim et al. 2013)
+http://www.ncbi.nlm.nih.gov/pubmed/23689506
+
+SMMID: sufac#1
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 13-methyl-10-(sulfooxy)tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H30O6S
+MOLECULAR WEIGHT: 328.45900
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: sufal#1
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 14-hydroxy-2-methyltetradecan-5-yl hydrogen sulfate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H32O5S
+MOLECULAR WEIGHT: 324.47600
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: sufal#2
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 14-hydroxy-2-methyltetradecan-6-yl hydrogen sulfate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H32O5S
+MOLECULAR WEIGHT: 324.47600
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: sufal#3
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 13-hydroxy-2-methyltridecan-5-yl hydrogen sulfate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C14H30O5S
+MOLECULAR WEIGHT: 310.44900
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: sufal#4
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 13-hydroxy-2-methyltridecan-6-yl hydrogen sulfate
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H32O5S
+MOLECULAR WEIGHT: 310.44900
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: sufac#2
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: 13-methyl-9-(sulfooxy)tetradecanoic acid
+
+SYNONYMS: none
+MOLECULAR FORMULA: C15H30O6S
+MOLECULAR WEIGHT: 338.45900
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+SMMID: npar#3
+
+ORGANISM: <i>P. pacificus</i>
+
+CHEMICAL NAME: O-((R)-4-(((2R,3S,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)-N-((8-hydroxy-9H-purin-6-yl)carbamoyl)-L-threonine
+
+SYNONYMS: none
+MOLECULAR FORMULA: C21H30N6O10
+MOLECULAR WEIGHT: 526.50300
+CAS: TBD
+
+CONCISE SUMMARY: Found in <i>P. pacificus</i>.
+
+BIOSYNTHESIS:TBD
+
+RECEPTORS: TBD
+
+
+REFERENCES:
+
+SMMID: anglas#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,4S,5S,6R)-6-((((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoyl)oxy)methyl)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl 2-aminobenzoate
+MOLECULAR FORMULA: C26H39NO12
+MOLECULAR WEIGHT: 557.59300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+
+SMMID: anglas#2
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,4S,5R,6R)-6-((((R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoyl)oxy)methyl)-3,5-dihydroxy-4-(phosphonooxy)tetrahydro-2H-pyran-2-yl 2-aminobenzoate
+MOLECULAR FORMULA: C26H40NO15P
+MOLECULAR WEIGHT: 637.57176
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: anglas#3
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,4S,5S,6R)-6-((((R,E)-8-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)methyl)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl 2-aminobenzoate
+MOLECULAR FORMULA: C28H41NO12
+MOLECULAR WEIGHT: 583.63100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: anglas#7
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,4S,5S,6R)-6-((((R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoyl)oxy)methyl)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl 2-aminobenzoate
+MOLECULAR FORMULA: C26H37NO12
+MOLECULAR WEIGHT: 555.57700
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: anglas#9
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,4S,5S,6R)-6-((((R)-4-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)methyl)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl 2-aminobenzoate
+MOLECULAR FORMULA: C24H35NO12
+MOLECULAR WEIGHT: 529.53900
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: ascr#69
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,4S,5S,6R)-2-(((2R,3R,5R,6S)-5-hydroxy-2-(((2R)-5-hydroxyhexan-2-yl)oxy)-6-methyltetrahydro-2H-pyran-3-yl)oxy)-6-(hydroxymethyl)tetrahydro-2H-pyran-3,4,5-triol
+MOLECULAR FORMULA: C18H34O10
+MOLECULAR WEIGHT: 410.46000
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: ascr#81
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (4-((R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enamido)benzoyl)-L-glutamic acid
+MOLECULAR FORMULA: C25H34N2O10
+MOLECULAR WEIGHT: 522.55100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: ascr#82
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (4-((6R,E)-6-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enamido)benzoyl)-L-glutamyl-L-glutamic acid
+MOLECULAR FORMULA: C30H41N3O13
+MOLECULAR WEIGHT: 651.66600
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: bhas#9
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (4R)-4-(((2S,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)-3-hydroxypentanoic acid
+MOLECULAR FORMULA: C11H20O7
+MOLECULAR WEIGHT: 264.27400
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: bkas#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)-3-oxoheptanoic acid
+MOLECULAR FORMULA: C13H22O7
+MOLECULAR WEIGHT: 290.31200
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#2
+
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-2-methyl-6-(((R)-5-oxohexan-2-yl)oxy)tetrahydro-2H-pyran-3-yl 4-(((R)-2-(4-hydroxyphenyl)-2-(((2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C30H45NO14
+MOLECULAR WEIGHT: 643.68300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#9
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-(4-hydroxyphenyl)-2-(((2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+MOLECULAR FORMULA: C29H43NO15
+MOLECULAR WEIGHT: 645.65500
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#10
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-8-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-(4-hydroxyphenyl)-2-(((2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)nonanoic acid
+MOLECULAR FORMULA: C33H51NO15
+MOLECULAR WEIGHT: 701.76300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#21
+
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,5R,6R)-2-methyl-6-(((R)-5-oxohexan-2-yl)oxy)-5-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)tetrahydro-2H-pyran-3-yl 4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C30H45NO14
+MOLECULAR WEIGHT: 643.68300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#91
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyl-3-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)tetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+MOLECULAR FORMULA: C29H43NO15
+MOLECULAR WEIGHT: 645.65500
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: glosas#101
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-8-(((2R,3R,5R,6S)-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyl-3-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)tetrahydro-2H-pyran-2-yl)oxy)nonanoic acid
+MOLECULAR FORMULA: C33H51NO15
+MOLECULAR WEIGHT: 701.76300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: hbas#9
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-3-hydroxy-5-((4-hydroxybenzoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+MOLECULAR FORMULA: C18H24O8
+MOLECULAR WEIGHT: 368.38200
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: hbas#13
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-4-(((2R,3R,5R,6S)-5-((4-hydroxybenzoyl)oxy)-6-methyl-3-(((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)tetrahydro-2H-pyran-2-yl)oxy)pentanoic acid
+MOLECULAR FORMULA: C24H34O13
+MOLECULAR WEIGHT: 530.52300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: iglas#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-(1H-indol-1-yl)tetrahydro-2H-pyran-2-yl)methyl (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoate
+MOLECULAR FORMULA: C27H39NO10
+MOLECULAR WEIGHT: 537.60600
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: iglas#2
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3R,4S,5R,6R)-3,5-dihydroxy-6-(1H-indol-1-yl)-4-(phosphonooxy)tetrahydro-2H-pyran-2-yl)methyl (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoate
+MOLECULAR FORMULA: C27H40NO13P
+MOLECULAR WEIGHT: 617.58476
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: iglas#3
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-(1H-indol-1-yl)tetrahydro-2H-pyran-2-yl)methyl (R,E)-8-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoate
+MOLECULAR FORMULA: C29H41NO10
+MOLECULAR WEIGHT: 563.64400
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: iglas#7
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-(1H-indol-1-yl)tetrahydro-2H-pyran-2-yl)methyl (R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoate
+MOLECULAR FORMULA: C27H37NO10
+MOLECULAR WEIGHT: 535.59000
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: npar#4
+ORGANISM: <i> P. pacificus </i>
+SYNONYMS: none
+CHEMICAL NAME: O-((4R)-4-(((2R,3S,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)-N-((2-(methylthio)-9-((2R,3S,4S,5R)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)-9H-purin-6-yl)carbamoyl)-L-threonine
+MOLECULAR FORMULA: C27H40N6O13S
+MOLECULAR WEIGHT: 688.70600
+CAS: TBD
+CONCISE SUMMARY: Found in <i> P. pacificus </i>.
+
+SMMID: nuclas#31
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2R,5R)-5-(6-(dimethylamino)-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)tetrahydrofuran-3-yl (8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoate
+MOLECULAR FORMULA: C27H41N5O9
+MOLECULAR WEIGHT: 579.65100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#32
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2R,4S,5R)-2-(6-(dimethylamino)-9H-purin-9-yl)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-3-yl (8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoate
+MOLECULAR FORMULA: C27H41N5O9
+MOLECULAR WEIGHT: 579.65100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#33
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((9-((2R,5R)-4-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-3-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-threonine
+MOLECULAR FORMULA: C30H44N6O13
+MOLECULAR WEIGHT: 696.71100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#34
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((9-((2R,4S,5R)-3-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-threonine
+MOLECULAR FORMULA: C30H44N6O13
+MOLECULAR WEIGHT: 696.71100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#35
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (9-((2R,3R,4S,5R)-4-(((R,E)-8-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-3-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)-L-aspartic acid
+MOLECULAR FORMULA: C29H41N5O13
+MOLECULAR WEIGHT: 667.66900
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+
+SMMID: nuclas#36
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (9-((2R,3R,4R,5R)-3-(((R,E)-8-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)-L-aspartic acid
+MOLECULAR FORMULA: C29H41N5O13
+MOLECULAR WEIGHT: 667.66900
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+
+SMMID: nuclas#71
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2R,3S,4R,5R)-5-(6-(dimethylamino)-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)tetrahydrofuran-3-yl (R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoate
+MOLECULAR FORMULA: C25H37N5O9
+MOLECULAR WEIGHT: 551.59700
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R)-6-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoic acid
+MOLECULAR FORMULA: C25H37NO10
+MOLECULAR WEIGHT: 511.56800
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#7
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (R,E)-6-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoic acid
+MOLECULAR FORMULA: C25H35NO10
+MOLECULAR WEIGHT: 509.55200
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#13
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-6-(((2R)-5-((2-((hydroxy(2-hydroxy-3-(((2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)propoxy)phosphoryl)oxy)ethyl)amino)-5-oxopentan-2-yl)oxy)-2-methyltetrahydro-2H-pyran-3-yl 4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C34H55N2O20P
+MOLECULAR WEIGHT: 842.78176
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#15
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: N/A
+MOLECULAR FORMULA: C27H40N2O11
+MOLECULAR WEIGHT: 568.62000
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#24
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (6R)-3-hydroxy-6-(((2R,3R,5R,6S)-3-hydroxy-5-((4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoyl)oxy)-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoic acid
+MOLECULAR FORMULA: C25H37NO11
+MOLECULAR WEIGHT: 527.56700
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#91
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2S,3R,5R,6R)-5-hydroxy-6-(((R)-5-((2-hydroxyethyl)amino)-5-oxopentan-2-yl)oxy)-2-methyltetrahydro-2H-pyran-3-yl 4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C25H38N2O10
+MOLECULAR WEIGHT: 526.58300
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: osas#92
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (3R,6R)-6-(((2R)-5-((2-(((2,3-dihydroxypropoxy)(hydroxy)phosphoryl)oxy)ethyl)amino)-5-oxopentan-2-yl)oxy)-5-hydroxy-2-methyltetrahydro-2H-pyran-3-yl 4-(((R)-2-hydroxy-2-(4-hydroxyphenyl)ethyl)amino)-4-oxobutanoate
+MOLECULAR FORMULA: C28H45N2O15P
+MOLECULAR WEIGHT: 680.64076
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: pasa#9
+ORGANISM: <i> P. pacificus </i>
+SYNONYMS: none
+CHEMICAL NAME: 2-(4-(((2R)-2-(((4R)-4-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)pentanoyl)oxy)-2-phenylethyl)amino)-4-oxobutanamido)-3-hydroxybenzoic acid
+MOLECULAR FORMULA: C30H38N2O11
+MOLECULAR WEIGHT: 602.63700
+CAS: TBD
+CONCISE SUMMARY: Found in <i> P. pacificus </i>.
+
+SMMID: pugl#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: (2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(6-((3-methylbut-2-en-1-yl)amino)-2-(methylthio)-9H-purin-9-yl)tetrahydro-2H-pyran-3,4,5-triol
+MOLECULAR FORMULA: C17H25N5O5S
+MOLECULAR WEIGHT: 411.47700
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: puglas#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-(6-((3-methylbut-2-en-1-yl)amino)-2-(methylthio)-9H-purin-9-yl)tetrahydro-2H-pyran-2-yl)methyl (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoate
+MOLECULAR FORMULA: C30H47N5O10S
+MOLECULAR WEIGHT: 669.79100
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: nuclas#36
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((9-((2R,4S,5R)-3-(((8R,E)-8-(((2R,5R)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoyl)oxy)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-6-yl)carbamoyl)-L-aspartic acid
+MOLECULAR FORMULA: C30H42N6O14
+MOLECULAR WEIGHT: 710.69400
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: uglas#11
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3R,4S,5R,6R)-3,5-dihydroxy-4-(phosphonooxy)-6-(2,6,8-trioxo-1,2,3,6,7,8-hexahydro-9H-purin-9-yl)tetrahydro-2H-pyran-2-yl)methyl (R)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)heptanoate
+MOLECULAR FORMULA: C24H37N4O16P
+MOLECULAR WEIGHT: 668.54576
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: uglas#31
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3R,4S,5R,6R)-3,5-dihydroxy-4-(phosphonooxy)-6-(2,6,8-trioxo-1,2,3,6,7,8-hexahydro-9H-purin-9-yl)tetrahydro-2H-pyran-2-yl)methyl (R,E)-8-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)non-2-enoate
+MOLECULAR FORMULA: C26H39N4O16P
+MOLECULAR WEIGHT: 694.58376
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
+SMMID: uglas#71
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3R,4S,5R,6R)-3,5-dihydroxy-4-(phosphonooxy)-6-(2,6,8-trioxo-1,2,3,6,7,8-hexahydro-9H-purin-9-yl)tetrahydro-2H-pyran-2-yl)methyl (R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoate
+MOLECULAR FORMULA: C24H35N4O16P
+MOLECULAR WEIGHT: 666.52976
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
