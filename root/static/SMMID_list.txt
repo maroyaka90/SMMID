@@ -6298,3 +6298,12 @@ MOLECULAR WEIGHT: 666.52976
 CAS: TBD
 CONCISE SUMMARY: Found in <i> C. elegans </i>.
 
+SMMID: chsr#1
+ORGANISM: <i>C. elegans</i>
+SYNONYMS: none
+CHEMICAL NAME: ((2R,3R,4S,5R,6R)-3,5-dihydroxy-4-(phosphonooxy)-6-(2,6,8-trioxo-1,2,3,6,7,8-hexahydro-9H-purin-9-yl)tetrahydro-2H-pyran-2-yl)methyl (R,E)-6-(((2R,3R,5R,6S)-3,5-dihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)hept-2-enoate
+MOLECULAR FORMULA: C24H35N4O16
+MOLECULAR WEIGHT: 666.52976
+CAS: TBD
+CONCISE SUMMARY: Found in <i> C. elegans </i>.
+
